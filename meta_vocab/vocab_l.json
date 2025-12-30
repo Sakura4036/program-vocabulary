@@ -1,0 +1,199 @@
+{
+  "lambda": [
+    "Lambda",
+    "匿名函数"
+  ],
+  "lambda calculus": [
+    "lambda 演算"
+  ],
+  "LangChain": [
+    "LangChain"
+  ],
+  "LangGraph": [
+    "LangGraph"
+  ],
+  "LangServe": [
+    "LangServe"
+  ],
+  "LangSmith": [
+    "LangSmith"
+  ],
+  "Language For Smart People, LFSP": [
+    "聪明人的语言"
+  ],
+  "larval startup": [
+    "雏形创业公司"
+  ],
+  "laser": [
+    "激光"
+  ],
+  "LaTeX": [
+    "LaTeX"
+  ],
+  "layout": [
+    "版型"
+  ],
+  "lazy": [
+    "惰性"
+  ],
+  "lazy evaluation": [
+    "惰性求值"
+  ],
+  "left outer join": [
+    "左向外联接 (for database)"
+  ],
+  "legacy software": [
+    "历史遗留软件"
+  ],
+  "level": [
+    "层例",
+    "阶"
+  ],
+  "leverage": [
+    "杠杆"
+  ],
+  "lexical": [
+    "词法的"
+  ],
+  "lexical analysis": [
+    "词法分析"
+  ],
+  "lexical closure": [
+    "词法闭包"
+  ],
+  "lexical scope": [
+    "词法作用域"
+  ],
+  "library": [
+    "库"
+  ],
+  "lifetime": [
+    "寿命",
+    "生命期"
+  ],
+  "linear": [
+    "线性"
+  ],
+  "linear iteration": [
+    "线性迭代"
+  ],
+  "Linear Programming": [
+    "线性规划"
+  ],
+  "linear recursion": [
+    "线性递归"
+  ],
+  "link": [
+    "连接",
+    "链接"
+  ],
+  "linkage": [
+    "连接",
+    "链接"
+  ],
+  "linker": [
+    "连接器",
+    "链接器"
+  ],
+  "list": [
+    "列表",
+    "表",
+    "链表"
+  ],
+  "list box": [
+    "列表框"
+  ],
+  "list operation": [
+    "列表操作"
+  ],
+  "literal": [
+    "字面"
+  ],
+  "literal constant": [
+    "字面常数",
+    "字面常量"
+  ],
+  "literal representation": [
+    "字面量"
+  ],
+  "livelock": [
+    "活锁 (for database)"
+  ],
+  "LLaMA": [
+    "LLaMA"
+  ],
+  "Llama 2": [
+    "Llama 2"
+  ],
+  "Llama 3": [
+    "Llama 3"
+  ],
+  "LLM": [
+    "大语言模型"
+  ],
+  "LMM": [
+    "多模态大模型"
+  ],
+  "load": [
+    "加载",
+    "装载"
+  ],
+  "load balancing": [
+    "负载平衡"
+  ],
+  "loader": [
+    "装载器",
+    "载入器"
+  ],
+  "local": [
+    "局部的"
+  ],
+  "local declarations": [
+    "局部声明"
+  ],
+  "local function": [
+    "局部函数"
+  ],
+  "local object": [
+    "局部对象"
+  ],
+  "local variable": [
+    "局部变量"
+  ],
+  "locale": [
+    "区域设置"
+  ],
+  "locality": [
+    "局部性"
+  ],
+  "lock": [
+    "锁"
+  ],
+  "log": [
+    "日志"
+  ],
+  "login": [
+    "登录"
+  ],
+  "lookup table": [
+    "查找表 (for database)"
+  ],
+  "loop": [
+    "循环"
+  ],
+  "loose coupling": [
+    "松散耦合"
+  ],
+  "LoRA": [
+    "低秩自适应"
+  ],
+  "Lua": [
+    "Lua"
+  ],
+  "Lucene": [
+    "Lucene"
+  ],
+  "lvalue": [
+    "左值"
+  ]
+}

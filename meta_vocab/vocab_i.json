@@ -1,0 +1,303 @@
+{
+  "IaaS": [
+    "基础设施即服务"
+  ],
+  "icon": [
+    "图标"
+  ],
+  "identical": [
+    "一致"
+  ],
+  "identifier": [
+    "标识符"
+  ],
+  "identity": [
+    "同一性"
+  ],
+  "IDL (Interface Definition Language)": [
+    "接口定义语言"
+  ],
+  "idle time": [
+    "空闲时间"
+  ],
+  "IL (Intermediate Language)": [
+    "中介语言",
+    "中间语言"
+  ],
+  "ill type": [
+    "类型不正确"
+  ],
+  "illusion": [
+    "错觉"
+  ],
+  "image": [
+    "图像",
+    "图象",
+    "镜像"
+  ],
+  "IME": [
+    "输入法"
+  ],
+  "Imgur": [
+    "Imgur"
+  ],
+  "immediate base": [
+    "直接基类"
+  ],
+  "immediate derived": [
+    "直接派生类"
+  ],
+  "immediate updating": [
+    "即时更新 (for database)"
+  ],
+  "imperative": [
+    "命令式"
+  ],
+  "imperative programming": [
+    "命令式编程"
+  ],
+  "implement": [
+    "实现"
+  ],
+  "implementation": [
+    "实现",
+    "实现品"
+  ],
+  "implicit": [
+    "隐式"
+  ],
+  "import": [
+    "导入"
+  ],
+  "In-context Learning": [
+    "上下文学习"
+  ],
+  "incremental testing": [
+    "增量测试"
+  ],
+  "incremental update": [
+    "增量更新 (for database)"
+  ],
+  "indent": [
+    "缩排"
+  ],
+  "indentation": [
+    "缩排"
+  ],
+  "indented": [
+    "缩排"
+  ],
+  "indention": [
+    "缩排"
+  ],
+  "Independent Set": [
+    "独立集"
+  ],
+  "index": [
+    "索引 (for database)"
+  ],
+  "infer": [
+    "推导"
+  ],
+  "Inference": [
+    "推理"
+  ],
+  "infinite loop": [
+    "无限循环"
+  ],
+  "infinite precision": [
+    "无限精度"
+  ],
+  "infinite recursion": [
+    "无限递归"
+  ],
+  "infinite recursive": [
+    "无限递归"
+  ],
+  "infix": [
+    "中序"
+  ],
+  "InfluxDB": [
+    "InfluxDB"
+  ],
+  "information": [
+    "信息"
+  ],
+  "information technology, IT": [
+    "信息技术"
+  ],
+  "Ingress": [
+    "Ingress"
+  ],
+  "inheritance": [
+    "继承",
+    "继承机制"
+  ],
+  "initialization": [
+    "初始化"
+  ],
+  "initialization list": [
+    "初始值列表",
+    "初始化列表"
+  ],
+  "initialize": [
+    "初始化"
+  ],
+  "inline": [
+    "内联"
+  ],
+  "inline expansion": [
+    "内联展开"
+  ],
+  "inner class": [
+    "内嵌类"
+  ],
+  "inner join": [
+    "内联接 (for database)"
+  ],
+  "inner loop": [
+    "内层循环"
+  ],
+  "InnoDB": [
+    "InnoDB"
+  ],
+  "input": [
+    "输入"
+  ],
+  "instance": [
+    "实例"
+  ],
+  "instances": [
+    "实例"
+  ],
+  "instantiate": [
+    "实例化"
+  ],
+  "instantiated": [
+    "具现化",
+    "实体化(常应用于template)"
+  ],
+  "instantiation": [
+    "具现体",
+    "具现化实体(常应用于template)"
+  ],
+  "Instruct": [
+    "指令微调"
+  ],
+  "instructive": [
+    "教学性的"
+  ],
+  "instrument": [
+    "记录仪"
+  ],
+  "integer": [
+    "整数"
+  ],
+  "integrate": [
+    "整合",
+    "集成"
+  ],
+  "integrity": [
+    "一致性",
+    "完整性"
+  ],
+  "Intel": [
+    "英特尔"
+  ],
+  "inter-process communication, IPC": [
+    "进程间通信"
+  ],
+  "interactive language": [
+    "交互式语言"
+  ],
+  "interactive programming environment": [
+    "交互式编程环境"
+  ],
+  "interactive testing": [
+    "交互式测试"
+  ],
+  "interacts": [
+    "交互"
+  ],
+  "interface": [
+    "接口"
+  ],
+  "intermediate form": [
+    "过渡形式"
+  ],
+  "internal": [
+    "内部"
+  ],
+  "internet": [
+    "互联网"
+  ],
+  "interoperability": [
+    "互操作性",
+    "互操作能力"
+  ],
+  "interpolation": [
+    "插值"
+  ],
+  "interpret": [
+    "解释"
+  ],
+  "interpreter": [
+    "解释器"
+  ],
+  "interrupt": [
+    "中止"
+  ],
+  "intersection": [
+    "交集"
+  ],
+  "introspection": [
+    "自省"
+  ],
+  "invariants": [
+    "不变性",
+    "约束条件"
+  ],
+  "invoke": [
+    "调用"
+  ],
+  "isolation": [
+    "隔离性"
+  ],
+  "isolation level": [
+    "隔离级别 (for database)"
+  ],
+  "issue": [
+    "问题"
+  ],
+  "istio": [
+    "istio"
+  ],
+  "item": [
+    "条款",
+    "项",
+    "项目"
+  ],
+  "iterate": [
+    "迭代"
+  ],
+  "iteration": [
+    "迭代(回圈每次轮回称为一个iteration)",
+    "迭代的"
+  ],
+  "iterative": [
+    "反复的",
+    "迭代的"
+  ],
+  "iterator": [
+    "迭代器"
+  ],
+  "ITIL": [
+    "ITIL"
+  ],
+  "iTop": [
+    "iTop"
+  ],
+  "ITSM": [
+    "IT 服务管理"
+  ]
+}

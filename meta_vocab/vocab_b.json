@@ -1,0 +1,250 @@
+{
+  "background": [
+    "后台(进程)",
+    "背景"
+  ],
+  "backquote": [
+    "反引用"
+  ],
+  "backtrace": [
+    "回溯"
+  ],
+  "backup": [
+    "备份"
+  ],
+  "backup file": [
+    "备份文件"
+  ],
+  "backward compatible": [
+    "向下兼容",
+    "向后兼容"
+  ],
+  "bandwidth": [
+    "带宽"
+  ],
+  "base case": [
+    "基本情形"
+  ],
+  "base class": [
+    "基类"
+  ],
+  "base type": [
+    "基类型"
+  ],
+  "batch": [
+    "批处理"
+  ],
+  "Bayes' theorem": [
+    "贝叶斯定理"
+  ],
+  "Beego": [
+    "Beego"
+  ],
+  "behavior": [
+    "行为"
+  ],
+  "Benchmark": [
+    "基准测试"
+  ],
+  "BERT": [
+    "BERT"
+  ],
+  "best viable function": [
+    "最佳可行函式"
+  ],
+  "beta": [
+    "Beta 测试"
+  ],
+  "Bezier curve": [
+    "贝塞尔曲线"
+  ],
+  "Bias": [
+    "偏差",
+    "偏见"
+  ],
+  "bignum": [
+    "大数"
+  ],
+  "Bin Packing": [
+    "装箱问题"
+  ],
+  "binary": [
+    "二进制"
+  ],
+  "binary operator": [
+    "二元操作符"
+  ],
+  "binary search": [
+    "二分查找"
+  ],
+  "binary search tree": [
+    "二叉搜索树"
+  ],
+  "binary tree": [
+    "二叉树"
+  ],
+  "bind": [
+    "绑定"
+  ],
+  "binding": [
+    "绑定"
+  ],
+  "binding vector": [
+    "绑定向量"
+  ],
+  "bit": [
+    "位"
+  ],
+  "bit manipulation": [
+    "位操作"
+  ],
+  "bitmap": [
+    "位图"
+  ],
+  "black box abstraction": [
+    "黑箱抽象"
+  ],
+  "block": [
+    "区块",
+    "块",
+    "语句块"
+  ],
+  "block name": [
+    "代码块名字"
+  ],
+  "block structure": [
+    "块结构"
+  ],
+  "Blockchain": [
+    "区块链"
+  ],
+  "Blub paradox": [
+    "Blub 困境"
+  ],
+  "body": [
+    "体"
+  ],
+  "boilerplate": [
+    "公式化"
+  ],
+  "bookkeeping": [
+    "簿记"
+  ],
+  "boolean": [
+    "true或false)",
+    "布尔",
+    "布林值(真假值"
+  ],
+  "border": [
+    "边框"
+  ],
+  "bottom-up design": [
+    "自底向上的设计"
+  ],
+  "bottom-up programming": [
+    "自底向上编程"
+  ],
+  "bound": [
+    "边界"
+  ],
+  "bounds checking": [
+    "边界检查"
+  ],
+  "box notation": [
+    "箱子表示法"
+  ],
+  "boxing": [
+    "装箱",
+    "装箱转换"
+  ],
+  "brace": [
+    "花括弧"
+  ],
+  "brace (curly brace)": [
+    "大括号",
+    "花括号"
+  ],
+  "bracket": [
+    "方括弧"
+  ],
+  "bracket (square brakcet)": [
+    "中括号",
+    "方括号"
+  ],
+  "branch": [
+    "分支"
+  ],
+  "breadth-first": [
+    "广度优先"
+  ],
+  "breadth-first search, BFS": [
+    "广度优先搜索"
+  ],
+  "breakpoint": [
+    "断点"
+  ],
+  "brevity": [
+    "简洁"
+  ],
+  "browser applications": [
+    "浏览器应用(程序)"
+  ],
+  "browser-accessible application": [
+    "可经由浏览器访问的应用程序"
+  ],
+  "BSD": [
+    "BSD"
+  ],
+  "budget": [
+    "预算"
+  ],
+  "buffer": [
+    "缓冲区"
+  ],
+  "buffer overflow attack": [
+    "缓冲区溢出攻击"
+  ],
+  "bug": [
+    "缺陷错误",
+    "臭虫"
+  ],
+  "build": [
+    "编连(专指编译和连接)"
+  ],
+  "building": [
+    "创建"
+  ],
+  "built-in": [
+    "内建",
+    "内置"
+  ],
+  "Bun": [
+    "Bun"
+  ],
+  "bus": [
+    "总线"
+  ],
+  "business": [
+    "业务",
+    "商务(看场合)"
+  ],
+  "business Logic": [
+    "业务逻辑"
+  ],
+  "business rules": [
+    "业务规则"
+  ],
+  "buttons": [
+    "按钮"
+  ],
+  "by/through": [
+    "通过"
+  ],
+  "byte": [
+    "位元组(由8 bits组成)",
+    "字节"
+  ],
+  "bytecode": [
+    "字节码"
+  ]
+}

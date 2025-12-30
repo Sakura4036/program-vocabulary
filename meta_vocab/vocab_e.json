@@ -1,0 +1,196 @@
+{
+  "e-business": [
+    "电子商务"
+  ],
+  "eBPF": [
+    "扩展伯克利包过滤器"
+  ],
+  "echo": [
+    "回显"
+  ],
+  "Edge Computing": [
+    "边缘计算"
+  ],
+  "effect": [
+    "效果"
+  ],
+  "efficiency": [
+    "效率"
+  ],
+  "efficient": [
+    "高效"
+  ],
+  "embedded language": [
+    "嵌入式语言"
+  ],
+  "Embeddings": [
+    "嵌入"
+  ],
+  "Embodied AI": [
+    "具身智能"
+  ],
+  "Emergence": [
+    "涌现"
+  ],
+  "emulate": [
+    "仿真"
+  ],
+  "encapsulation": [
+    "封装"
+  ],
+  "end user": [
+    "最终用户"
+  ],
+  "end-to-end authentication": [
+    "端对端身份验证"
+  ],
+  "endpoint": [
+    "端点"
+  ],
+  "engine": [
+    "引擎"
+  ],
+  "entity": [
+    "实体"
+  ],
+  "enum": [
+    "枚举"
+  ],
+  "enum (enumeration)": [
+    "枚举"
+  ],
+  "enumeration type": [
+    "枚举类型"
+  ],
+  "enumerators": [
+    "枚举器",
+    "枚举成员"
+  ],
+  "enumrators": [
+    "枚举器"
+  ],
+  "environment": [
+    "环境"
+  ],
+  "eoan": [
+    "eoan"
+  ],
+  "EOP": [
+    "设备操作程序"
+  ],
+  "equal": [
+    "相等"
+  ],
+  "equality": [
+    "相等性"
+  ],
+  "equality operator": [
+    "等号操作符"
+  ],
+  "equation": [
+    "方程"
+  ],
+  "equivalence": [
+    "等价性"
+  ],
+  "error log": [
+    "错误日志 (for database)"
+  ],
+  "error message": [
+    "错误信息"
+  ],
+  "error-checking": [
+    "错误检查"
+  ],
+  "escape character": [
+    "转义字符",
+    "转义符"
+  ],
+  "escape code": [
+    "转义码"
+  ],
+  "escaped": [
+    "逃脱"
+  ],
+  "ESM": [
+    "ECMAScript 模块"
+  ],
+  "Eureka": [
+    "Eureka"
+  ],
+  "evaluate": [
+    "求值",
+    "评估"
+  ],
+  "evaluation": [
+    "求值"
+  ],
+  "event": [
+    "事件"
+  ],
+  "event driven": [
+    "事件驱动",
+    "事件驱动的"
+  ],
+  "event handler": [
+    "事件处理器"
+  ],
+  "evidence": [
+    "证据"
+  ],
+  "exception": [
+    "异常"
+  ],
+  "exception declaration": [
+    "异常声明"
+  ],
+  "exception handling": [
+    "异常处理",
+    "异常处理机制"
+  ],
+  "exception specification": [
+    "异常规范"
+  ],
+  "exception-safe": [
+    "异常安全的"
+  ],
+  "exit": [
+    "退出"
+  ],
+  "expendable": [
+    "可扩展的"
+  ],
+  "explicit": [
+    "显式"
+  ],
+  "explicit specialization": [
+    "显式特化"
+  ],
+  "explicit transaction": [
+    "显式事务 (for database)"
+  ],
+  "exploratory programming": [
+    "探索式编程"
+  ],
+  "export": [
+    "导出"
+  ],
+  "expression": [
+    "表达式"
+  ],
+  "expressive power": [
+    "表达能力"
+  ],
+  "extensibility": [
+    "可扩展性"
+  ],
+  "extent": [
+    "范围"
+  ],
+  "external representation": [
+    "外部表示法"
+  ],
+  "extreme programming": [
+    "极限编程"
+  ]
+}

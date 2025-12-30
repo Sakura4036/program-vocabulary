@@ -1,0 +1,205 @@
+{
+  "facade": [
+    "外观模式"
+  ],
+  "factorial": [
+    "阶乘"
+  ],
+  "family": [
+    "（类型的）系"
+  ],
+  "fat client": [
+    "胖客户端"
+  ],
+  "favorable": [
+    "有利的"
+  ],
+  "feasible": [
+    "可行的"
+  ],
+  "feature": [
+    "特征",
+    "特性",
+    "特色"
+  ],
+  "Federated Learning": [
+    "联邦学习"
+  ],
+  "Fedora": [
+    "Fedora"
+  ],
+  "fetch": [
+    "提取"
+  ],
+  "Few-shot": [
+    "少样本学习"
+  ],
+  "field": [
+    "字段",
+    "字段(java)"
+  ],
+  "field length": [
+    "字段长度 (for database)"
+  ],
+  "FIFO": [
+    "先进先出"
+  ],
+  "file": [
+    "文件"
+  ],
+  "file handle": [
+    "文件句柄"
+  ],
+  "fill pointer": [
+    "填充指针"
+  ],
+  "FILO": [
+    "先进后出"
+  ],
+  "filter": [
+    "筛选 (for database)"
+  ],
+  "finalization": [
+    "终结"
+  ],
+  "finalizer": [
+    "终结器"
+  ],
+  "Fine-tuning": [
+    "微调"
+  ],
+  "fineo-grained": [
+    "细粒度"
+  ],
+  "firewall": [
+    "防火墙"
+  ],
+  "firmware": [
+    "固件"
+  ],
+  "first-class": [
+    "第一类的"
+  ],
+  "first-class function": [
+    "第一级函数"
+  ],
+  "first-class object": [
+    "第一类的对象"
+  ],
+  "fixed-point": [
+    "不动点"
+  ],
+  "fixnum": [
+    "定长数"
+  ],
+  "flag": [
+    "标记"
+  ],
+  "flash": [
+    "闪存"
+  ],
+  "flash memory": [
+    "闪存"
+  ],
+  "Flask": [
+    "Flask"
+  ],
+  "flexibility": [
+    "灵活性"
+  ],
+  "floating-point": [
+    "浮点数"
+  ],
+  "floating-point notation": [
+    "浮点数表示法"
+  ],
+  "flush": [
+    "刷新"
+  ],
+  "Flutter": [
+    "Flutter"
+  ],
+  "Flux": [
+    "Flux"
+  ],
+  "fold": [
+    "折叠"
+  ],
+  "font": [
+    "字体"
+  ],
+  "force": [
+    "迫使"
+  ],
+  "foreign key (FK)": [
+    "外键(FK) (for database)"
+  ],
+  "form": [
+    "窗体",
+    "表单"
+  ],
+  "formal parameter": [
+    "形参"
+  ],
+  "formal relation": [
+    "形式关系"
+  ],
+  "format": [
+    "格式"
+  ],
+  "forward": [
+    "转发"
+  ],
+  "forward declaration": [
+    "前置声明"
+  ],
+  "forward-only": [
+    "只向前的"
+  ],
+  "forward-only cursor": [
+    "只向前游标 (for database)"
+  ],
+  "Foundation Model": [
+    "基础模型"
+  ],
+  "fractal": [
+    "分形"
+  ],
+  "fractions": [
+    "派系"
+  ],
+  "framework": [
+    "框架"
+  ],
+  "freeware": [
+    "自由软件"
+  ],
+  "full specialization": [
+    "完全特化"
+  ],
+  "function": [
+    "函数"
+  ],
+  "function call operator (即operator ())": [
+    "函数调用操作符"
+  ],
+  "function literal": [
+    "函数字面常量"
+  ],
+  "function object": [
+    "函数对象"
+  ],
+  "functional arguments": [
+    "函数型参数"
+  ],
+  "functional programming": [
+    "函数式编程"
+  ],
+  "functionality": [
+    "功能",
+    "功能性"
+  ],
+  "functor": [
+    "仿函数"
+  ]
+}

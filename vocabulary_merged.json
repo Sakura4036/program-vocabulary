@@ -1,0 +1,4978 @@
+{
+  "a": {
+    "abbreviation": [
+      "缩略语"
+    ],
+    "abnormal": [
+      "异常"
+    ],
+    "abstract": [
+      "抽象的"
+    ],
+    "abstract class": [
+      "抽象类"
+    ],
+    "AST": [
+      "抽象语法树"
+    ],
+    "abstraction": [
+      "抽象"
+    ],
+    "abstraction of function calls": [
+      "函数调用抽象"
+    ],
+    "access": [
+      "存取",
+      "接入",
+      "访问"
+    ],
+    "access function": [
+      "访问函数"
+    ],
+    "account": [
+      "账户"
+    ],
+    "accumulator": [
+      "累加器"
+    ],
+    "accurate": [
+      "精确"
+    ],
+    "ACID": [
+      "ACID 特性"
+    ],
+    "acquire": [
+      "捕获",
+      "获取"
+    ],
+    "action": [
+      "动作"
+    ],
+    "activate": [
+      "激活"
+    ],
+    "active": [
+      "活动的"
+    ],
+    "actual parameter": [
+      "实参"
+    ],
+    "ad hoc": [
+      "专设"
+    ],
+    "adapter": [
+      "适配器"
+    ],
+    "add-in": [
+      "插件"
+    ],
+    "address": [
+      "地址"
+    ],
+    "address space": [
+      "地址空间"
+    ],
+    "admin": [
+      "管理"
+    ],
+    "Adobe": [
+      "Adobe"
+    ],
+    "advanced": [
+      "高级的"
+    ],
+    "Agent": [
+      "智能体"
+    ],
+    "aggregation": [
+      "聚合",
+      "聚集"
+    ],
+    "agile": [
+      "敏捷开发"
+    ],
+    "AIGC": [
+      "生成式 AI"
+    ],
+    "AJAX": [
+      "异步 JavaScript 和 XML"
+    ],
+    "algebraic data type": [
+      "代数数据类型"
+    ],
+    "algorithm": [
+      "算法"
+    ],
+    "alias": [
+      "别名"
+    ],
+    "align": [
+      "对齐",
+      "排列"
+    ],
+    "alignment": [
+      "对齐"
+    ],
+    "allocate": [
+      "分配",
+      "配置"
+    ],
+    "alpha": [
+      "Alpha 测试"
+    ],
+    "Alpine": [
+      "Alpine Linux"
+    ],
+    "alternative": [
+      "备选"
+    ],
+    "amazon": [
+      "AWS",
+      "亚马逊"
+    ],
+    "AMD": [
+      "AMD"
+    ],
+    "amortized analysis": [
+      "平摊分析"
+    ],
+    "analogy": [
+      "类比"
+    ],
+    "anaphoric": [
+      "指代"
+    ],
+    "angle bracket": [
+      "尖括号"
+    ],
+    "Angular": [
+      "Angular"
+    ],
+    "annotation": [
+      "注解",
+      "评注"
+    ],
+    "anonymous function": [
+      "匿名函数"
+    ],
+    "antecedent": [
+      "前提"
+    ],
+    "Anthropic": [
+      "Anthropic"
+    ],
+    "Apache": [
+      "Apache"
+    ],
+    "API": [
+      "应用程序接口"
+    ],
+    "API (Application Programming Interface)": [
+      "应用(程序)编程接口"
+    ],
+    "app": [
+      "应用"
+    ],
+    "appearance": [
+      "外观"
+    ],
+    "append": [
+      "追加",
+      "附加"
+    ],
+    "application": [
+      "应用",
+      "应用程序"
+    ],
+    "application framework": [
+      "应用框架",
+      "应用程序框架"
+    ],
+    "application program interface, API": [
+      "应用程序编程接口"
+    ],
+    "application service provider, ASP": [
+      "应用程序服务提供商"
+    ],
+    "applicative": [
+      "应用序"
+    ],
+    "Approximate String Matching": [
+      "模糊匹配"
+    ],
+    "architecture": [
+      "体系结构",
+      "架构"
+    ],
+    "archive": [
+      "归档"
+    ],
+    "archive file": [
+      "存档文件",
+      "归档文件"
+    ],
+    "Arduino": [
+      "Arduino"
+    ],
+    "ArgoCD": [
+      "ArgoCD"
+    ],
+    "argument": [
+      "参数"
+    ],
+    "arithmetic": [
+      "算术"
+    ],
+    "array": [
+      "数组"
+    ],
+    "arrow operator": [
+      "箭头操作符"
+    ],
+    "Artifacts": [
+      "产物"
+    ],
+    "artificial intelligence, AI": [
+      "人工智能"
+    ],
+    "ASCII": [
+      "ASCII 码"
+    ],
+    "assemble": [
+      "组合"
+    ],
+    "assembly": [
+      "汇编"
+    ],
+    "assert(ion)": [
+      "断言"
+    ],
+    "assign": [
+      "赋值"
+    ],
+    "assignment": [
+      "分配",
+      "赋值"
+    ],
+    "assignment operator": [
+      "赋值操作符"
+    ],
+    "associated": [
+      "关联的",
+      "相关的",
+      "相关联的"
+    ],
+    "association list, alist": [
+      "关联列表"
+    ],
+    "Astro": [
+      "Astro"
+    ],
+    "asynchronous": [
+      "异步的"
+    ],
+    "atom": [
+      "原子"
+    ],
+    "atomic": [
+      "原子的"
+    ],
+    "atomic value": [
+      "原子型值"
+    ],
+    "atomicity": [
+      "原子性"
+    ],
+    "Attention": [
+      "注意力机制"
+    ],
+    "attribute": [
+      "属性",
+      "特性"
+    ],
+    "augmented": [
+      "扩充"
+    ],
+    "authentication service": [
+      "验证服务"
+    ],
+    "authorization": [
+      "授权"
+    ],
+    "Auto-GPT": [
+      "Auto-GPT"
+    ],
+    "AutoGen": [
+      "AutoGen"
+    ],
+    "automatic memory management": [
+      "自动内存管理"
+    ],
+    "automatically infer": [
+      "自动推导"
+    ],
+    "autometa theory": [
+      "自动机理论"
+    ],
+    "auxiliary": [
+      "辅助"
+    ],
+    "avatar": [
+      "化身",
+      "头像"
+    ],
+    "Axure": [
+      "Axure"
+    ],
+    "Azure": [
+      "Azure"
+    ]
+  },
+  "b": {
+    "background": [
+      "后台(进程)",
+      "背景"
+    ],
+    "backquote": [
+      "反引用"
+    ],
+    "backtrace": [
+      "回溯"
+    ],
+    "backup": [
+      "备份"
+    ],
+    "backup file": [
+      "备份文件"
+    ],
+    "backward compatible": [
+      "向下兼容",
+      "向后兼容"
+    ],
+    "bandwidth": [
+      "带宽"
+    ],
+    "base case": [
+      "基本情形"
+    ],
+    "base class": [
+      "基类"
+    ],
+    "base type": [
+      "基类型"
+    ],
+    "batch": [
+      "批处理"
+    ],
+    "Bayes' theorem": [
+      "贝叶斯定理"
+    ],
+    "Beego": [
+      "Beego"
+    ],
+    "behavior": [
+      "行为"
+    ],
+    "Benchmark": [
+      "基准测试"
+    ],
+    "BERT": [
+      "BERT"
+    ],
+    "best viable function": [
+      "最佳可行函式"
+    ],
+    "beta": [
+      "Beta 测试"
+    ],
+    "Bezier curve": [
+      "贝塞尔曲线"
+    ],
+    "Bias": [
+      "偏差",
+      "偏见"
+    ],
+    "bignum": [
+      "大数"
+    ],
+    "Bin Packing": [
+      "装箱问题"
+    ],
+    "binary": [
+      "二进制"
+    ],
+    "binary operator": [
+      "二元操作符"
+    ],
+    "binary search": [
+      "二分查找"
+    ],
+    "binary search tree": [
+      "二叉搜索树"
+    ],
+    "binary tree": [
+      "二叉树"
+    ],
+    "bind": [
+      "绑定"
+    ],
+    "binding": [
+      "绑定"
+    ],
+    "binding vector": [
+      "绑定向量"
+    ],
+    "bit": [
+      "位"
+    ],
+    "bit manipulation": [
+      "位操作"
+    ],
+    "bitmap": [
+      "位图"
+    ],
+    "black box abstraction": [
+      "黑箱抽象"
+    ],
+    "block": [
+      "区块",
+      "块",
+      "语句块"
+    ],
+    "block name": [
+      "代码块名字"
+    ],
+    "block structure": [
+      "块结构"
+    ],
+    "Blockchain": [
+      "区块链"
+    ],
+    "Blub paradox": [
+      "Blub 困境"
+    ],
+    "body": [
+      "体"
+    ],
+    "boilerplate": [
+      "公式化"
+    ],
+    "bookkeeping": [
+      "簿记"
+    ],
+    "boolean": [
+      "true或false)",
+      "布尔",
+      "布林值(真假值"
+    ],
+    "border": [
+      "边框"
+    ],
+    "bottom-up design": [
+      "自底向上的设计"
+    ],
+    "bottom-up programming": [
+      "自底向上编程"
+    ],
+    "bound": [
+      "边界"
+    ],
+    "bounds checking": [
+      "边界检查"
+    ],
+    "box notation": [
+      "箱子表示法"
+    ],
+    "boxing": [
+      "装箱",
+      "装箱转换"
+    ],
+    "brace": [
+      "花括弧"
+    ],
+    "brace (curly brace)": [
+      "大括号",
+      "花括号"
+    ],
+    "bracket": [
+      "方括弧"
+    ],
+    "bracket (square brakcet)": [
+      "中括号",
+      "方括号"
+    ],
+    "branch": [
+      "分支"
+    ],
+    "breadth-first": [
+      "广度优先"
+    ],
+    "breadth-first search, BFS": [
+      "广度优先搜索"
+    ],
+    "breakpoint": [
+      "断点"
+    ],
+    "brevity": [
+      "简洁"
+    ],
+    "browser applications": [
+      "浏览器应用(程序)"
+    ],
+    "browser-accessible application": [
+      "可经由浏览器访问的应用程序"
+    ],
+    "BSD": [
+      "BSD"
+    ],
+    "budget": [
+      "预算"
+    ],
+    "buffer": [
+      "缓冲区"
+    ],
+    "buffer overflow attack": [
+      "缓冲区溢出攻击"
+    ],
+    "bug": [
+      "缺陷错误",
+      "臭虫"
+    ],
+    "build": [
+      "编连(专指编译和连接)"
+    ],
+    "building": [
+      "创建"
+    ],
+    "built-in": [
+      "内建",
+      "内置"
+    ],
+    "Bun": [
+      "Bun"
+    ],
+    "bus": [
+      "总线"
+    ],
+    "business": [
+      "业务",
+      "商务(看场合)"
+    ],
+    "business Logic": [
+      "业务逻辑"
+    ],
+    "business rules": [
+      "业务规则"
+    ],
+    "buttons": [
+      "按钮"
+    ],
+    "by/through": [
+      "通过"
+    ],
+    "byte": [
+      "位元组(由8 bits组成)",
+      "字节"
+    ],
+    "bytecode": [
+      "字节码"
+    ]
+  },
+  "c": {
+    "CaaS": [
+      "容器即服务"
+    ],
+    "cache": [
+      "缓存",
+      "高速缓存"
+    ],
+    "calendar": [
+      "日历"
+    ],
+    "Calendrical Calculations": [
+      "日期"
+    ],
+    "call": [
+      "调用"
+    ],
+    "call operator": [
+      "调用操作符"
+    ],
+    "callback": [
+      "回调"
+    ],
+    "CamelCase": [
+      "驼峰式大小写"
+    ],
+    "candidate function": [
+      "候选函数"
+    ],
+    "candidate key": [
+      "候选键 (for database)"
+    ],
+    "capture": [
+      "捕捉"
+    ],
+    "cascading delete": [
+      "级联删除 (for database)"
+    ],
+    "cascading update": [
+      "级联更新 (for database)"
+    ],
+    "case": [
+      "分支"
+    ],
+    "casting": [
+      "转型",
+      "造型转换"
+    ],
+    "catalog": [
+      "目录"
+    ],
+    "CCL": [
+      "通用控制语言"
+    ],
+    "CD": [
+      "持续部署"
+    ],
+    "CentOS": [
+      "CentOS"
+    ],
+    "Ceph": [
+      "Ceph"
+    ],
+    "chain": [
+      "链(function calls)"
+    ],
+    "Chain of Thought (CoT)": [
+      "思维链"
+    ],
+    "character": [
+      "字符"
+    ],
+    "character format": [
+      "字符格式"
+    ],
+    "character set": [
+      "字符集"
+    ],
+    "ChatGPT": [
+      "ChatGPT"
+    ],
+    "check box": [
+      "复选框"
+    ],
+    "check button": [
+      "复选按钮"
+    ],
+    "checkpoint": [
+      "检查点 (for database)"
+    ],
+    "checksum": [
+      "校验和"
+    ],
+    "child class": [
+      "子类"
+    ],
+    "choke point": [
+      "滞塞点"
+    ],
+    "chunk": [
+      "块"
+    ],
+    "CI": [
+      "持续集成"
+    ],
+    "circular definition": [
+      "循环定义"
+    ],
+    "clarity": [
+      "清晰"
+    ],
+    "class": [
+      "类"
+    ],
+    "class declaration": [
+      "类声明"
+    ],
+    "class definition": [
+      "类定义"
+    ],
+    "class derivation list": [
+      "类继承列表"
+    ],
+    "class factory": [
+      "类厂"
+    ],
+    "class hierarchy": [
+      "类层次结构"
+    ],
+    "class library": [
+      "类库"
+    ],
+    "class loader": [
+      "类装载器"
+    ],
+    "class template": [
+      "类模板"
+    ],
+    "class template partial specializations": [
+      "类模板部分特化"
+    ],
+    "class template specializations": [
+      "类模板特化"
+    ],
+    "classification": [
+      "分类"
+    ],
+    "Claude": [
+      "Claude"
+    ],
+    "clause": [
+      "子句"
+    ],
+    "cleanup": [
+      "清理",
+      "清除"
+    ],
+    "CLI (Common Language Infrastructure)": [
+      "通用语言基础设施"
+    ],
+    "client": [
+      "客户",
+      "客户端"
+    ],
+    "client application": [
+      "客户端应用程序"
+    ],
+    "client area": [
+      "客户区"
+    ],
+    "client cursor": [
+      "客户端游标 (for database)"
+    ],
+    "client-server": [
+      "客户机",
+      "客户端",
+      "服务器"
+    ],
+    "clipboard": [
+      "剪贴板"
+    ],
+    "clone": [
+      "克隆"
+    ],
+    "closed world assumption": [
+      "封闭世界假定"
+    ],
+    "closure": [
+      "闭包"
+    ],
+    "CloudNative": [
+      "云原生"
+    ],
+    "CLS (common language specification)": [
+      "通用语言规范"
+    ],
+    "clutter": [
+      "杂乱"
+    ],
+    "CMDB": [
+      "配置管理数据库"
+    ],
+    "code": [
+      "代码"
+    ],
+    "code access security": [
+      "代码访问安全"
+    ],
+    "code bloat": [
+      "代码膨胀"
+    ],
+    "code page": [
+      "代码页"
+    ],
+    "COFF (Common Object File Format)": [
+      "通用对象文件格式"
+    ],
+    "collation": [
+      "排序规则"
+    ],
+    "collection": [
+      "收集器",
+      "集合"
+    ],
+    "column": [
+      "行"
+    ],
+    "column-major order": [
+      "行主序"
+    ],
+    "COM (Component Object Model)": [
+      "组件对象模型"
+    ],
+    "combo box": [
+      "组合框"
+    ],
+    "comma": [
+      "逗号"
+    ],
+    "command line": [
+      "命令行"
+    ],
+    "command-line": [
+      "命令行"
+    ],
+    "command-line interface, CLI": [
+      "命令行界面"
+    ],
+    "comment": [
+      "注释"
+    ],
+    "commit": [
+      "提交 (for database)"
+    ],
+    "Common Gateway Interface, CGI": [
+      "通用网关接口"
+    ],
+    "Common Lisp Object System, CLOS": [
+      "Common Lisp 对象系统"
+    ],
+    "communication": [
+      "通讯"
+    ],
+    "compatible": [
+      "兼容"
+    ],
+    "compilation": [
+      "编译"
+    ],
+    "compilation parameter": [
+      "编译参数"
+    ],
+    "compile": [
+      "编译"
+    ],
+    "compile inline": [
+      "内联编译"
+    ],
+    "compile time": [
+      "编译时",
+      "编译期"
+    ],
+    "compiled form": [
+      "编译后的形式"
+    ],
+    "compiler": [
+      "编译器"
+    ],
+    "complex": [
+      "复杂"
+    ],
+    "complexity": [
+      "复杂度"
+    ],
+    "compliment": [
+      "补集"
+    ],
+    "component": [
+      "组件"
+    ],
+    "composability": [
+      "可组合性"
+    ],
+    "composite index": [
+      "复合索引",
+      "组合索引 (for database)"
+    ],
+    "composite key": [
+      "复合键",
+      "组合键 (for database)"
+    ],
+    "composition": [
+      "复合",
+      "组合"
+    ],
+    "compound value": [
+      "复合数据"
+    ],
+    "compression": [
+      "压缩"
+    ],
+    "computation": [
+      "计算"
+    ],
+    "Compute": [
+      "算力",
+      "计算"
+    ],
+    "computer": [
+      "计算机"
+    ],
+    "concatenation": [
+      "串接"
+    ],
+    "concept": [
+      "概念"
+    ],
+    "concrete": [
+      "具体"
+    ],
+    "concrete class": [
+      "具体类"
+    ],
+    "concurrency": [
+      "并发",
+      "并发机制"
+    ],
+    "concurrent": [
+      "并发"
+    ],
+    "conditional": [
+      "条件式"
+    ],
+    "conditional variable": [
+      "条件变量"
+    ],
+    "configuration": [
+      "组态",
+      "配置"
+    ],
+    "Connected Components": [
+      "连通分支"
+    ],
+    "connection": [
+      "连接",
+      "连接 (for database)"
+    ],
+    "connection pooling": [
+      "连接池"
+    ],
+    "cons": [
+      "构造"
+    ],
+    "cons cell": [
+      "构元"
+    ],
+    "consequent": [
+      "结果"
+    ],
+    "consistency": [
+      "一致性"
+    ],
+    "consistent": [
+      "一致性"
+    ],
+    "console": [
+      "控制台"
+    ],
+    "constant": [
+      "常量"
+    ],
+    "Constitutional AI": [
+      "宪法 AI"
+    ],
+    "Constrained and Unconstrained Optimization": [
+      "最值问题"
+    ],
+    "constraint": [
+      "约束",
+      "约束 (for database)"
+    ],
+    "constraint programming": [
+      "约束式编程"
+    ],
+    "construct": [
+      "成分",
+      "构件",
+      "构造（for language）",
+      "概念"
+    ],
+    "constructor (ctor)": [
+      "构造函数",
+      "构造器"
+    ],
+    "container": [
+      "容器"
+    ],
+    "content-based filtering": [
+      "基于内容的过滤"
+    ],
+    "context": [
+      "上下文",
+      "环境"
+    ],
+    "Context Window": [
+      "上下文窗口"
+    ],
+    "continuation": [
+      "延续性"
+    ],
+    "continuous integration, CI": [
+      "持续集成"
+    ],
+    "control": [
+      "控件"
+    ],
+    "cooperative multitasking": [
+      "协作式多任务"
+    ],
+    "Copilot": [
+      "Copilot"
+    ],
+    "copy": [
+      "拷贝"
+    ],
+    "CORBA": [
+      "通用对象请求中介架构(Common Object Request Broker Architecture)"
+    ],
+    "CoreDNS": [
+      "CoreDNS"
+    ],
+    "corollary": [
+      "推论"
+    ],
+    "coroutine": [
+      "协程"
+    ],
+    "corruption": [
+      "程序崩溃"
+    ],
+    "cover": [
+      "涵盖",
+      "覆盖"
+    ],
+    "crash": [
+      "崩溃"
+    ],
+    "create": [
+      "创建"
+    ],
+    "create/creation": [
+      "创建",
+      "生成"
+    ],
+    "crosstab query": [
+      "交叉表查询 (for database)"
+    ],
+    "Cryptography": [
+      "密码"
+    ],
+    "crystallize": [
+      "固化"
+    ],
+    "CSS": [
+      "层叠样式表"
+    ],
+    "cube": [
+      "多维数据集 (for database)"
+    ],
+    "CUDA": [
+      "CUDA"
+    ],
+    "curly": [
+      "括弧状的"
+    ],
+    "curried": [
+      "柯里的"
+    ],
+    "currying": [
+      "柯里化"
+    ],
+    "cursor": [
+      "光标",
+      "游标",
+      "游标 (for database)"
+    ],
+    "curvy": [
+      "卷曲的"
+    ],
+    "custom": [
+      "定制",
+      "自定义"
+    ],
+    "cycle": [
+      "周期"
+    ],
+    "Cygwin": [
+      "Cygwin"
+    ]
+  },
+  "d": {
+    "DALL-E": [
+      "DALL-E"
+    ],
+    "dangling pointer": [
+      "迷途指针"
+    ],
+    "dashboard": [
+      "仪表板"
+    ],
+    "data": [
+      "数据"
+    ],
+    "data connection": [
+      "数据连接 (for database)"
+    ],
+    "data dictionary": [
+      "数据字典 (for database)"
+    ],
+    "data file": [
+      "数据文件 (for database)"
+    ],
+    "data integrity": [
+      "数据完整性 (for database)"
+    ],
+    "data member": [
+      "成员变量",
+      "数据成员"
+    ],
+    "data source": [
+      "数据源 (for database)"
+    ],
+    "Data source name (DSN)": [
+      "数据源名称(DSN) (for database)"
+    ],
+    "data structure": [
+      "数据结构"
+    ],
+    "Data Structures": [
+      "基本数据结构"
+    ],
+    "data table": [
+      "数据表 (for database)"
+    ],
+    "data type": [
+      "数据类型"
+    ],
+    "data-bound": [
+      "数据绑定 (for database)"
+    ],
+    "data-driven": [
+      "数据驱动"
+    ],
+    "database": [
+      "数据库",
+      "数据库 (for database)"
+    ],
+    "database catalog": [
+      "数据库目录 (for database)"
+    ],
+    "database diagram": [
+      "数据关系图 (for database)"
+    ],
+    "database file": [
+      "数据库文件 (for database)"
+    ],
+    "database object": [
+      "数据库对象 (for database)"
+    ],
+    "database owner": [
+      "数据库所有者 (for database)"
+    ],
+    "database project": [
+      "数据库工程 (for database)"
+    ],
+    "database role": [
+      "数据库角色 (for database)"
+    ],
+    "database schema": [
+      "数据库架构 (for database)",
+      "数据库模式"
+    ],
+    "database script": [
+      "数据库脚本 (for database)"
+    ],
+    "datagram": [
+      "数据报文"
+    ],
+    "dataset": [
+      "数据集 (for database)"
+    ],
+    "DBaaS": [
+      "数据库即服务"
+    ],
+    "DCL": [
+      "数据控制语言"
+    ],
+    "DDL": [
+      "数据定义语言"
+    ],
+    "dead lock": [
+      "死锁",
+      "死锁 (for database)"
+    ],
+    "deallocate": [
+      "归还"
+    ],
+    "Debian": [
+      "Debian"
+    ],
+    "debt": [
+      "债务"
+    ],
+    "debug": [
+      "调试"
+    ],
+    "debugger": [
+      "调试器"
+    ],
+    "debugging": [
+      "调试"
+    ],
+    "decay": [
+      "退化"
+    ],
+    "declaration": [
+      "声明"
+    ],
+    "declaration forms": [
+      "声明形式"
+    ],
+    "declarative": [
+      "声明式"
+    ],
+    "declarative knowledge": [
+      "声明式知识"
+    ],
+    "declarative programming": [
+      "声明式编程"
+    ],
+    "declarativeness": [
+      "可声明性"
+    ],
+    "declaring": [
+      "声明"
+    ],
+    "deconstruction": [
+      "解构"
+    ],
+    "deduction": [
+      "推导"
+    ],
+    "Deepfake": [
+      "深度伪造"
+    ],
+    "default": [
+      "缺省",
+      "默认值"
+    ],
+    "default database": [
+      "默认数据库 (for database)"
+    ],
+    "default instance": [
+      "默认实例 (for database)"
+    ],
+    "default result set": [
+      "默认结果集 (for database)"
+    ],
+    "Defense Advanced Research Projects Agency, DARPA": [
+      "美国国防部高级研究计划局"
+    ],
+    "defer": [
+      "推迟"
+    ],
+    "deficiency": [
+      "缺陷"
+    ],
+    "define": [
+      "定义"
+    ],
+    "definition": [
+      "定义"
+    ],
+    "delegate": [
+      "委托"
+    ],
+    "delegation": [
+      "委托"
+    ],
+    "dellocate": [
+      "释放"
+    ],
+    "demarshal": [
+      "散集"
+    ],
+    "Deno": [
+      "Deno"
+    ],
+    "deny": [
+      "拒绝"
+    ],
+    "deploy": [
+      "部署"
+    ],
+    "deprecated": [
+      "废弃"
+    ],
+    "depth-first": [
+      "深度优先"
+    ],
+    "depth-first search, BFS": [
+      "深度优先搜索"
+    ],
+    "deque": [
+      "双端队列"
+    ],
+    "derived": [
+      "派生"
+    ],
+    "derived class": [
+      "派生类"
+    ],
+    "design pattern": [
+      "设计模式"
+    ],
+    "designator": [
+      "指示符"
+    ],
+    "destroy": [
+      "销毁"
+    ],
+    "destructive": [
+      "破坏性的"
+    ],
+    "destructive function": [
+      "破坏性函数"
+    ],
+    "destructuring": [
+      "解构"
+    ],
+    "device": [
+      "设备"
+    ],
+    "device driver": [
+      "硬件驱动程序"
+    ],
+    "DevOps": [
+      "开发运维一体化"
+    ],
+    "dialog": [
+      "对话框"
+    ],
+    "Dictionaries": [
+      "字典"
+    ],
+    "Diffusion": [
+      "扩散模型"
+    ],
+    "digest": [
+      "哈希",
+      "摘要"
+    ],
+    "digital": [
+      "数字的"
+    ],
+    "Dijkstra": [
+      "迪杰斯特拉"
+    ],
+    "dimensions": [
+      "维度"
+    ],
+    "directive": [
+      "指示符"
+    ],
+    "directory": [
+      "目录"
+    ],
+    "disassembler": [
+      "反汇编器"
+    ],
+    "Discuz": [
+      "Discuz"
+    ],
+    "disk": [
+      "盘"
+    ],
+    "dispatch": [
+      "分派",
+      "派发",
+      "调度"
+    ],
+    "Distillation": [
+      "知识蒸馏"
+    ],
+    "distributed computing": [
+      "分布式计算"
+    ],
+    "distributed query": [
+      "分布式查询 (for database)"
+    ],
+    "Django": [
+      "Django"
+    ],
+    "DLL hell": [
+      "DLL 地狱"
+    ],
+    "DML": [
+      "数据操作语言"
+    ],
+    "DNA (Distributed interNet Application)": [
+      "分布式网间应用程序"
+    ],
+    "doc": [
+      "文档"
+    ],
+    "Docker": [
+      "Docker"
+    ],
+    "document": [
+      "文档"
+    ],
+    "DokuWiki": [
+      "DokuWiki"
+    ],
+    "dotted list": [
+      "点状列表"
+    ],
+    "dotted-pair notation": [
+      "带点尾部表示法"
+    ],
+    "download": [
+      "下载"
+    ],
+    "DPO": [
+      "直接偏好优化"
+    ],
+    "DQL": [
+      "数据查询语言"
+    ],
+    "driver": [
+      "驱动(程序)"
+    ],
+    "Drone": [
+      "Drone"
+    ],
+    "DTD (document type definition)": [
+      "文档类型定义"
+    ],
+    "Dubbo": [
+      "Dubbo"
+    ],
+    "dump": [
+      "转储"
+    ],
+    "dump file": [
+      "转储文件"
+    ],
+    "duplicate": [
+      "复本"
+    ],
+    "durability": [
+      "持久性"
+    ],
+    "dynamic binding": [
+      "动态绑定"
+    ],
+    "dynamic extent": [
+      "动态范围"
+    ],
+    "dynamic languages": [
+      "动态语言"
+    ],
+    "dynamic scope": [
+      "动态作用域"
+    ],
+    "dynamic type": [
+      "动态类型"
+    ]
+  },
+  "e": {
+    "e-business": [
+      "电子商务"
+    ],
+    "eBPF": [
+      "扩展伯克利包过滤器"
+    ],
+    "echo": [
+      "回显"
+    ],
+    "Edge Computing": [
+      "边缘计算"
+    ],
+    "effect": [
+      "效果"
+    ],
+    "efficiency": [
+      "效率"
+    ],
+    "efficient": [
+      "高效"
+    ],
+    "embedded language": [
+      "嵌入式语言"
+    ],
+    "Embeddings": [
+      "嵌入"
+    ],
+    "Embodied AI": [
+      "具身智能"
+    ],
+    "Emergence": [
+      "涌现"
+    ],
+    "emulate": [
+      "仿真"
+    ],
+    "encapsulation": [
+      "封装"
+    ],
+    "end user": [
+      "最终用户"
+    ],
+    "end-to-end authentication": [
+      "端对端身份验证"
+    ],
+    "endpoint": [
+      "端点"
+    ],
+    "engine": [
+      "引擎"
+    ],
+    "entity": [
+      "实体"
+    ],
+    "enum": [
+      "枚举"
+    ],
+    "enum (enumeration)": [
+      "枚举"
+    ],
+    "enumeration type": [
+      "枚举类型"
+    ],
+    "enumerators": [
+      "枚举器",
+      "枚举成员"
+    ],
+    "enumrators": [
+      "枚举器"
+    ],
+    "environment": [
+      "环境"
+    ],
+    "eoan": [
+      "eoan"
+    ],
+    "EOP": [
+      "设备操作程序"
+    ],
+    "equal": [
+      "相等"
+    ],
+    "equality": [
+      "相等性"
+    ],
+    "equality operator": [
+      "等号操作符"
+    ],
+    "equation": [
+      "方程"
+    ],
+    "equivalence": [
+      "等价性"
+    ],
+    "error log": [
+      "错误日志 (for database)"
+    ],
+    "error message": [
+      "错误信息"
+    ],
+    "error-checking": [
+      "错误检查"
+    ],
+    "escape character": [
+      "转义字符",
+      "转义符"
+    ],
+    "escape code": [
+      "转义码"
+    ],
+    "escaped": [
+      "逃脱"
+    ],
+    "ESM": [
+      "ECMAScript 模块"
+    ],
+    "Eureka": [
+      "Eureka"
+    ],
+    "evaluate": [
+      "求值",
+      "评估"
+    ],
+    "evaluation": [
+      "求值"
+    ],
+    "event": [
+      "事件"
+    ],
+    "event driven": [
+      "事件驱动",
+      "事件驱动的"
+    ],
+    "event handler": [
+      "事件处理器"
+    ],
+    "evidence": [
+      "证据"
+    ],
+    "exception": [
+      "异常"
+    ],
+    "exception declaration": [
+      "异常声明"
+    ],
+    "exception handling": [
+      "异常处理",
+      "异常处理机制"
+    ],
+    "exception specification": [
+      "异常规范"
+    ],
+    "exception-safe": [
+      "异常安全的"
+    ],
+    "exit": [
+      "退出"
+    ],
+    "expendable": [
+      "可扩展的"
+    ],
+    "explicit": [
+      "显式"
+    ],
+    "explicit specialization": [
+      "显式特化"
+    ],
+    "explicit transaction": [
+      "显式事务 (for database)"
+    ],
+    "exploratory programming": [
+      "探索式编程"
+    ],
+    "export": [
+      "导出"
+    ],
+    "expression": [
+      "表达式"
+    ],
+    "expressive power": [
+      "表达能力"
+    ],
+    "extensibility": [
+      "可扩展性"
+    ],
+    "extent": [
+      "范围"
+    ],
+    "external representation": [
+      "外部表示法"
+    ],
+    "extreme programming": [
+      "极限编程"
+    ]
+  },
+  "f": {
+    "facade": [
+      "外观模式"
+    ],
+    "factorial": [
+      "阶乘"
+    ],
+    "family": [
+      "（类型的）系"
+    ],
+    "fat client": [
+      "胖客户端"
+    ],
+    "favorable": [
+      "有利的"
+    ],
+    "feasible": [
+      "可行的"
+    ],
+    "feature": [
+      "特征",
+      "特性",
+      "特色"
+    ],
+    "Federated Learning": [
+      "联邦学习"
+    ],
+    "Fedora": [
+      "Fedora"
+    ],
+    "fetch": [
+      "提取"
+    ],
+    "Few-shot": [
+      "少样本学习"
+    ],
+    "field": [
+      "字段",
+      "字段(java)"
+    ],
+    "field length": [
+      "字段长度 (for database)"
+    ],
+    "FIFO": [
+      "先进先出"
+    ],
+    "file": [
+      "文件"
+    ],
+    "file handle": [
+      "文件句柄"
+    ],
+    "fill pointer": [
+      "填充指针"
+    ],
+    "FILO": [
+      "先进后出"
+    ],
+    "filter": [
+      "筛选 (for database)"
+    ],
+    "finalization": [
+      "终结"
+    ],
+    "finalizer": [
+      "终结器"
+    ],
+    "Fine-tuning": [
+      "微调"
+    ],
+    "fineo-grained": [
+      "细粒度"
+    ],
+    "firewall": [
+      "防火墙"
+    ],
+    "firmware": [
+      "固件"
+    ],
+    "first-class": [
+      "第一类的"
+    ],
+    "first-class function": [
+      "第一级函数"
+    ],
+    "first-class object": [
+      "第一类的对象"
+    ],
+    "fixed-point": [
+      "不动点"
+    ],
+    "fixnum": [
+      "定长数"
+    ],
+    "flag": [
+      "标记"
+    ],
+    "flash": [
+      "闪存"
+    ],
+    "flash memory": [
+      "闪存"
+    ],
+    "Flask": [
+      "Flask"
+    ],
+    "flexibility": [
+      "灵活性"
+    ],
+    "floating-point": [
+      "浮点数"
+    ],
+    "floating-point notation": [
+      "浮点数表示法"
+    ],
+    "flush": [
+      "刷新"
+    ],
+    "Flutter": [
+      "Flutter"
+    ],
+    "Flux": [
+      "Flux"
+    ],
+    "fold": [
+      "折叠"
+    ],
+    "font": [
+      "字体"
+    ],
+    "force": [
+      "迫使"
+    ],
+    "foreign key (FK)": [
+      "外键(FK) (for database)"
+    ],
+    "form": [
+      "窗体",
+      "表单"
+    ],
+    "formal parameter": [
+      "形参"
+    ],
+    "formal relation": [
+      "形式关系"
+    ],
+    "format": [
+      "格式"
+    ],
+    "forward": [
+      "转发"
+    ],
+    "forward declaration": [
+      "前置声明"
+    ],
+    "forward-only": [
+      "只向前的"
+    ],
+    "forward-only cursor": [
+      "只向前游标 (for database)"
+    ],
+    "Foundation Model": [
+      "基础模型"
+    ],
+    "fractal": [
+      "分形"
+    ],
+    "fractions": [
+      "派系"
+    ],
+    "framework": [
+      "框架"
+    ],
+    "freeware": [
+      "自由软件"
+    ],
+    "full specialization": [
+      "完全特化"
+    ],
+    "function": [
+      "函数"
+    ],
+    "function call operator (即operator ())": [
+      "函数调用操作符"
+    ],
+    "function literal": [
+      "函数字面常量"
+    ],
+    "function object": [
+      "函数对象"
+    ],
+    "functional arguments": [
+      "函数型参数"
+    ],
+    "functional programming": [
+      "函数式编程"
+    ],
+    "functionality": [
+      "功能",
+      "功能性"
+    ],
+    "functor": [
+      "仿函数"
+    ]
+  },
+  "g": {
+    "game": [
+      "游戏"
+    ],
+    "garbage": [
+      "垃圾"
+    ],
+    "garbage collection": [
+      "垃圾回收"
+    ],
+    "garbage collector": [
+      "垃圾回收器"
+    ],
+    "GC (Garbage collection)": [
+      "垃圾回收(机制)",
+      "垃圾收集(机制)"
+    ],
+    "GeForce": [
+      "GeForce"
+    ],
+    "Gemini": [
+      "Gemini"
+    ],
+    "generalized": [
+      "泛化"
+    ],
+    "generalized variable": [
+      "广义变量"
+    ],
+    "generate": [
+      "生成"
+    ],
+    "Generative AI": [
+      "生成式 AI"
+    ],
+    "generator": [
+      "生成器"
+    ],
+    "generic": [
+      "一般化的",
+      "泛化的",
+      "通用的"
+    ],
+    "generic algorithm": [
+      "通用算法"
+    ],
+    "generic function": [
+      "通用函数"
+    ],
+    "generic programming": [
+      "通用编程"
+    ],
+    "genericity": [
+      "泛型"
+    ],
+    "genrative programming": [
+      "生产式编程"
+    ],
+    "GGUF": [
+      "GGUF"
+    ],
+    "GIF": [
+      "GIF"
+    ],
+    "Git": [
+      "Git"
+    ],
+    "Gitea": [
+      "Gitea"
+    ],
+    "Github": [
+      "Github"
+    ],
+    "Gitlab": [
+      "Gitlab"
+    ],
+    "global": [
+      "全局的"
+    ],
+    "global declaration": [
+      "全局声明"
+    ],
+    "global object": [
+      "全局对象"
+    ],
+    "glue program": [
+      "胶水程序"
+    ],
+    "GNOME": [
+      "GNOME"
+    ],
+    "GNU": [
+      "GNU"
+    ],
+    "Gogs": [
+      "Gogs"
+    ],
+    "Golang": [
+      "Go 语言"
+    ],
+    "goto": [
+      "跳转"
+    ],
+    "GPT": [
+      "GPT"
+    ],
+    "GPU": [
+      "图形处理器"
+    ],
+    "Grafana": [
+      "Grafana"
+    ],
+    "grant": [
+      "授权 (for database)"
+    ],
+    "graphical user interface, GUI": [
+      "图形用户界面"
+    ],
+    "GraphQL": [
+      "GraphQL"
+    ],
+    "GraphRAG": [
+      "图增强检索"
+    ],
+    "greatest common divisor": [
+      "最大公因数"
+    ],
+    "Greenspun's tenth rule": [
+      "格林斯潘第十定律"
+    ],
+    "grep": [
+      "grep"
+    ],
+    "Grok": [
+      "Grok"
+    ],
+    "Groq": [
+      "Groq"
+    ],
+    "group": [
+      "组",
+      "群"
+    ],
+    "group box": [
+      "分组框"
+    ],
+    "GUI": [
+      "图形用户界面",
+      "图形界面"
+    ],
+    "GUID (Globally Unique Identifier)": [
+      "全球唯一标识符"
+    ]
+  },
+  "h": {
+    "hack": [
+      "破解"
+    ],
+    "hacker": [
+      "黑客"
+    ],
+    "Hadoop": [
+      "Hadoop"
+    ],
+    "Hallucination": [
+      "幻觉"
+    ],
+    "handle": [
+      "句柄",
+      "处理",
+      "处理器"
+    ],
+    "handler": [
+      "处理器"
+    ],
+    "Harbor": [
+      "Harbor"
+    ],
+    "hard disk": [
+      "硬盘"
+    ],
+    "hard-coded": [
+      "硬编码的"
+    ],
+    "hard-copy": [
+      "截屏图"
+    ],
+    "hardware": [
+      "硬件"
+    ],
+    "hash table": [
+      "哈希表",
+      "散列表"
+    ],
+    "hash tables": [
+      "哈希表"
+    ],
+    "Haskell": [
+      "Haskell"
+    ],
+    "header": [
+      "头部"
+    ],
+    "header file": [
+      "头文件"
+    ],
+    "heap": [
+      "堆"
+    ],
+    "height": [
+      "高度"
+    ],
+    "Helm": [
+      "Helm"
+    ],
+    "help file": [
+      "帮助文件"
+    ],
+    "helper": [
+      "辅助函数"
+    ],
+    "heuristic": [
+      "启发式"
+    ],
+    "hidden": [
+      "隐藏"
+    ],
+    "hierarchical data": [
+      "层次式数据",
+      "阶层式数据"
+    ],
+    "hierarchy": [
+      "层次结构",
+      "继承体系"
+    ],
+    "high level": [
+      "高层",
+      "高阶"
+    ],
+    "high-order": [
+      "高阶"
+    ],
+    "higher-order function": [
+      "高阶函数"
+    ],
+    "higher-order procedure": [
+      "高阶过程"
+    ],
+    "Hive": [
+      "Hive"
+    ],
+    "hook": [
+      "钩子"
+    ],
+    "hot key": [
+      "热键"
+    ],
+    "HTML": [
+      "HTML"
+    ],
+    "HTML (HyperText Markup Language)": [
+      "超文本标记语言"
+    ],
+    "HTTP (HyperText Transfer Protocol)": [
+      "超文本传输协议"
+    ],
+    "Hugging Face": [
+      "Hugging Face"
+    ],
+    "Hydration": [
+      "水合"
+    ],
+    "hyperlink": [
+      "超链接"
+    ],
+    "Hyperparameter": [
+      "超参数"
+    ],
+    "HyperText Markup Language, HTML": [
+      "超文本标记语言"
+    ],
+    "HyperText Transfer Protocol, HTTP": [
+      "超文本传输协议"
+    ]
+  },
+  "i": {
+    "IaaS": [
+      "基础设施即服务"
+    ],
+    "icon": [
+      "图标"
+    ],
+    "identical": [
+      "一致"
+    ],
+    "identifier": [
+      "标识符"
+    ],
+    "identity": [
+      "同一性"
+    ],
+    "IDL (Interface Definition Language)": [
+      "接口定义语言"
+    ],
+    "idle time": [
+      "空闲时间"
+    ],
+    "IL (Intermediate Language)": [
+      "中介语言",
+      "中间语言"
+    ],
+    "ill type": [
+      "类型不正确"
+    ],
+    "illusion": [
+      "错觉"
+    ],
+    "image": [
+      "图像",
+      "图象",
+      "镜像"
+    ],
+    "IME": [
+      "输入法"
+    ],
+    "Imgur": [
+      "Imgur"
+    ],
+    "immediate base": [
+      "直接基类"
+    ],
+    "immediate derived": [
+      "直接派生类"
+    ],
+    "immediate updating": [
+      "即时更新 (for database)"
+    ],
+    "imperative": [
+      "命令式"
+    ],
+    "imperative programming": [
+      "命令式编程"
+    ],
+    "implement": [
+      "实现"
+    ],
+    "implementation": [
+      "实现",
+      "实现品"
+    ],
+    "implicit": [
+      "隐式"
+    ],
+    "import": [
+      "导入"
+    ],
+    "In-context Learning": [
+      "上下文学习"
+    ],
+    "incremental testing": [
+      "增量测试"
+    ],
+    "incremental update": [
+      "增量更新 (for database)"
+    ],
+    "indent": [
+      "缩排"
+    ],
+    "indentation": [
+      "缩排"
+    ],
+    "indented": [
+      "缩排"
+    ],
+    "indention": [
+      "缩排"
+    ],
+    "Independent Set": [
+      "独立集"
+    ],
+    "index": [
+      "索引 (for database)"
+    ],
+    "infer": [
+      "推导"
+    ],
+    "Inference": [
+      "推理"
+    ],
+    "infinite loop": [
+      "无限循环"
+    ],
+    "infinite precision": [
+      "无限精度"
+    ],
+    "infinite recursion": [
+      "无限递归"
+    ],
+    "infinite recursive": [
+      "无限递归"
+    ],
+    "infix": [
+      "中序"
+    ],
+    "InfluxDB": [
+      "InfluxDB"
+    ],
+    "information": [
+      "信息"
+    ],
+    "information technology, IT": [
+      "信息技术"
+    ],
+    "Ingress": [
+      "Ingress"
+    ],
+    "inheritance": [
+      "继承",
+      "继承机制"
+    ],
+    "initialization": [
+      "初始化"
+    ],
+    "initialization list": [
+      "初始值列表",
+      "初始化列表"
+    ],
+    "initialize": [
+      "初始化"
+    ],
+    "inline": [
+      "内联"
+    ],
+    "inline expansion": [
+      "内联展开"
+    ],
+    "inner class": [
+      "内嵌类"
+    ],
+    "inner join": [
+      "内联接 (for database)"
+    ],
+    "inner loop": [
+      "内层循环"
+    ],
+    "InnoDB": [
+      "InnoDB"
+    ],
+    "input": [
+      "输入"
+    ],
+    "instance": [
+      "实例"
+    ],
+    "instances": [
+      "实例"
+    ],
+    "instantiate": [
+      "实例化"
+    ],
+    "instantiated": [
+      "具现化",
+      "实体化(常应用于template)"
+    ],
+    "instantiation": [
+      "具现体",
+      "具现化实体(常应用于template)"
+    ],
+    "Instruct": [
+      "指令微调"
+    ],
+    "instructive": [
+      "教学性的"
+    ],
+    "instrument": [
+      "记录仪"
+    ],
+    "integer": [
+      "整数"
+    ],
+    "integrate": [
+      "整合",
+      "集成"
+    ],
+    "integrity": [
+      "一致性",
+      "完整性"
+    ],
+    "Intel": [
+      "英特尔"
+    ],
+    "inter-process communication, IPC": [
+      "进程间通信"
+    ],
+    "interactive language": [
+      "交互式语言"
+    ],
+    "interactive programming environment": [
+      "交互式编程环境"
+    ],
+    "interactive testing": [
+      "交互式测试"
+    ],
+    "interacts": [
+      "交互"
+    ],
+    "interface": [
+      "接口"
+    ],
+    "intermediate form": [
+      "过渡形式"
+    ],
+    "internal": [
+      "内部"
+    ],
+    "internet": [
+      "互联网"
+    ],
+    "interoperability": [
+      "互操作性",
+      "互操作能力"
+    ],
+    "interpolation": [
+      "插值"
+    ],
+    "interpret": [
+      "解释"
+    ],
+    "interpreter": [
+      "解释器"
+    ],
+    "interrupt": [
+      "中止"
+    ],
+    "intersection": [
+      "交集"
+    ],
+    "introspection": [
+      "自省"
+    ],
+    "invariants": [
+      "不变性",
+      "约束条件"
+    ],
+    "invoke": [
+      "调用"
+    ],
+    "isolation": [
+      "隔离性"
+    ],
+    "isolation level": [
+      "隔离级别 (for database)"
+    ],
+    "issue": [
+      "问题"
+    ],
+    "istio": [
+      "istio"
+    ],
+    "item": [
+      "条款",
+      "项",
+      "项目"
+    ],
+    "iterate": [
+      "迭代"
+    ],
+    "iteration": [
+      "迭代(回圈每次轮回称为一个iteration)",
+      "迭代的"
+    ],
+    "iterative": [
+      "反复的",
+      "迭代的"
+    ],
+    "iterator": [
+      "迭代器"
+    ],
+    "ITIL": [
+      "ITIL"
+    ],
+    "iTop": [
+      "iTop"
+    ],
+    "ITSM": [
+      "IT 服务管理"
+    ]
+  },
+  "j": {
+    "jagged": [
+      "锯齿状的"
+    ],
+    "Jailbreak": [
+      "越狱"
+    ],
+    "JAMstack": [
+      "JAMstack"
+    ],
+    "Java": [
+      "Java"
+    ],
+    "JavaScript": [
+      "JavaScript"
+    ],
+    "JAX": [
+      "JAX"
+    ],
+    "job control language, JCL": [
+      "作业控制语言"
+    ],
+    "Job Scheduling": [
+      "工程安排"
+    ],
+    "journalctl": [
+      "journalctl"
+    ],
+    "jpeg": [
+      "JPEG"
+    ],
+    "jpg": [
+      "JPG"
+    ],
+    "Jquery": [
+      "jQuery"
+    ],
+    "JSON-LD": [
+      "JSON-LD"
+    ],
+    "judicious": [
+      "明智的"
+    ]
+  },
+  "k": {
+    "Kaniko": [
+      "Kaniko"
+    ],
+    "Kapacitor": [
+      "Kapacitor"
+    ],
+    "kernel": [
+      "核心"
+    ],
+    "kernel language": [
+      "核心语言"
+    ],
+    "key": [
+      "密钥",
+      "键",
+      "键 (for database)"
+    ],
+    "key column": [
+      "键列 (for database)"
+    ],
+    "keyword argument": [
+      "关键字参数"
+    ],
+    "keywords": [
+      "关键字"
+    ],
+    "Kindle": [
+      "Kindle"
+    ],
+    "Kinect": [
+      "Kinect"
+    ],
+    "kludge": [
+      "蹩脚"
+    ],
+    "kubectl": [
+      "kubectl"
+    ],
+    "Kubernetes": [
+      "Kubernetes"
+    ]
+  },
+  "l": {
+    "lambda": [
+      "Lambda",
+      "匿名函数"
+    ],
+    "lambda calculus": [
+      "lambda 演算"
+    ],
+    "LangChain": [
+      "LangChain"
+    ],
+    "LangGraph": [
+      "LangGraph"
+    ],
+    "LangServe": [
+      "LangServe"
+    ],
+    "LangSmith": [
+      "LangSmith"
+    ],
+    "Language For Smart People, LFSP": [
+      "聪明人的语言"
+    ],
+    "larval startup": [
+      "雏形创业公司"
+    ],
+    "laser": [
+      "激光"
+    ],
+    "LaTeX": [
+      "LaTeX"
+    ],
+    "layout": [
+      "版型"
+    ],
+    "lazy": [
+      "惰性"
+    ],
+    "lazy evaluation": [
+      "惰性求值"
+    ],
+    "left outer join": [
+      "左向外联接 (for database)"
+    ],
+    "legacy software": [
+      "历史遗留软件"
+    ],
+    "level": [
+      "层例",
+      "阶"
+    ],
+    "leverage": [
+      "杠杆"
+    ],
+    "lexical": [
+      "词法的"
+    ],
+    "lexical analysis": [
+      "词法分析"
+    ],
+    "lexical closure": [
+      "词法闭包"
+    ],
+    "lexical scope": [
+      "词法作用域"
+    ],
+    "library": [
+      "库"
+    ],
+    "lifetime": [
+      "寿命",
+      "生命期"
+    ],
+    "linear": [
+      "线性"
+    ],
+    "linear iteration": [
+      "线性迭代"
+    ],
+    "Linear Programming": [
+      "线性规划"
+    ],
+    "linear recursion": [
+      "线性递归"
+    ],
+    "link": [
+      "连接",
+      "链接"
+    ],
+    "linkage": [
+      "连接",
+      "链接"
+    ],
+    "linker": [
+      "连接器",
+      "链接器"
+    ],
+    "list": [
+      "列表",
+      "表",
+      "链表"
+    ],
+    "list box": [
+      "列表框"
+    ],
+    "list operation": [
+      "列表操作"
+    ],
+    "literal": [
+      "字面"
+    ],
+    "literal constant": [
+      "字面常数",
+      "字面常量"
+    ],
+    "literal representation": [
+      "字面量"
+    ],
+    "livelock": [
+      "活锁 (for database)"
+    ],
+    "LLaMA": [
+      "LLaMA"
+    ],
+    "Llama 2": [
+      "Llama 2"
+    ],
+    "Llama 3": [
+      "Llama 3"
+    ],
+    "LLM": [
+      "大语言模型"
+    ],
+    "LMM": [
+      "多模态大模型"
+    ],
+    "load": [
+      "加载",
+      "装载"
+    ],
+    "load balancing": [
+      "负载平衡"
+    ],
+    "loader": [
+      "装载器",
+      "载入器"
+    ],
+    "local": [
+      "局部的"
+    ],
+    "local declarations": [
+      "局部声明"
+    ],
+    "local function": [
+      "局部函数"
+    ],
+    "local object": [
+      "局部对象"
+    ],
+    "local variable": [
+      "局部变量"
+    ],
+    "locale": [
+      "区域设置"
+    ],
+    "locality": [
+      "局部性"
+    ],
+    "lock": [
+      "锁"
+    ],
+    "log": [
+      "日志"
+    ],
+    "login": [
+      "登录"
+    ],
+    "lookup table": [
+      "查找表 (for database)"
+    ],
+    "loop": [
+      "循环"
+    ],
+    "loose coupling": [
+      "松散耦合"
+    ],
+    "LoRA": [
+      "低秩自适应"
+    ],
+    "Lua": [
+      "Lua"
+    ],
+    "Lucene": [
+      "Lucene"
+    ],
+    "lvalue": [
+      "左值"
+    ]
+  },
+  "m": {
+    "machine code": [
+      "机器代码",
+      "机器码"
+    ],
+    "machine instruction": [
+      "机器指令"
+    ],
+    "machine language": [
+      "机器语言"
+    ],
+    "machine language code": [
+      "机器语言代码"
+    ],
+    "machine learning": [
+      "机器学习"
+    ],
+    "macro": [
+      "宏"
+    ],
+    "mailing list": [
+      "邮件列表"
+    ],
+    "main": [
+      "主函数",
+      "入口"
+    ],
+    "mainframes": [
+      "大型机"
+    ],
+    "maintain": [
+      "维护"
+    ],
+    "maintenance": [
+      "维护"
+    ],
+    "Mamba": [
+      "Mamba"
+    ],
+    "managed code": [
+      "受控代码",
+      "托管代码"
+    ],
+    "Managed Extensions": [
+      "受控扩充件",
+      "托管扩展"
+    ],
+    "managed object": [
+      "受控对象",
+      "托管对象"
+    ],
+    "manifest": [
+      "清单"
+    ],
+    "manifest typing": [
+      "显式类型"
+    ],
+    "manipulate": [
+      "操作"
+    ],
+    "manipulator": [
+      "操纵器"
+    ],
+    "manual": [
+      "手册",
+      "手动的"
+    ],
+    "many-to-many relationship": [
+      "多对多关系 (for database)"
+    ],
+    "many-to-one relationship": [
+      "多对一关系 (for database)"
+    ],
+    "mapping": [
+      "映射"
+    ],
+    "mapping functions": [
+      "映射函数"
+    ],
+    "margin": [
+      "外边距"
+    ],
+    "Markdown": [
+      "Markdown"
+    ],
+    "Marshal": [
+      "列集",
+      "序列化",
+      "数据编组"
+    ],
+    "Matching": [
+      "匹配"
+    ],
+    "math envy": [
+      "对数学家的妒忌"
+    ],
+    "matrix": [
+      "矩阵"
+    ],
+    "maven": [
+      "Maven"
+    ],
+    "MCP": [
+      "模型上下文协议"
+    ],
+    "MediaWiki": [
+      "MediaWiki"
+    ],
+    "member": [
+      "成员"
+    ],
+    "member access operator": [
+      "成员取用运算子(有dot和arrow两种)"
+    ],
+    "member function": [
+      "成员函数"
+    ],
+    "memorizing": [
+      "记忆化"
+    ],
+    "memory": [
+      "内存"
+    ],
+    "memory allocation": [
+      "内存分配"
+    ],
+    "memory leak": [
+      "内存泄漏"
+    ],
+    "memory leaks": [
+      "内存泄漏"
+    ],
+    "menu": [
+      "菜单"
+    ],
+    "message": [
+      "消息"
+    ],
+    "message based": [
+      "基于消息的"
+    ],
+    "message loop": [
+      "消息环"
+    ],
+    "message-passing": [
+      "消息传递"
+    ],
+    "meta-": [
+      "元-"
+    ],
+    "meta-programming": [
+      "元编程"
+    ],
+    "metacircular": [
+      "元循环"
+    ],
+    "metadata": [
+      "元数据"
+    ],
+    "method": [
+      "方法"
+    ],
+    "method combination": [
+      "方法组合"
+    ],
+    "micro": [
+      "微"
+    ],
+    "Microservices": [
+      "微服务"
+    ],
+    "Microsoft": [
+      "微软"
+    ],
+    "middle tier": [
+      "中间层"
+    ],
+    "middleware": [
+      "中间件"
+    ],
+    "Midjourney": [
+      "Midjourney"
+    ],
+    "migration": [
+      "（数据库）迁移"
+    ],
+    "MinGW": [
+      "MinGW"
+    ],
+    "minimal network": [
+      "最小网络"
+    ],
+    "mirror": [
+      "镜射"
+    ],
+    "miscellaneous": [
+      "杂项"
+    ],
+    "mismatch type": [
+      "类型不匹配"
+    ],
+    "Mistral": [
+      "Mistral"
+    ],
+    "MLOps": [
+      "机器学习运维"
+    ],
+    "Modality": [
+      "模态"
+    ],
+    "model": [
+      "模型"
+    ],
+    "modeling": [
+      "建模"
+    ],
+    "modeling language": [
+      "建模语言"
+    ],
+    "modem": [
+      "调制解调器"
+    ],
+    "modifier": [
+      "修饰字",
+      "修饰符"
+    ],
+    "modularity": [
+      "模块性"
+    ],
+    "module": [
+      "模块"
+    ],
+    "MoE": [
+      "混合专家系统"
+    ],
+    "monad": [
+      "单子"
+    ],
+    "monkey patch": [
+      "猴子补丁"
+    ],
+    "monomorphic type language": [
+      "单型语言"
+    ],
+    "Monorepo": [
+      "单体代码仓库"
+    ],
+    "Moore's law": [
+      "摩尔定律"
+    ],
+    "mouse": [
+      "鼠标"
+    ],
+    "MSYS2": [
+      "MSYS2"
+    ],
+    "Multi-agent": [
+      "多智能体"
+    ],
+    "Multi-modal": [
+      "多模态"
+    ],
+    "multi-task": [
+      "多任务"
+    ],
+    "multi-tasking": [
+      "多任务"
+    ],
+    "multi-thread": [
+      "多线程"
+    ],
+    "multicast delegate": [
+      "多点委托",
+      "组播委托"
+    ],
+    "multiple values": [
+      "多值"
+    ],
+    "Multiple Virtual Storage, MVS": [
+      "多重虚拟存储"
+    ],
+    "multithreaded server application": [
+      "多线程服务器应用程序"
+    ],
+    "multiuser": [
+      "多用户"
+    ],
+    "mutable": [
+      "可变的"
+    ],
+    "mutex": [
+      "互斥体",
+      "互斥元",
+      "互斥锁"
+    ],
+    "MyISAM": [
+      "MyISAM"
+    ],
+    "MySQL": [
+      "MySQL"
+    ]
+  },
+  "n": {
+    "named parameter": [
+      "命名参数"
+    ],
+    "named pipe": [
+      "命名管道"
+    ],
+    "namespace": [
+      "名字空间",
+      "命名空间"
+    ],
+    "native": [
+      "原生的",
+      "本地的"
+    ],
+    "native code": [
+      "本地码",
+      "本机码"
+    ],
+    "natural language": [
+      "自然语言"
+    ],
+    "natural language processing": [
+      "自然语言处理"
+    ],
+    "Neo4j": [
+      "Neo4j"
+    ],
+    "nested": [
+      "嵌套"
+    ],
+    "nested class": [
+      "嵌套类"
+    ],
+    "nested query": [
+      "嵌套查询 (for database)"
+    ],
+    "nested table": [
+      "嵌套表 (for database)"
+    ],
+    "network": [
+      "网络"
+    ],
+    "network card": [
+      "网卡"
+    ],
+    "Network Flow": [
+      "网络流"
+    ],
+    "newline": [
+      "换行"
+    ],
+    "Next.js": [
+      "Next.js"
+    ],
+    "Nginx": [
+      "Nginx"
+    ],
+    "nil": [
+      "nil",
+      "空"
+    ],
+    "non-deterministic choice": [
+      "非确定性选择"
+    ],
+    "non-strict": [
+      "非严格"
+    ],
+    "non-strict evaluation": [
+      "非严格求值"
+    ],
+    "nondestructive version": [
+      "非破坏性的版本"
+    ],
+    "none": [
+      "none",
+      "无"
+    ],
+    "NPU": [
+      "神经网络处理单元"
+    ],
+    "null": [
+      "null",
+      "空"
+    ],
+    "number crunching": [
+      "数字密集运算"
+    ],
+    "Nuxt": [
+      "Nuxt"
+    ],
+    "NVIDIA": [
+      "英伟达"
+    ]
+  },
+  "o": {
+    "oAuth": [
+      "开放授权协议"
+    ],
+    "object": [
+      "对象"
+    ],
+    "object based": [
+      "基于对象的"
+    ],
+    "object code": [
+      "目标代码"
+    ],
+    "object model": [
+      "对象模型"
+    ],
+    "object oriented": [
+      "面向对象的"
+    ],
+    "object-oriented": [
+      "面向对象"
+    ],
+    "object-oriented programming": [
+      "面向对象编程"
+    ],
+    "Observability": [
+      "可观测性"
+    ],
+    "Occam's razor": [
+      "奥卡姆剃刀原则"
+    ],
+    "OIDC": [
+      "OpenID 连接协议"
+    ],
+    "Ollama": [
+      "Ollama"
+    ],
+    "on the fly": [
+      "运行中"
+    ],
+    "one-to-many relationship": [
+      "一对多关系 (for database)"
+    ],
+    "one-to-one relationship": [
+      "一对一关系 (for database)"
+    ],
+    "online": [
+      "在线"
+    ],
+    "ONNX": [
+      "开放神经网络交换格式"
+    ],
+    "open source": [
+      "开放源码"
+    ],
+    "OpenAI": [
+      "OpenAI"
+    ],
+    "OpenRouter": [
+      "OpenRouter"
+    ],
+    "OpenTelemetry": [
+      "OpenTelemetry"
+    ],
+    "operand": [
+      "操作对象"
+    ],
+    "operating system (OS)": [
+      "操作系统"
+    ],
+    "operating system, OS": [
+      "操作系统"
+    ],
+    "operation": [
+      "操作"
+    ],
+    "operator": [
+      "操作符",
+      "运算符"
+    ],
+    "optimization": [
+      "优化"
+    ],
+    "optimization of tail calls": [
+      "尾调用优化"
+    ],
+    "option": [
+      "选项"
+    ],
+    "optional": [
+      "可选的"
+    ],
+    "optional argument": [
+      "选择性参数"
+    ],
+    "ordinary": [
+      "常规的"
+    ],
+    "origin": [
+      "源",
+      "起始点"
+    ],
+    "orthogonality": [
+      "正交性"
+    ],
+    "OS": [
+      "操作系统"
+    ],
+    "outer join": [
+      "外联接 (for database)"
+    ],
+    "overflow": [
+      "上限溢位(相对于underflow)",
+      "溢出"
+    ],
+    "overhead": [
+      "额外开销"
+    ],
+    "overload": [
+      "重载"
+    ],
+    "override": [
+      "覆写",
+      "重新定义",
+      "重载"
+    ]
+  },
+  "p": {
+    "PaaS": [
+      "平台即服务"
+    ],
+    "package": [
+      "包"
+    ],
+    "packaging": [
+      "打包"
+    ],
+    "pair": [
+      "点对"
+    ],
+    "palette": [
+      "调色板"
+    ],
+    "palindrome": [
+      "回文"
+    ],
+    "Pandoc": [
+      "Pandoc"
+    ],
+    "paradigm": [
+      "范式"
+    ],
+    "parallel": [
+      "并行"
+    ],
+    "parallel computer": [
+      "并行计算机"
+    ],
+    "param": [
+      "参数"
+    ],
+    "parameter": [
+      "参数",
+      "形参",
+      "形式参数"
+    ],
+    "parameter list": [
+      "参数列表"
+    ],
+    "parameterize": [
+      "参数化"
+    ],
+    "paren-matching": [
+      "括号匹配"
+    ],
+    "parent class": [
+      "父类"
+    ],
+    "parentheses": [
+      "圆括号",
+      "圆括弧",
+      "括号"
+    ],
+    "Parkinson's law": [
+      "帕金森法则"
+    ],
+    "parse": [
+      "解析"
+    ],
+    "parse tree": [
+      "解析树"
+    ],
+    "parser": [
+      "解析器"
+    ],
+    "part": [
+      "部件",
+      "零件"
+    ],
+    "partial application": [
+      "部分应用"
+    ],
+    "partial applied": [
+      "分步代入的"
+    ],
+    "partial function application": [
+      "部分函数应用"
+    ],
+    "partial specialization": [
+      "局部特化"
+    ],
+    "particular ordering": [
+      "部分有序"
+    ],
+    "pass by adress": [
+      "按址传递"
+    ],
+    "pass by reference": [
+      "引用传递",
+      "按引用传递"
+    ],
+    "pass by value": [
+      "值传递",
+      "按值传递"
+    ],
+    "path": [
+      "路径"
+    ],
+    "pattern": [
+      "模式"
+    ],
+    "pattern match": [
+      "模式匹配"
+    ],
+    "Paxos": [
+      "Paxos"
+    ],
+    "perform": [
+      "执行"
+    ],
+    "performance": [
+      "性能"
+    ],
+    "Perplexity": [
+      "困惑度"
+    ],
+    "persistence": [
+      "持久性"
+    ],
+    "phantom": [
+      "幻读",
+      "幻象"
+    ],
+    "phrenology": [
+      "相面"
+    ],
+    "physical": [
+      "物理的"
+    ],
+    "Pinecone": [
+      "Pinecone"
+    ],
+    "pipe": [
+      "管道"
+    ],
+    "pixel": [
+      "像素"
+    ],
+    "placeholder": [
+      "占位符"
+    ],
+    "planning": [
+      "计画"
+    ],
+    "platform": [
+      "平台"
+    ],
+    "PNG": [
+      "PNG"
+    ],
+    "pnpm": [
+      "pnpm"
+    ],
+    "Pod": [
+      "Pod"
+    ],
+    "Point Location": [
+      "位置查询"
+    ],
+    "pointer": [
+      "指针"
+    ],
+    "pointer arithmetic": [
+      "指针运算"
+    ],
+    "poll": [
+      "轮询"
+    ],
+    "polymorphic": [
+      "多态"
+    ],
+    "polymorphism": [
+      "多态"
+    ],
+    "polynomial": [
+      "多项式的"
+    ],
+    "pool": [
+      "池"
+    ],
+    "pooling": [
+      "池化"
+    ],
+    "pop up": [
+      "弹出式"
+    ],
+    "port": [
+      "端口"
+    ],
+    "portable": [
+      "可移植性"
+    ],
+    "portal": [
+      "门户"
+    ],
+    "positional parameters": [
+      "位置参数"
+    ],
+    "postfix": [
+      "后序",
+      "后缀"
+    ],
+    "PostgreSQL": [
+      "PostgreSQL"
+    ],
+    "PRD": [
+      "产品需求文档"
+    ],
+    "Pre-training": [
+      "预训练"
+    ],
+    "precedence": [
+      "优先序(通常用于运算子的优先执行次序)",
+      "优先级"
+    ],
+    "precedence list": [
+      "优先级列表"
+    ],
+    "preceding": [
+      "前述的"
+    ],
+    "predicate": [
+      "判断式"
+    ],
+    "preemptive multitasking": [
+      "抢占式多任务"
+    ],
+    "preference": [
+      "偏好"
+    ],
+    "prefix": [
+      "前缀"
+    ],
+    "premature design": [
+      "过早设计"
+    ],
+    "preprocessor": [
+      "预处理器"
+    ],
+    "prescribe": [
+      "规定"
+    ],
+    "primary table": [
+      "主表 (for database)"
+    ],
+    "prime": [
+      "素数"
+    ],
+    "primitive": [
+      "原语"
+    ],
+    "primitive recursive": [
+      "主递归"
+    ],
+    "primitive type": [
+      "原始类型",
+      "原生类型"
+    ],
+    "principal type": [
+      "主要类型"
+    ],
+    "print": [
+      "打印"
+    ],
+    "printed representation": [
+      "打印表示法"
+    ],
+    "printer": [
+      "打印机"
+    ],
+    "priority": [
+      "优先级"
+    ],
+    "privilege": [
+      "权限"
+    ],
+    "procedure": [
+      "过程"
+    ],
+    "procedurual": [
+      "过程化的"
+    ],
+    "procedurual knowledge": [
+      "过程式知识"
+    ],
+    "process": [
+      "进程"
+    ],
+    "process priority": [
+      "进程优先级"
+    ],
+    "productivity": [
+      "生产力"
+    ],
+    "profile": [
+      "评测"
+    ],
+    "profiler": [
+      "评测器"
+    ],
+    "program": [
+      "程序"
+    ],
+    "programmer": [
+      "程序员"
+    ],
+    "programming": [
+      "编程"
+    ],
+    "programming language": [
+      "编程语言"
+    ],
+    "progress bar": [
+      "进度指示器"
+    ],
+    "project": [
+      "工程",
+      "项目"
+    ],
+    "Prometheus": [
+      "Prometheus"
+    ],
+    "Prompt": [
+      "提示符",
+      "提示词"
+    ],
+    "Prompt Engineering": [
+      "提示工程"
+    ],
+    "proper list": [
+      "正规列表"
+    ],
+    "property": [
+      "属性"
+    ],
+    "property list": [
+      "属性列表"
+    ],
+    "protocol": [
+      "协议"
+    ],
+    "prototype": [
+      "原型"
+    ],
+    "proxy": [
+      "代理"
+    ],
+    "pseudo code": [
+      "伪码"
+    ],
+    "pseudo instruction": [
+      "伪指令"
+    ],
+    "Puppet": [
+      "Puppet"
+    ],
+    "purely functional language": [
+      "纯函数式语言"
+    ],
+    "pushdown stack": [
+      "下推栈"
+    ],
+    "Putty": [
+      "PuTTY"
+    ],
+    "Python": [
+      "Python"
+    ],
+    "PyTorch": [
+      "PyTorch"
+    ]
+  },
+  "q": {
+    "Qdrant": [
+      "Qdrant"
+    ],
+    "QLoRA": [
+      "QLoRA"
+    ],
+    "Qt": [
+      "Qt"
+    ],
+    "qualified": [
+      "修饰的",
+      "合格的"
+    ],
+    "qualifier": [
+      "修饰符"
+    ],
+    "quality": [
+      "质量"
+    ],
+    "quality assurance, QA": [
+      "质量保证"
+    ],
+    "Quantization": [
+      "量化"
+    ],
+    "query": [
+      "查询"
+    ],
+    "query language": [
+      "查询语言"
+    ],
+    "queue": [
+      "队列"
+    ],
+    "quota": [
+      "配额"
+    ],
+    "quote": [
+      "引用"
+    ],
+    "quoted form": [
+      "引用形式"
+    ],
+    "Qwen": [
+      "通义千问"
+    ]
+  },
+  "r": {
+    "race condition": [
+      "条件竞争"
+    ],
+    "radian": [
+      "弧度"
+    ],
+    "radio button": [
+      "单选按钮"
+    ],
+    "RAG": [
+      "检索增强生成"
+    ],
+    "raise": [
+      "引起"
+    ],
+    "random number": [
+      "随机数"
+    ],
+    "Random Number Generation": [
+      "随机数生成"
+    ],
+    "range": [
+      "区间",
+      "范围"
+    ],
+    "rank": [
+      "等级",
+      "（矩阵）秩"
+    ],
+    "rapid prototyping": [
+      "快速原型开发"
+    ],
+    "Ratio": [
+      "比率"
+    ],
+    "rational database": [
+      "关系数据库"
+    ],
+    "raw": [
+      "未经处理的"
+    ],
+    "rbd": [
+      "RADOS 块设备"
+    ],
+    "re-direction": [
+      "重定向"
+    ],
+    "REACT": [
+      "React"
+    ],
+    "read": [
+      "读取"
+    ],
+    "read-evaluate-print loop, REPL": [
+      "读取-求值-打印循环"
+    ],
+    "read-macro": [
+      "读取宏"
+    ],
+    "Realm": [
+      "Realm"
+    ],
+    "Reasoning": [
+      "思维",
+      "推理"
+    ],
+    "record": [
+      "记录",
+      "记录 (for database)"
+    ],
+    "recordset": [
+      "记录集 (for database"
+    ],
+    "recursion": [
+      "递归"
+    ],
+    "recursive": [
+      "递归",
+      "递归的"
+    ],
+    "recursive case": [
+      "递归情形"
+    ],
+    "Redis": [
+      "Redis"
+    ],
+    "Reduced Instruction Set Computer, RISC": [
+      "精简指令系统计算机"
+    ],
+    "Redundant Array of Independent Disks, RAID": [
+      "冗余独立磁盘阵列"
+    ],
+    "refactor": [
+      "重构"
+    ],
+    "refactoring": [
+      "重构"
+    ],
+    "refer": [
+      "参考",
+      "引用"
+    ],
+    "reference": [
+      "参考",
+      "引用"
+    ],
+    "referential transparency": [
+      "引用透明"
+    ],
+    "refine": [
+      "精化"
+    ],
+    "reflection": [
+      "反射"
+    ],
+    "refresh data": [
+      "刷新数据 (for database)"
+    ],
+    "register": [
+      "寄存器"
+    ],
+    "registry creep": [
+      "注册表蠕变"
+    ],
+    "regression": [
+      "回归"
+    ],
+    "regular expression": [
+      "正则表达式"
+    ],
+    "relational database": [
+      "关系数据库"
+    ],
+    "relay": [
+      "中继"
+    ],
+    "Remix": [
+      "Remix"
+    ],
+    "remote": [
+      "远程"
+    ],
+    "remote procedure call, RPC": [
+      "远程过程调用"
+    ],
+    "remote request": [
+      "远程请求"
+    ],
+    "represent": [
+      "表现",
+      "表述"
+    ],
+    "request": [
+      "请求"
+    ],
+    "resolution": [
+      "解析度",
+      "解析过程"
+    ],
+    "resolve": [
+      "决议",
+      "解析"
+    ],
+    "resolved": [
+      "已解决",
+      "已解析"
+    ],
+    "resort": [
+      "重排"
+    ],
+    "rest parameter": [
+      "剩余参数"
+    ],
+    "result set": [
+      "结果集 (for database)"
+    ],
+    "resume": [
+      "恢复"
+    ],
+    "retina": [
+      "视网膜屏"
+    ],
+    "retrieve": [
+      "检索"
+    ],
+    "retrieve data": [
+      "检索数据"
+    ],
+    "return": [
+      "返回"
+    ],
+    "return type": [
+      "返回类型"
+    ],
+    "return value": [
+      "返回值"
+    ],
+    "reuse of software": [
+      "代码重用"
+    ],
+    "revoke": [
+      "撤销"
+    ],
+    "right associative": [
+      "右结合"
+    ],
+    "right outer join": [
+      "右向外联接 (for database)"
+    ],
+    "RLHF": [
+      "人类反馈强化学习"
+    ],
+    "robust": [
+      "健壮"
+    ],
+    "robustness": [
+      "健壮性"
+    ],
+    "roll back": [
+      "回滚 (for database)"
+    ],
+    "roll forward": [
+      "前滚 (for database)"
+    ],
+    "root": [
+      "根节点",
+      "超级用户"
+    ],
+    "routine": [
+      "例程"
+    ],
+    "routing": [
+      "路由"
+    ],
+    "row": [
+      "行 (for database)"
+    ],
+    "row-major order": [
+      "列主序"
+    ],
+    "rowset": [
+      "行集 (for database)"
+    ],
+    "run-length encoding": [
+      "游程编码"
+    ],
+    "run-time typing": [
+      "运行期类型"
+    ],
+    "RunPod": [
+      "RunPod"
+    ],
+    "runtime": [
+      "执行时",
+      "执行期",
+      "运行时",
+      "运行期"
+    ],
+    "Rust": [
+      "Rust 语言"
+    ],
+    "rvalue": [
+      "右值"
+    ]
+  },
+  "s": {
+    "S-expression": [
+      "S-表达式"
+    ],
+    "SaaS": [
+      "软件即服务"
+    ],
+    "Safari": [
+      "Safari"
+    ],
+    "san": [
+      "存储区域网络"
+    ],
+    "Satisfiability": [
+      "可满足性"
+    ],
+    "save": [
+      "保存",
+      "储存"
+    ],
+    "savepoint": [
+      "保存点 (for database)"
+    ],
+    "scaffold": [
+      "脚手架"
+    ],
+    "scalable": [
+      "可伸缩的",
+      "可扩展的"
+    ],
+    "scalar type": [
+      "标量"
+    ],
+    "Scaling Law": [
+      "规模法则"
+    ],
+    "scan": [
+      "扫描"
+    ],
+    "schedule": [
+      "调度"
+    ],
+    "scheduler": [
+      "调度程序"
+    ],
+    "schema": [
+      "架构",
+      "模式",
+      "纲目结构"
+    ],
+    "scheme": [
+      "协议",
+      "方案"
+    ],
+    "scope": [
+      "作用域",
+      "生存空间"
+    ],
+    "SCREAMING_SNAKE_CASE": [
+      "尖叫式蛇底大写"
+    ],
+    "screen": [
+      "屏幕"
+    ],
+    "scripting language": [
+      "脚本语言"
+    ],
+    "sealed class": [
+      "密封类"
+    ],
+    "search": [
+      "查找"
+    ],
+    "Searching": [
+      "查找"
+    ],
+    "Secure Sockets Layer, SSL": [
+      "安全套接字层"
+    ],
+    "segment of instructions": [
+      "指令片段"
+    ],
+    "segue": [
+      "转场"
+    ],
+    "semantics": [
+      "语义"
+    ],
+    "semaphore": [
+      "信号量"
+    ],
+    "semicolon": [
+      "分号"
+    ],
+    "sequence": [
+      "序列"
+    ],
+    "sequential": [
+      "循序的"
+    ],
+    "serial": [
+      "串行"
+    ],
+    "serializable": [
+      "可序列化"
+    ],
+    "serialization": [
+      "序列化"
+    ],
+    "serialization/serialize": [
+      "序列化"
+    ],
+    "series": [
+      "串行"
+    ],
+    "server": [
+      "服务器",
+      "服务端"
+    ],
+    "Serverless": [
+      "无服务器架构"
+    ],
+    "session": [
+      "会话 (for database)"
+    ],
+    "Set and String Problems": [
+      "集合与串的问题"
+    ],
+    "Set Cover": [
+      "集合覆盖"
+    ],
+    "Set Data Structures": [
+      "集合"
+    ],
+    "Set Packing": [
+      "集合配置"
+    ],
+    "setter": [
+      "设值函数"
+    ],
+    "shadowing": [
+      "隐蔽了"
+    ],
+    "Shard": [
+      "分片"
+    ],
+    "sharp": [
+      "犀利的"
+    ],
+    "sharp-quote": [
+      "升引号"
+    ],
+    "shell": [
+      "命令行解释器",
+      "壳"
+    ],
+    "shortest path": [
+      "最短路径"
+    ],
+    "SICP": [
+      "《计算机程序的构造与解释》"
+    ],
+    "side effect": [
+      "副作用"
+    ],
+    "Sidecar": [
+      "边车"
+    ],
+    "signature": [
+      "签名"
+    ],
+    "simple vector": [
+      "简单向量"
+    ],
+    "simulate": [
+      "模拟"
+    ],
+    "Single Point of Truth, SPOT": [
+      "真理的单点性"
+    ],
+    "single-segment": [
+      "单段的"
+    ],
+    "single-threaded": [
+      "单线程"
+    ],
+    "sketch": [
+      "草图"
+    ],
+    "Skype": [
+      "Skype"
+    ],
+    "slash": [
+      "斜线"
+    ],
+    "slot": [
+      "槽"
+    ],
+    "smart pointer": [
+      "智能指针"
+    ],
+    "SMTP (Simple Mail Transfer Protocol)": [
+      "简单邮件传输协议"
+    ],
+    "snake_case": [
+      "蛇底式小写"
+    ],
+    "snapshot": [
+      "屏幕截图",
+      "快照 (for database)"
+    ],
+    "SOAP (simple object access protocol)": [
+      "简单对象访问协议"
+    ],
+    "socket": [
+      "套接字"
+    ],
+    "software": [
+      "软件"
+    ],
+    "Solidity": [
+      "Solidity"
+    ],
+    "solution": [
+      "方案"
+    ],
+    "SOP": [
+      "标准作业程序"
+    ],
+    "Sora": [
+      "Sora"
+    ],
+    "Sorting": [
+      "排序"
+    ],
+    "source code": [
+      "源代码",
+      "源码"
+    ],
+    "space leak": [
+      "内存泄漏"
+    ],
+    "spaghetti": [
+      "面条式代码"
+    ],
+    "spaghetti stack": [
+      "意面式栈"
+    ],
+    "spam": [
+      "垃圾邮件"
+    ],
+    "Spark": [
+      "Apache Spark"
+    ],
+    "spec": [
+      "规格"
+    ],
+    "special form": [
+      "特殊形式"
+    ],
+    "special variable": [
+      "特殊变量"
+    ],
+    "specialization": [
+      "特化"
+    ],
+    "specialize": [
+      "特化"
+    ],
+    "specialized array": [
+      "特化数组"
+    ],
+    "specification": [
+      "规格",
+      "规格说明",
+      "规范"
+    ],
+    "splitter": [
+      "切分窗口"
+    ],
+    "sprite": [
+      "精灵图"
+    ],
+    "SQL": [
+      "结构化查询语言"
+    ],
+    "SQL (Structured Query Language)": [
+      "结构化查询语言 (for database)"
+    ],
+    "square": [
+      "平方"
+    ],
+    "square root": [
+      "平方根"
+    ],
+    "squash": [
+      "碰撞"
+    ],
+    "SSO": [
+      "单点登录"
+    ],
+    "Stable Diffusion": [
+      "Stable Diffusion"
+    ],
+    "stack": [
+      "堆栈",
+      "栈"
+    ],
+    "stack frame": [
+      "栈帧"
+    ],
+    "standard library": [
+      "标准函式库",
+      "标准库"
+    ],
+    "standard template library": [
+      "标准模板库"
+    ],
+    "stat": [
+      "状态",
+      "统计"
+    ],
+    "state machine": [
+      "状态机"
+    ],
+    "stateless": [
+      "无状态的"
+    ],
+    "statement": [
+      "声明",
+      "语句",
+      "陈述"
+    ],
+    "static cursor": [
+      "静态游标 (for database)"
+    ],
+    "static SQL statements": [
+      "静态SQL语句 (for database)"
+    ],
+    "static type": [
+      "静态类型"
+    ],
+    "static type system": [
+      "静态类型系统"
+    ],
+    "status": [
+      "状态"
+    ],
+    "status bar": [
+      "状态条"
+    ],
+    "store": [
+      "保存"
+    ],
+    "stored procedure": [
+      "存储过程 (for database)"
+    ],
+    "stream": [
+      "流"
+    ],
+    "Streamlit": [
+      "Streamlit"
+    ],
+    "strict": [
+      "严格"
+    ],
+    "strict evaluation": [
+      "严格求值"
+    ],
+    "string": [
+      "字串",
+      "字符串"
+    ],
+    "String Matching": [
+      "模式匹配"
+    ],
+    "string template": [
+      "字串模版"
+    ],
+    "strong type": [
+      "强类型"
+    ],
+    "structural recursion": [
+      "结构递归"
+    ],
+    "structured values": [
+      "结构型值"
+    ],
+    "stub": [
+      "存根"
+    ],
+    "subquery": [
+      "子查询 (for database)"
+    ],
+    "subroutine": [
+      "子程序"
+    ],
+    "subscript operator": [
+      "下标操作符"
+    ],
+    "subset": [
+      "子集"
+    ],
+    "substitution": [
+      "代换"
+    ],
+    "substitution model": [
+      "代换模型"
+    ],
+    "subtype": [
+      "子类型"
+    ],
+    "sudo": [
+      "sudo",
+      "以超级用户执行"
+    ],
+    "suite": [
+      "套件"
+    ],
+    "superclass": [
+      "基类"
+    ],
+    "superfluous": [
+      "多余的"
+    ],
+    "supertype": [
+      "超集"
+    ],
+    "support": [
+      "支持"
+    ],
+    "suspend": [
+      "挂起"
+    ],
+    "Svelte": [
+      "Svelte"
+    ],
+    "swapping values": [
+      "交换变量的值"
+    ],
+    "symbol": [
+      "符号",
+      "记号"
+    ],
+    "symbolic computation": [
+      "符号计算"
+    ],
+    "syntax": [
+      "语法"
+    ],
+    "Synthetic Data": [
+      "合成数据"
+    ],
+    "system administrator": [
+      "系统管理员"
+    ],
+    "system administrator disease": [
+      "系统管理员综合症"
+    ],
+    "system databases": [
+      "系统数据库 (for database)"
+    ],
+    "System Network Architecture, SNA": [
+      "系统网络体系"
+    ],
+    "system tables": [
+      "系统表 (for database)"
+    ]
+  },
+  "t": {
+    "table": [
+      "表 (for database)",
+      "表格"
+    ],
+    "table-level constraint": [
+      "表级约束 (for database)"
+    ],
+    "tag": [
+      "标签"
+    ],
+    "tail-recursion": [
+      "尾递归"
+    ],
+    "tail-recursive": [
+      "尾递归的"
+    ],
+    "Tailwind": [
+      "Tailwind CSS"
+    ],
+    "TAOCP": [
+      "《计算机程序设计艺术》"
+    ],
+    "target": [
+      "标的",
+      "目标"
+    ],
+    "task switch": [
+      "工作切换"
+    ],
+    "Tauri": [
+      "Tauri"
+    ],
+    "taxable operators": [
+      "需节制使用的操作符"
+    ],
+    "taxonomy": [
+      "分类法"
+    ],
+    "TCP (Transport Control Protocol)": [
+      "传输控制协议"
+    ],
+    "telnet": [
+      "Telnet"
+    ],
+    "Temperature": [
+      "温度"
+    ],
+    "template": [
+      "模板",
+      "模版"
+    ],
+    "temporary object": [
+      "临时对象"
+    ],
+    "temporary table": [
+      "临时表 (for database)"
+    ],
+    "TensorFlow": [
+      "TensorFlow"
+    ],
+    "Terraform": [
+      "Terraform"
+    ],
+    "testing": [
+      "测试"
+    ],
+    "text": [
+      "文本"
+    ],
+    "Text Compression": [
+      "压缩"
+    ],
+    "text file": [
+      "文本文件"
+    ],
+    "The Paradox of Choice": [
+      "选择谬论"
+    ],
+    "thin client": [
+      "瘦客户端"
+    ],
+    "third-party": [
+      "第三方"
+    ],
+    "thread": [
+      "线程"
+    ],
+    "thread safe": [
+      "线程安全"
+    ],
+    "thread-safe": [
+      "线程安全的"
+    ],
+    "three-valued logic": [
+      "三值逻辑"
+    ],
+    "thrift": [
+      "Thrift"
+    ],
+    "throw": [
+      "引发(常指发出一个exception)",
+      "抛出"
+    ],
+    "throwaway program": [
+      "一次性程序"
+    ],
+    "TiKZ": [
+      "TiKZ"
+    ],
+    "timestamp": [
+      "时间戳"
+    ],
+    "Token": [
+      "令牌",
+      "词元",
+      "词法记号"
+    ],
+    "Tokenization": [
+      "词元化",
+      "词法分析"
+    ],
+    "top-down design": [
+      "自顶向下的设计"
+    ],
+    "top-level": [
+      "顶层"
+    ],
+    "topology": [
+      "拓扑结构"
+    ],
+    "TPL": [
+      "任务并行库"
+    ],
+    "TPU": [
+      "张量处理单元"
+    ],
+    "trace": [
+      "跟踪",
+      "追踪"
+    ],
+    "Traefik": [
+      "Traefik"
+    ],
+    "trailing space": [
+      "行尾空白"
+    ],
+    "transaction": [
+      "事务",
+      "事务 (for database)"
+    ],
+    "transaction log": [
+      "事务日志 (for database)"
+    ],
+    "transaction rollback": [
+      "事务回滚 (for database)"
+    ],
+    "Transformer": [
+      "Transformer"
+    ],
+    "transition network": [
+      "转移网络"
+    ],
+    "transparent": [
+      "透明的"
+    ],
+    "traverse": [
+      "遍历"
+    ],
+    "tree": [
+      "树"
+    ],
+    "tree recursion": [
+      "树形递归"
+    ],
+    "trigger": [
+      "触发器",
+      "触发器 (for database)"
+    ],
+    "Triton": [
+      "Triton"
+    ],
+    "tuple": [
+      "元组"
+    ],
+    "Turborepo": [
+      "Turborepo"
+    ],
+    "Turing complete": [
+      "图灵完备"
+    ],
+    "Turing machine": [
+      "图灵机"
+    ],
+    "typable": [
+      "类型合法"
+    ],
+    "type": [
+      "类型"
+    ],
+    "type constructor": [
+      "类构造器"
+    ],
+    "type declaration": [
+      "类型声明"
+    ],
+    "type hierarchy": [
+      "类型层级"
+    ],
+    "type inference": [
+      "类型推导"
+    ],
+    "type name": [
+      "类型名"
+    ],
+    "type safe": [
+      "类型安全"
+    ],
+    "type signature": [
+      "类型签名"
+    ],
+    "type synonym": [
+      "类型别名"
+    ],
+    "type variable": [
+      "类型变量"
+    ],
+    "TypeScript": [
+      "TypeScript"
+    ],
+    "typical": [
+      "典型"
+    ],
+    "typing": [
+      "类型指派"
+    ],
+    "typology": [
+      "类型学"
+    ]
+  },
+  "u": {
+    "Uber": [
+      "优步"
+    ],
+    "Ubuntu": [
+      "Ubuntu"
+    ],
+    "unary": [
+      "一元的"
+    ],
+    "unary function": [
+      "单参函数"
+    ],
+    "unary operator": [
+      "一元操作符"
+    ],
+    "unboxing": [
+      "拆箱",
+      "拆箱转换"
+    ],
+    "underflow": [
+      "下溢",
+      "下限溢位(相对于overflow)"
+    ],
+    "Unicode": [
+      "统一字符编码标准",
+      "采用双字节对字符进行编码"
+    ],
+    "unification": [
+      "合一"
+    ],
+    "Uniform Resource Locator, URL": [
+      "统一资源定位符"
+    ],
+    "union": [
+      "并集"
+    ],
+    "Union query": [
+      "联合查询 (for database)"
+    ],
+    "unique index": [
+      "唯一索引 (for database)"
+    ],
+    "Unity Catalog": [
+      "Unity Catalog"
+    ],
+    "universally quantify": [
+      "全局量化"
+    ],
+    "unmanaged code": [
+      "非受控代码",
+      "非托管代码"
+    ],
+    "Unmarshal": [
+      "反序列化",
+      "散集",
+      "解码"
+    ],
+    "unqualfied": [
+      "未修饰的"
+    ],
+    "unqualified": [
+      "未经修饰的",
+      "未经限定的"
+    ],
+    "Unsloth": [
+      "Unsloth"
+    ],
+    "uptime": [
+      "运行时间"
+    ],
+    "URI": [
+      "统一资源标识符"
+    ],
+    "URI (Uniform Resource identifier)": [
+      "统一资源标识符"
+    ],
+    "URL": [
+      "统一资源定位符"
+    ],
+    "URL (Uniform Resource Locator)": [
+      "统一资源定位器"
+    ],
+    "user": [
+      "用户"
+    ],
+    "user interface": [
+      "用户界面"
+    ],
+    "user interface, UI": [
+      "用户界面"
+    ],
+    "utilities": [
+      "实用函数"
+    ]
+  },
+  "v": {
+    "validate": [
+      "验证"
+    ],
+    "validator": [
+      "验证器"
+    ],
+    "value constructor": [
+      "值构造器"
+    ],
+    "value types": [
+      "值类型"
+    ],
+    "vaporware": [
+      "朦胧件"
+    ],
+    "variable": [
+      "变量"
+    ],
+    "variable capture": [
+      "变量捕捉"
+    ],
+    "variadic input": [
+      "可变输入"
+    ],
+    "variant": [
+      "变种"
+    ],
+    "vector": [
+      "向量",
+      "向量(一种容器",
+      "有点类似array)"
+    ],
+    "Vector Database": [
+      "向量数据库"
+    ],
+    "vendor": [
+      "厂商"
+    ],
+    "venture capitalist, VC": [
+      "风险投资商"
+    ],
+    "Vercel": [
+      "Vercel"
+    ],
+    "viable": [
+      "可行的"
+    ],
+    "viable function": [
+      "可行函数"
+    ],
+    "video": [
+      "视频"
+    ],
+    "view": [
+      "视图"
+    ],
+    "virtual function": [
+      "虚函数"
+    ],
+    "virtual machine": [
+      "虚拟机"
+    ],
+    "virtual memory": [
+      "虚内存",
+      "虚拟内存"
+    ],
+    "Vite": [
+      "Vite"
+    ],
+    "VLLM": [
+      "vLLM"
+    ],
+    "VLM": [
+      "视觉语言模型"
+    ],
+    "volatile": [
+      "挥发"
+    ],
+    "vowel": [
+      "元音"
+    ],
+    "Vue": [
+      "Vue"
+    ]
+  },
+  "w": {
+    "warning message": [
+      "警告信息"
+    ],
+    "Wasm": [
+      "WebAssembly"
+    ],
+    "Weaviate": [
+      "Weaviate"
+    ],
+    "web server": [
+      "网络服务器"
+    ],
+    "Web3": [
+      "Web3"
+    ],
+    "WebGPU": [
+      "WebGPU"
+    ],
+    "WebSocket": [
+      "WebSocket"
+    ],
+    "weight": [
+      "权值"
+    ],
+    "well type": [
+      "类型正确"
+    ],
+    "What You See Is What You Get, WYSIWYG": [
+      "所见即所得"
+    ],
+    "What You See Is What You Want, WYSIWYW": [
+      "所见即所想"
+    ],
+    "Whisper": [
+      "Whisper"
+    ],
+    "width": [
+      "宽度"
+    ],
+    "wildcard": [
+      "通配符"
+    ],
+    "wildcard characters": [
+      "通配符字符 (for database)"
+    ],
+    "wildcard search": [
+      "通配符搜索 (for database)"
+    ],
+    "window": [
+      "窗口"
+    ],
+    "window function": [
+      "窗口函数"
+    ],
+    "window procedure": [
+      "窗口过程"
+    ],
+    "wizard": [
+      "向导"
+    ],
+    "word": [
+      "单词"
+    ],
+    "WordPress": [
+      "WordPress"
+    ],
+    "wrapper": [
+      "包装器"
+    ],
+    "write enable": [
+      "写启用 (for database)"
+    ],
+    "write-only": [
+      "只写"
+    ]
+  },
+  "x": {
+    "xAI": [
+      "xAI"
+    ],
+    "XML (eXtensible Markup Language)": [
+      "可扩展标记语言"
+    ],
+    "XSL (eXtensible Stylesheet Language)": [
+      "可扩展样式表语言"
+    ],
+    "XState": [
+      "XState"
+    ]
+  },
+  "y": {
+    "Y combinator": [
+      "Y组合子"
+    ],
+    "YouTube": [
+      "YouTube"
+    ],
+    "Yum": [
+      "Yum"
+    ]
+  },
+  "z": {
+    "Z-expression": [
+      "Z-表达式"
+    ],
+    "Zabbix": [
+      "Zabbix"
+    ],
+    "zero-indexed": [
+      "零索引的"
+    ],
+    "Zero-shot": [
+      "零样本学习"
+    ],
+    "Zig": [
+      "Zig 语言"
+    ]
+  }
+}

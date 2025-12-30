@@ -1,0 +1,379 @@
+{
+  "DALL-E": [
+    "DALL-E"
+  ],
+  "dangling pointer": [
+    "迷途指针"
+  ],
+  "dashboard": [
+    "仪表板"
+  ],
+  "data": [
+    "数据"
+  ],
+  "data connection": [
+    "数据连接 (for database)"
+  ],
+  "data dictionary": [
+    "数据字典 (for database)"
+  ],
+  "data file": [
+    "数据文件 (for database)"
+  ],
+  "data integrity": [
+    "数据完整性 (for database)"
+  ],
+  "data member": [
+    "成员变量",
+    "数据成员"
+  ],
+  "data source": [
+    "数据源 (for database)"
+  ],
+  "Data source name (DSN)": [
+    "数据源名称(DSN) (for database)"
+  ],
+  "data structure": [
+    "数据结构"
+  ],
+  "Data Structures": [
+    "基本数据结构"
+  ],
+  "data table": [
+    "数据表 (for database)"
+  ],
+  "data type": [
+    "数据类型"
+  ],
+  "data-bound": [
+    "数据绑定 (for database)"
+  ],
+  "data-driven": [
+    "数据驱动"
+  ],
+  "database": [
+    "数据库",
+    "数据库 (for database)"
+  ],
+  "database catalog": [
+    "数据库目录 (for database)"
+  ],
+  "database diagram": [
+    "数据关系图 (for database)"
+  ],
+  "database file": [
+    "数据库文件 (for database)"
+  ],
+  "database object": [
+    "数据库对象 (for database)"
+  ],
+  "database owner": [
+    "数据库所有者 (for database)"
+  ],
+  "database project": [
+    "数据库工程 (for database)"
+  ],
+  "database role": [
+    "数据库角色 (for database)"
+  ],
+  "database schema": [
+    "数据库架构 (for database)",
+    "数据库模式"
+  ],
+  "database script": [
+    "数据库脚本 (for database)"
+  ],
+  "datagram": [
+    "数据报文"
+  ],
+  "dataset": [
+    "数据集 (for database)"
+  ],
+  "DBaaS": [
+    "数据库即服务"
+  ],
+  "DCL": [
+    "数据控制语言"
+  ],
+  "DDL": [
+    "数据定义语言"
+  ],
+  "dead lock": [
+    "死锁",
+    "死锁 (for database)"
+  ],
+  "deallocate": [
+    "归还"
+  ],
+  "Debian": [
+    "Debian"
+  ],
+  "debt": [
+    "债务"
+  ],
+  "debug": [
+    "调试"
+  ],
+  "debugger": [
+    "调试器"
+  ],
+  "debugging": [
+    "调试"
+  ],
+  "decay": [
+    "退化"
+  ],
+  "declaration": [
+    "声明"
+  ],
+  "declaration forms": [
+    "声明形式"
+  ],
+  "declarative": [
+    "声明式"
+  ],
+  "declarative knowledge": [
+    "声明式知识"
+  ],
+  "declarative programming": [
+    "声明式编程"
+  ],
+  "declarativeness": [
+    "可声明性"
+  ],
+  "declaring": [
+    "声明"
+  ],
+  "deconstruction": [
+    "解构"
+  ],
+  "deduction": [
+    "推导"
+  ],
+  "Deepfake": [
+    "深度伪造"
+  ],
+  "default": [
+    "缺省",
+    "默认值"
+  ],
+  "default database": [
+    "默认数据库 (for database)"
+  ],
+  "default instance": [
+    "默认实例 (for database)"
+  ],
+  "default result set": [
+    "默认结果集 (for database)"
+  ],
+  "Defense Advanced Research Projects Agency, DARPA": [
+    "美国国防部高级研究计划局"
+  ],
+  "defer": [
+    "推迟"
+  ],
+  "deficiency": [
+    "缺陷"
+  ],
+  "define": [
+    "定义"
+  ],
+  "definition": [
+    "定义"
+  ],
+  "delegate": [
+    "委托"
+  ],
+  "delegation": [
+    "委托"
+  ],
+  "dellocate": [
+    "释放"
+  ],
+  "demarshal": [
+    "散集"
+  ],
+  "Deno": [
+    "Deno"
+  ],
+  "deny": [
+    "拒绝"
+  ],
+  "deploy": [
+    "部署"
+  ],
+  "deprecated": [
+    "废弃"
+  ],
+  "depth-first": [
+    "深度优先"
+  ],
+  "depth-first search, BFS": [
+    "深度优先搜索"
+  ],
+  "deque": [
+    "双端队列"
+  ],
+  "derived": [
+    "派生"
+  ],
+  "derived class": [
+    "派生类"
+  ],
+  "design pattern": [
+    "设计模式"
+  ],
+  "designator": [
+    "指示符"
+  ],
+  "destroy": [
+    "销毁"
+  ],
+  "destructive": [
+    "破坏性的"
+  ],
+  "destructive function": [
+    "破坏性函数"
+  ],
+  "destructuring": [
+    "解构"
+  ],
+  "device": [
+    "设备"
+  ],
+  "device driver": [
+    "硬件驱动程序"
+  ],
+  "DevOps": [
+    "开发运维一体化"
+  ],
+  "dialog": [
+    "对话框"
+  ],
+  "Dictionaries": [
+    "字典"
+  ],
+  "Diffusion": [
+    "扩散模型"
+  ],
+  "digest": [
+    "哈希",
+    "摘要"
+  ],
+  "digital": [
+    "数字的"
+  ],
+  "Dijkstra": [
+    "迪杰斯特拉"
+  ],
+  "dimensions": [
+    "维度"
+  ],
+  "directive": [
+    "指示符"
+  ],
+  "directory": [
+    "目录"
+  ],
+  "disassembler": [
+    "反汇编器"
+  ],
+  "Discuz": [
+    "Discuz"
+  ],
+  "disk": [
+    "盘"
+  ],
+  "dispatch": [
+    "分派",
+    "派发",
+    "调度"
+  ],
+  "Distillation": [
+    "知识蒸馏"
+  ],
+  "distributed computing": [
+    "分布式计算"
+  ],
+  "distributed query": [
+    "分布式查询 (for database)"
+  ],
+  "Django": [
+    "Django"
+  ],
+  "DLL hell": [
+    "DLL 地狱"
+  ],
+  "DML": [
+    "数据操作语言"
+  ],
+  "DNA (Distributed interNet Application)": [
+    "分布式网间应用程序"
+  ],
+  "doc": [
+    "文档"
+  ],
+  "Docker": [
+    "Docker"
+  ],
+  "document": [
+    "文档"
+  ],
+  "DokuWiki": [
+    "DokuWiki"
+  ],
+  "dotted list": [
+    "点状列表"
+  ],
+  "dotted-pair notation": [
+    "带点尾部表示法"
+  ],
+  "download": [
+    "下载"
+  ],
+  "DPO": [
+    "直接偏好优化"
+  ],
+  "DQL": [
+    "数据查询语言"
+  ],
+  "driver": [
+    "驱动(程序)"
+  ],
+  "Drone": [
+    "Drone"
+  ],
+  "DTD (document type definition)": [
+    "文档类型定义"
+  ],
+  "Dubbo": [
+    "Dubbo"
+  ],
+  "dump": [
+    "转储"
+  ],
+  "dump file": [
+    "转储文件"
+  ],
+  "duplicate": [
+    "复本"
+  ],
+  "durability": [
+    "持久性"
+  ],
+  "dynamic binding": [
+    "动态绑定"
+  ],
+  "dynamic extent": [
+    "动态范围"
+  ],
+  "dynamic languages": [
+    "动态语言"
+  ],
+  "dynamic scope": [
+    "动态作用域"
+  ],
+  "dynamic type": [
+    "动态类型"
+  ]
+}

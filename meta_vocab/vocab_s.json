@@ -1,0 +1,469 @@
+{
+  "S-expression": [
+    "S-表达式"
+  ],
+  "SaaS": [
+    "软件即服务"
+  ],
+  "Safari": [
+    "Safari"
+  ],
+  "san": [
+    "存储区域网络"
+  ],
+  "Satisfiability": [
+    "可满足性"
+  ],
+  "save": [
+    "保存",
+    "储存"
+  ],
+  "savepoint": [
+    "保存点 (for database)"
+  ],
+  "scaffold": [
+    "脚手架"
+  ],
+  "scalable": [
+    "可伸缩的",
+    "可扩展的"
+  ],
+  "scalar type": [
+    "标量"
+  ],
+  "Scaling Law": [
+    "规模法则"
+  ],
+  "scan": [
+    "扫描"
+  ],
+  "schedule": [
+    "调度"
+  ],
+  "scheduler": [
+    "调度程序"
+  ],
+  "schema": [
+    "架构",
+    "模式",
+    "纲目结构"
+  ],
+  "scheme": [
+    "协议",
+    "方案"
+  ],
+  "scope": [
+    "作用域",
+    "生存空间"
+  ],
+  "SCREAMING_SNAKE_CASE": [
+    "尖叫式蛇底大写"
+  ],
+  "screen": [
+    "屏幕"
+  ],
+  "scripting language": [
+    "脚本语言"
+  ],
+  "sealed class": [
+    "密封类"
+  ],
+  "search": [
+    "查找"
+  ],
+  "Searching": [
+    "查找"
+  ],
+  "Secure Sockets Layer, SSL": [
+    "安全套接字层"
+  ],
+  "segment of instructions": [
+    "指令片段"
+  ],
+  "segue": [
+    "转场"
+  ],
+  "semantics": [
+    "语义"
+  ],
+  "semaphore": [
+    "信号量"
+  ],
+  "semicolon": [
+    "分号"
+  ],
+  "sequence": [
+    "序列"
+  ],
+  "sequential": [
+    "循序的"
+  ],
+  "serial": [
+    "串行"
+  ],
+  "serializable": [
+    "可序列化"
+  ],
+  "serialization": [
+    "序列化"
+  ],
+  "serialization/serialize": [
+    "序列化"
+  ],
+  "series": [
+    "串行"
+  ],
+  "server": [
+    "服务器",
+    "服务端"
+  ],
+  "Serverless": [
+    "无服务器架构"
+  ],
+  "session": [
+    "会话 (for database)"
+  ],
+  "Set and String Problems": [
+    "集合与串的问题"
+  ],
+  "Set Cover": [
+    "集合覆盖"
+  ],
+  "Set Data Structures": [
+    "集合"
+  ],
+  "Set Packing": [
+    "集合配置"
+  ],
+  "setter": [
+    "设值函数"
+  ],
+  "shadowing": [
+    "隐蔽了"
+  ],
+  "Shard": [
+    "分片"
+  ],
+  "sharp": [
+    "犀利的"
+  ],
+  "sharp-quote": [
+    "升引号"
+  ],
+  "shell": [
+    "命令行解释器",
+    "壳"
+  ],
+  "shortest path": [
+    "最短路径"
+  ],
+  "SICP": [
+    "《计算机程序的构造与解释》"
+  ],
+  "side effect": [
+    "副作用"
+  ],
+  "Sidecar": [
+    "边车"
+  ],
+  "signature": [
+    "签名"
+  ],
+  "simple vector": [
+    "简单向量"
+  ],
+  "simulate": [
+    "模拟"
+  ],
+  "Single Point of Truth, SPOT": [
+    "真理的单点性"
+  ],
+  "single-segment": [
+    "单段的"
+  ],
+  "single-threaded": [
+    "单线程"
+  ],
+  "sketch": [
+    "草图"
+  ],
+  "Skype": [
+    "Skype"
+  ],
+  "slash": [
+    "斜线"
+  ],
+  "slot": [
+    "槽"
+  ],
+  "smart pointer": [
+    "智能指针"
+  ],
+  "SMTP (Simple Mail Transfer Protocol)": [
+    "简单邮件传输协议"
+  ],
+  "snake_case": [
+    "蛇底式小写"
+  ],
+  "snapshot": [
+    "屏幕截图",
+    "快照 (for database)"
+  ],
+  "SOAP (simple object access protocol)": [
+    "简单对象访问协议"
+  ],
+  "socket": [
+    "套接字"
+  ],
+  "software": [
+    "软件"
+  ],
+  "Solidity": [
+    "Solidity"
+  ],
+  "solution": [
+    "方案"
+  ],
+  "SOP": [
+    "标准作业程序"
+  ],
+  "Sora": [
+    "Sora"
+  ],
+  "Sorting": [
+    "排序"
+  ],
+  "source code": [
+    "源代码",
+    "源码"
+  ],
+  "space leak": [
+    "内存泄漏"
+  ],
+  "spaghetti": [
+    "面条式代码"
+  ],
+  "spaghetti stack": [
+    "意面式栈"
+  ],
+  "spam": [
+    "垃圾邮件"
+  ],
+  "Spark": [
+    "Apache Spark"
+  ],
+  "spec": [
+    "规格"
+  ],
+  "special form": [
+    "特殊形式"
+  ],
+  "special variable": [
+    "特殊变量"
+  ],
+  "specialization": [
+    "特化"
+  ],
+  "specialize": [
+    "特化"
+  ],
+  "specialized array": [
+    "特化数组"
+  ],
+  "specification": [
+    "规格",
+    "规格说明",
+    "规范"
+  ],
+  "splitter": [
+    "切分窗口"
+  ],
+  "sprite": [
+    "精灵图"
+  ],
+  "SQL": [
+    "结构化查询语言"
+  ],
+  "SQL (Structured Query Language)": [
+    "结构化查询语言 (for database)"
+  ],
+  "square": [
+    "平方"
+  ],
+  "square root": [
+    "平方根"
+  ],
+  "squash": [
+    "碰撞"
+  ],
+  "SSO": [
+    "单点登录"
+  ],
+  "Stable Diffusion": [
+    "Stable Diffusion"
+  ],
+  "stack": [
+    "堆栈",
+    "栈"
+  ],
+  "stack frame": [
+    "栈帧"
+  ],
+  "standard library": [
+    "标准函式库",
+    "标准库"
+  ],
+  "standard template library": [
+    "标准模板库"
+  ],
+  "stat": [
+    "状态",
+    "统计"
+  ],
+  "state machine": [
+    "状态机"
+  ],
+  "stateless": [
+    "无状态的"
+  ],
+  "statement": [
+    "声明",
+    "语句",
+    "陈述"
+  ],
+  "static cursor": [
+    "静态游标 (for database)"
+  ],
+  "static SQL statements": [
+    "静态SQL语句 (for database)"
+  ],
+  "static type": [
+    "静态类型"
+  ],
+  "static type system": [
+    "静态类型系统"
+  ],
+  "status": [
+    "状态"
+  ],
+  "status bar": [
+    "状态条"
+  ],
+  "store": [
+    "保存"
+  ],
+  "stored procedure": [
+    "存储过程 (for database)"
+  ],
+  "stream": [
+    "流"
+  ],
+  "Streamlit": [
+    "Streamlit"
+  ],
+  "strict": [
+    "严格"
+  ],
+  "strict evaluation": [
+    "严格求值"
+  ],
+  "string": [
+    "字串",
+    "字符串"
+  ],
+  "String Matching": [
+    "模式匹配"
+  ],
+  "string template": [
+    "字串模版"
+  ],
+  "strong type": [
+    "强类型"
+  ],
+  "structural recursion": [
+    "结构递归"
+  ],
+  "structured values": [
+    "结构型值"
+  ],
+  "stub": [
+    "存根"
+  ],
+  "subquery": [
+    "子查询 (for database)"
+  ],
+  "subroutine": [
+    "子程序"
+  ],
+  "subscript operator": [
+    "下标操作符"
+  ],
+  "subset": [
+    "子集"
+  ],
+  "substitution": [
+    "代换"
+  ],
+  "substitution model": [
+    "代换模型"
+  ],
+  "subtype": [
+    "子类型"
+  ],
+  "sudo": [
+    "sudo",
+    "以超级用户执行"
+  ],
+  "suite": [
+    "套件"
+  ],
+  "superclass": [
+    "基类"
+  ],
+  "superfluous": [
+    "多余的"
+  ],
+  "supertype": [
+    "超集"
+  ],
+  "support": [
+    "支持"
+  ],
+  "suspend": [
+    "挂起"
+  ],
+  "Svelte": [
+    "Svelte"
+  ],
+  "swapping values": [
+    "交换变量的值"
+  ],
+  "symbol": [
+    "符号",
+    "记号"
+  ],
+  "symbolic computation": [
+    "符号计算"
+  ],
+  "syntax": [
+    "语法"
+  ],
+  "Synthetic Data": [
+    "合成数据"
+  ],
+  "system administrator": [
+    "系统管理员"
+  ],
+  "system administrator disease": [
+    "系统管理员综合症"
+  ],
+  "system databases": [
+    "系统数据库 (for database)"
+  ],
+  "System Network Architecture, SNA": [
+    "系统网络体系"
+  ],
+  "system tables": [
+    "系统表 (for database)"
+  ]
+}

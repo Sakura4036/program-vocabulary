@@ -1,0 +1,95 @@
+{
+  "named parameter": [
+    "命名参数"
+  ],
+  "named pipe": [
+    "命名管道"
+  ],
+  "namespace": [
+    "名字空间",
+    "命名空间"
+  ],
+  "native": [
+    "原生的",
+    "本地的"
+  ],
+  "native code": [
+    "本地码",
+    "本机码"
+  ],
+  "natural language": [
+    "自然语言"
+  ],
+  "natural language processing": [
+    "自然语言处理"
+  ],
+  "Neo4j": [
+    "Neo4j"
+  ],
+  "nested": [
+    "嵌套"
+  ],
+  "nested class": [
+    "嵌套类"
+  ],
+  "nested query": [
+    "嵌套查询 (for database)"
+  ],
+  "nested table": [
+    "嵌套表 (for database)"
+  ],
+  "network": [
+    "网络"
+  ],
+  "network card": [
+    "网卡"
+  ],
+  "Network Flow": [
+    "网络流"
+  ],
+  "newline": [
+    "换行"
+  ],
+  "Next.js": [
+    "Next.js"
+  ],
+  "Nginx": [
+    "Nginx"
+  ],
+  "nil": [
+    "nil",
+    "空"
+  ],
+  "non-deterministic choice": [
+    "非确定性选择"
+  ],
+  "non-strict": [
+    "非严格"
+  ],
+  "non-strict evaluation": [
+    "非严格求值"
+  ],
+  "nondestructive version": [
+    "非破坏性的版本"
+  ],
+  "none": [
+    "none",
+    "无"
+  ],
+  "NPU": [
+    "神经网络处理单元"
+  ],
+  "null": [
+    "null",
+    "空"
+  ],
+  "number crunching": [
+    "数字密集运算"
+  ],
+  "Nuxt": [
+    "Nuxt"
+  ],
+  "NVIDIA": [
+    "英伟达"
+  ]
+}

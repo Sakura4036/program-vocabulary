@@ -1,0 +1,302 @@
+{
+  "machine code": [
+    "机器代码",
+    "机器码"
+  ],
+  "machine instruction": [
+    "机器指令"
+  ],
+  "machine language": [
+    "机器语言"
+  ],
+  "machine language code": [
+    "机器语言代码"
+  ],
+  "machine learning": [
+    "机器学习"
+  ],
+  "macro": [
+    "宏"
+  ],
+  "mailing list": [
+    "邮件列表"
+  ],
+  "main": [
+    "主函数",
+    "入口"
+  ],
+  "mainframes": [
+    "大型机"
+  ],
+  "maintain": [
+    "维护"
+  ],
+  "maintenance": [
+    "维护"
+  ],
+  "Mamba": [
+    "Mamba"
+  ],
+  "managed code": [
+    "受控代码",
+    "托管代码"
+  ],
+  "Managed Extensions": [
+    "受控扩充件",
+    "托管扩展"
+  ],
+  "managed object": [
+    "受控对象",
+    "托管对象"
+  ],
+  "manifest": [
+    "清单"
+  ],
+  "manifest typing": [
+    "显式类型"
+  ],
+  "manipulate": [
+    "操作"
+  ],
+  "manipulator": [
+    "操纵器"
+  ],
+  "manual": [
+    "手册",
+    "手动的"
+  ],
+  "many-to-many relationship": [
+    "多对多关系 (for database)"
+  ],
+  "many-to-one relationship": [
+    "多对一关系 (for database)"
+  ],
+  "mapping": [
+    "映射"
+  ],
+  "mapping functions": [
+    "映射函数"
+  ],
+  "margin": [
+    "外边距"
+  ],
+  "Markdown": [
+    "Markdown"
+  ],
+  "Marshal": [
+    "列集",
+    "序列化",
+    "数据编组"
+  ],
+  "Matching": [
+    "匹配"
+  ],
+  "math envy": [
+    "对数学家的妒忌"
+  ],
+  "matrix": [
+    "矩阵"
+  ],
+  "maven": [
+    "Maven"
+  ],
+  "MCP": [
+    "模型上下文协议"
+  ],
+  "MediaWiki": [
+    "MediaWiki"
+  ],
+  "member": [
+    "成员"
+  ],
+  "member access operator": [
+    "成员取用运算子(有dot和arrow两种)"
+  ],
+  "member function": [
+    "成员函数"
+  ],
+  "memorizing": [
+    "记忆化"
+  ],
+  "memory": [
+    "内存"
+  ],
+  "memory allocation": [
+    "内存分配"
+  ],
+  "memory leak": [
+    "内存泄漏"
+  ],
+  "memory leaks": [
+    "内存泄漏"
+  ],
+  "menu": [
+    "菜单"
+  ],
+  "message": [
+    "消息"
+  ],
+  "message based": [
+    "基于消息的"
+  ],
+  "message loop": [
+    "消息环"
+  ],
+  "message-passing": [
+    "消息传递"
+  ],
+  "meta-": [
+    "元-"
+  ],
+  "meta-programming": [
+    "元编程"
+  ],
+  "metacircular": [
+    "元循环"
+  ],
+  "metadata": [
+    "元数据"
+  ],
+  "method": [
+    "方法"
+  ],
+  "method combination": [
+    "方法组合"
+  ],
+  "micro": [
+    "微"
+  ],
+  "Microservices": [
+    "微服务"
+  ],
+  "Microsoft": [
+    "微软"
+  ],
+  "middle tier": [
+    "中间层"
+  ],
+  "middleware": [
+    "中间件"
+  ],
+  "Midjourney": [
+    "Midjourney"
+  ],
+  "migration": [
+    "（数据库）迁移"
+  ],
+  "MinGW": [
+    "MinGW"
+  ],
+  "minimal network": [
+    "最小网络"
+  ],
+  "mirror": [
+    "镜射"
+  ],
+  "miscellaneous": [
+    "杂项"
+  ],
+  "mismatch type": [
+    "类型不匹配"
+  ],
+  "Mistral": [
+    "Mistral"
+  ],
+  "MLOps": [
+    "机器学习运维"
+  ],
+  "Modality": [
+    "模态"
+  ],
+  "model": [
+    "模型"
+  ],
+  "modeling": [
+    "建模"
+  ],
+  "modeling language": [
+    "建模语言"
+  ],
+  "modem": [
+    "调制解调器"
+  ],
+  "modifier": [
+    "修饰字",
+    "修饰符"
+  ],
+  "modularity": [
+    "模块性"
+  ],
+  "module": [
+    "模块"
+  ],
+  "MoE": [
+    "混合专家系统"
+  ],
+  "monad": [
+    "单子"
+  ],
+  "monkey patch": [
+    "猴子补丁"
+  ],
+  "monomorphic type language": [
+    "单型语言"
+  ],
+  "Monorepo": [
+    "单体代码仓库"
+  ],
+  "Moore's law": [
+    "摩尔定律"
+  ],
+  "mouse": [
+    "鼠标"
+  ],
+  "MSYS2": [
+    "MSYS2"
+  ],
+  "Multi-agent": [
+    "多智能体"
+  ],
+  "Multi-modal": [
+    "多模态"
+  ],
+  "multi-task": [
+    "多任务"
+  ],
+  "multi-tasking": [
+    "多任务"
+  ],
+  "multi-thread": [
+    "多线程"
+  ],
+  "multicast delegate": [
+    "多点委托",
+    "组播委托"
+  ],
+  "multiple values": [
+    "多值"
+  ],
+  "Multiple Virtual Storage, MVS": [
+    "多重虚拟存储"
+  ],
+  "multithreaded server application": [
+    "多线程服务器应用程序"
+  ],
+  "multiuser": [
+    "多用户"
+  ],
+  "mutable": [
+    "可变的"
+  ],
+  "mutex": [
+    "互斥体",
+    "互斥元",
+    "互斥锁"
+  ],
+  "MyISAM": [
+    "MyISAM"
+  ],
+  "MySQL": [
+    "MySQL"
+  ]
+}
