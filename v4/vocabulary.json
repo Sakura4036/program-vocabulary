@@ -1,0 +1,1594 @@
+{
+  "A": {
+    "abnormal": {
+      "translation": "异常",
+      "keywords": []
+    },
+    "access": {
+      "translation": "访问/接入",
+      "keywords": ["Network", "Security"]
+    },
+    "accurate": {
+      "translation": "精确",
+      "keywords": []
+    },
+    "ACID": {
+      "translation": "ACID 特性",
+      "keywords": ["Database", "Transaction"]
+    },
+    "acquire": {
+      "translation": "获取/捕获",
+      "keywords": ["System", "Resource"]
+    },
+    "admin": {
+      "translation": "管理",
+      "keywords": ["System", "Security"]
+    },
+    "Adobe": {
+      "translation": "Adobe",
+      "keywords": ["Software", "Company"]
+    },
+    "Agent": {
+      "translation": "智能体",
+      "keywords": ["AI"]
+    },
+    "agile": {
+      "translation": "敏捷开发",
+      "keywords": ["Software Engineering"]
+    },
+    "AIGC": {
+      "translation": "生成式 AI",
+      "keywords": ["AI"]
+    },
+    "AJAX": {
+      "translation": "异步 JavaScript 和 XML",
+      "keywords": ["Web", "Frontend"]
+    },
+    "alias": {
+      "translation": "别名",
+      "keywords": ["Command Line", "Database"]
+    },
+    "alignment": {
+      "translation": "对齐",
+      "keywords": ["AI", "LLM"]
+    },
+    "alpha": {
+      "translation": "Alpha 测试",
+      "keywords": ["Testing", "Software Engineering"]
+    },
+    "Alpine": {
+      "translation": "Alpine Linux",
+      "keywords": ["Linux", "OS", "Docker"]
+    },
+    "amazon": {
+      "translation": "亚马逊/AWS",
+      "keywords": ["Cloud", "Company"]
+    },
+    "AMD": {
+      "translation": "AMD",
+      "keywords": ["Hardware", "CPU", "GPU"]
+    },
+    "analogy": {
+      "translation": "类比",
+      "keywords": []
+    },
+    "Angular": {
+      "translation": "Angular",
+      "keywords": ["Web", "Frontend", "Framework"]
+    },
+    "Anthropic": {
+      "translation": "Anthropic",
+      "keywords": ["AI", "Company"]
+    },
+    "Apache": {
+      "translation": "Apache",
+      "keywords": ["Software", "Server", "Open Source"]
+    },
+    "API": {
+      "translation": "应用程序接口",
+      "keywords": ["Software Engineering", "Backend"]
+    },
+    "app": {
+      "translation": "应用",
+      "keywords": ["Software"]
+    },
+    "archive": {
+      "translation": "归档",
+      "keywords": ["Storage", "Data"]
+    },
+    "Arduino": {
+      "translation": "Arduino",
+      "keywords": ["Hardware", "Embedded"]
+    },
+    "ArgoCD": {
+      "translation": "ArgoCD",
+      "keywords": ["DevOps", "Kubernetes", "GitOps"]
+    },
+    "array": {
+      "translation": "数组",
+      "keywords": ["Data Structure", "Programming"]
+    },
+    "Artifacts": {
+      "translation": "产物",
+      "keywords": ["DevOps", "Software Engineering"]
+    },
+    "ASCII": {
+      "translation": "ASCII 码",
+      "keywords": ["Encoding"]
+    },
+    "Astro": {
+      "translation": "Astro",
+      "keywords": ["Web", "Frontend", "Framework"]
+    },
+    "atomicity": {
+      "translation": "原子性",
+      "keywords": ["Database", "Concurrency"]
+    },
+    "Attention": {
+      "translation": "注意力机制",
+      "keywords": ["AI", "LLM", "Transformer"]
+    },
+    "Auto-GPT": {
+      "translation": "Auto-GPT",
+      "keywords": ["AI", "Autonomous Agent"]
+    },
+    "AutoGen": {
+      "translation": "AutoGen",
+      "keywords": ["AI", "Multi-agent"]
+    },
+    "avatar": {
+      "translation": "头像/化身",
+      "keywords": ["UI", "Social"]
+    },
+    "Axure": {
+      "translation": "Axure",
+      "keywords": ["Design", "Prototyping"]
+    },
+    "Azure": {
+      "translation": "Azure",
+      "keywords": ["Cloud", "Platform"]
+    }
+  },
+  "B": {
+    "Beego": {
+      "translation": "Beego",
+      "keywords": ["Web", "Backend", "Go"]
+    },
+    "behavior": {
+      "translation": "行为",
+      "keywords": []
+    },
+    "Benchmark": {
+      "translation": "基准测试",
+      "keywords": ["Performance", "Hardware", "Software"]
+    },
+    "BERT": {
+      "translation": "BERT",
+      "keywords": ["AI", "NLP", "LLM"]
+    },
+    "beta": {
+      "translation": "Beta 测试",
+      "keywords": ["Testing", "Software Engineering"]
+    },
+    "Bias": {
+      "translation": "偏见/偏差",
+      "keywords": ["AI", "Ethics"]
+    },
+    "bind": {
+      "translation": "绑定",
+      "keywords": ["Programming", "Network"]
+    },
+    "Blockchain": {
+      "translation": "区块链",
+      "keywords": ["Web3", "Blockchain"]
+    },
+    "BSD": {
+      "translation": "BSD",
+      "keywords": ["OS", "Open Source"]
+    },
+    "budget": {
+      "translation": "预算",
+      "keywords": []
+    },
+    "Bun": {
+      "translation": "Bun",
+      "keywords": ["Web", "JavaScript", "Runtime"]
+    }
+  },
+  "C": {
+    "CaaS": {
+      "translation": "容器即服务",
+      "keywords": ["Cloud", "Container"]
+    },
+    "cache": {
+      "translation": "缓存",
+      "keywords": ["Storage", "Performance"]
+    },
+    "CCL": {
+      "translation": "通用控制语言",
+      "keywords": ["Mainframe", "System"]
+    },
+    "CD": {
+      "translation": "持续部署",
+      "keywords": ["DevOps", "CI/CD"]
+    },
+    "CentOS": {
+      "translation": "CentOS",
+      "keywords": ["Linux", "OS", "Server"]
+    },
+    "Ceph": {
+      "translation": "Ceph",
+      "keywords": ["Storage", "Cloud", "Distributed System"]
+    },
+    "Chain of Thought (CoT)": {
+      "translation": "思维链",
+      "keywords": ["AI", "LLM", "Prompting"]
+    },
+    "ChatGPT": {
+      "translation": "ChatGPT",
+      "keywords": ["AI", "LLM", "OpenAI"]
+    },
+    "CI": {
+      "translation": "持续集成",
+      "keywords": ["DevOps", "CI/CD"]
+    },
+    "Claude": {
+      "translation": "Claude",
+      "keywords": ["AI", "LLM", "Anthropic"]
+    },
+    "CloudNative": {
+      "translation": "云原生",
+      "keywords": ["Cloud", "DevOps"]
+    },
+    "CMDB": {
+      "translation": "配置管理数据库",
+      "keywords": ["ITSM", "Operations"]
+    },
+    "collation": {
+      "translation": "排序规则",
+      "keywords": ["Database"]
+    },
+    "Compute": {
+      "translation": "计算/算力",
+      "keywords": ["System", "Cloud", "AI"]
+    },
+    "consistency": {
+      "translation": "一致性",
+      "keywords": ["Database", "Distributed System"]
+    },
+    "Constitutional AI": {
+      "translation": "宪法 AI",
+      "keywords": ["AI", "Alignment"]
+    },
+    "Context Window": {
+      "translation": "上下文窗口",
+      "keywords": ["AI", "LLM"]
+    },
+    "Copilot": {
+      "translation": "Copilot",
+      "keywords": ["AI", "Development Tool"]
+    },
+    "CoreDNS": {
+      "translation": "CoreDNS",
+      "keywords": ["Network", "Kubernetes", "DNS"]
+    },
+    "CSS": {
+      "translation": "层叠样式表",
+      "keywords": ["Web", "Frontend"]
+    },
+    "CUDA": {
+      "translation": "CUDA",
+      "keywords": ["Hardware", "GPU", "AI"]
+    },
+    "cursor": {
+      "translation": "光标/游标",
+      "keywords": ["UI", "Database"]
+    },
+    "Cygwin": {
+      "translation": "Cygwin",
+      "keywords": ["Linux", "Windows", "Tool"]
+    }
+  },
+  "D": {
+    "DALL-E": {
+      "translation": "DALL-E",
+      "keywords": ["AI", "Image Generation"]
+    },
+    "dashboard": {
+      "translation": "仪表板",
+      "keywords": ["UI", "Data Visualization"]
+    },
+    "DBaaS": {
+      "translation": "数据库即服务",
+      "keywords": ["Cloud", "Database"]
+    },
+    "DCL": {
+      "translation": "数据控制语言",
+      "keywords": ["Database", "SQL"]
+    },
+    "DDL": {
+      "translation": "数据定义语言",
+      "keywords": ["Database", "SQL"]
+    },
+    "Debian": {
+      "translation": "Debian",
+      "keywords": ["Linux", "OS"]
+    },
+    "debt": {
+      "translation": "债务",
+      "keywords": ["Software Engineering"]
+    },
+    "Deepfake": {
+      "translation": "深度伪造",
+      "keywords": ["AI", "Security"]
+    },
+    "Deno": {
+      "translation": "Deno",
+      "keywords": ["Web", "JavaScript", "Runtime"]
+    },
+    "deny": {
+      "translation": "拒绝",
+      "keywords": ["Security", "Network"]
+    },
+    "deque": {
+      "translation": "双端队列",
+      "keywords": ["Data Structure"]
+    },
+    "DevOps": {
+      "translation": "开发运维一体化",
+      "keywords": ["DevOps", "Software Engineering"]
+    },
+    "Diffusion": {
+      "translation": "扩散模型",
+      "keywords": ["AI", "Image Generation"]
+    },
+    "digest": {
+      "translation": "摘要/哈希",
+      "keywords": ["Security", "Algorithm"]
+    },
+    "Dijkstra": {
+      "translation": "迪杰斯特拉",
+      "keywords": ["Algorithm", "Graph Theory"]
+    },
+    "Discuz": {
+      "translation": "Discuz",
+      "keywords": ["Web", "BBS", "Software"]
+    },
+    "Distillation": {
+      "translation": "知识蒸馏",
+      "keywords": ["AI", "Model Compression"]
+    },
+    "Django": {
+      "translation": "Django",
+      "keywords": ["Web", "Backend", "Python"]
+    },
+    "DML": {
+      "translation": "数据操作语言",
+      "keywords": ["Database", "SQL"]
+    },
+    "doc": {
+      "translation": "文档",
+      "keywords": []
+    },
+    "Docker": {
+      "translation": "Docker",
+      "keywords": ["Container", "DevOps"]
+    },
+    "DokuWiki": {
+      "translation": "DokuWiki",
+      "keywords": ["Web", "Wiki", "Software"]
+    },
+    "DPO": {
+      "translation": "直接偏好优化",
+      "keywords": ["AI", "LLM", "Alignment"]
+    },
+    "DQL": {
+      "translation": "数据查询语言",
+      "keywords": ["Database", "SQL"]
+    },
+    "Drone": {
+      "translation": "Drone",
+      "keywords": ["DevOps", "CI/CD"]
+    },
+    "Dubbo": {
+      "translation": "Dubbo",
+      "keywords": ["Backend", "RPC", "Distributed System"]
+    },
+    "durability": {
+      "translation": "持久性",
+      "keywords": ["Database", "Storage"]
+    }
+  },
+  "E": {
+    "eBPF": {
+      "translation": "扩展伯克利包过滤器",
+      "keywords": ["Linux", "Network", "Security", "Observability"]
+    },
+    "echo": {
+      "translation": "回显",
+      "keywords": ["Command Line", "Network"]
+    },
+    "Edge Computing": {
+      "translation": "边缘计算",
+      "keywords": ["Cloud", "Distributed System"]
+    },
+    "Embeddings": {
+      "translation": "嵌入",
+      "keywords": ["AI", "NLP", "LLM"]
+    },
+    "Embodied AI": {
+      "translation": "具身智能",
+      "keywords": ["AI", "Robotics"]
+    },
+    "Emergence": {
+      "translation": "涌现",
+      "keywords": ["AI", "LLM"]
+    },
+    "endpoint": {
+      "translation": "端点",
+      "keywords": ["Web", "API", "Network"]
+    },
+    "eoan": {
+      "translation": "eoan",
+      "keywords": ["Linux", "Ubuntu"]
+    },
+    "EOP": {
+      "translation": "设备操作程序",
+      "keywords": ["Industiral Control", "Operation"]
+    },
+    "ESM": {
+      "translation": "ECMAScript 模块",
+      "keywords": ["Web", "JavaScript", "Standards"]
+    },
+    "Eureka": {
+      "translation": "Eureka",
+      "keywords": ["Backend", "Service Discovery", "Distributed System"]
+    },
+    "event": {
+      "translation": "事件",
+      "keywords": ["Programming", "System"]
+    }
+  },
+  "F": {
+    "facade": {
+      "translation": "外观模式",
+      "keywords": ["Software Engineering", "Design Pattern"]
+    },
+    "favorable": {
+      "translation": "有利的",
+      "keywords": []
+    },
+    "Federated Learning": {
+      "translation": "联邦学习",
+      "keywords": ["AI", "ML", "Privacy"]
+    },
+    "Fedora": {
+      "translation": "Fedora",
+      "keywords": ["Linux", "OS"]
+    },
+    "Few-shot": {
+      "translation": "少样本学习",
+      "keywords": ["AI", "LLM", "ML"]
+    },
+    "FIFO": {
+      "translation": "先进先出",
+      "keywords": ["Data Structure", "Algorithm", "Operating System"]
+    },
+    "FILO": {
+      "translation": "先进后出",
+      "keywords": ["Data Structure", "Algorithm"]
+    },
+    "Fine-tuning": {
+      "translation": "微调",
+      "keywords": ["AI", "LLM", "ML"]
+    },
+    "Flask": {
+      "translation": "Flask",
+      "keywords": ["Web", "Backend", "Python", "Framework"]
+    },
+    "Flutter": {
+      "translation": "Flutter",
+      "keywords": ["Mobile", "Frontend", "UI", "Framework"]
+    },
+    "Flux": {
+      "translation": "Flux",
+      "keywords": ["AI", "Image Generation"]
+    },
+    "format": {
+      "translation": "格式",
+      "keywords": []
+    },
+    "Foundation Model": {
+      "translation": "基础模型",
+      "keywords": ["AI", "LLM"]
+    }
+  },
+  "G": {
+    "GeForce": {
+      "translation": "GeForce",
+      "keywords": ["Hardware", "GPU"]
+    },
+    "Gemini": {
+      "translation": "Gemini",
+      "keywords": ["AI", "LLM", "Google"]
+    },
+    "Generative AI": {
+      "translation": "生成式 AI",
+      "keywords": ["AI"]
+    },
+    "GGUF": {
+      "translation": "GGUF",
+      "keywords": ["AI", "LLM", "Quantization"]
+    },
+    "GIF": {
+      "translation": "GIF",
+      "keywords": ["Image", "Format"]
+    },
+    "Git": {
+      "translation": "Git",
+      "keywords": ["DevOps", "Version Control", "Tool"]
+    },
+    "Gitea": {
+      "translation": "Gitea",
+      "keywords": ["DevOps", "Version Control", "Tool"]
+    },
+    "Github": {
+      "translation": "Github",
+      "keywords": ["DevOps", "Web", "Platform"]
+    },
+    "Gitlab": {
+      "translation": "Gitlab",
+      "keywords": ["DevOps", "Web", "Platform"]
+    },
+    "GNOME": {
+      "translation": "GNOME",
+      "keywords": ["Linux", "UI", "Desktop Environment"]
+    },
+    "GNU": {
+      "translation": "GNU",
+      "keywords": ["Linux", "Open Source", "OS"]
+    },
+    "Gogs": {
+      "translation": "Gogs",
+      "keywords": ["DevOps", "Version Control", "Tool"]
+    },
+    "Golang": {
+      "translation": "Go 语言",
+      "keywords": ["Programming Language", "Backend"]
+    },
+    "GPT": {
+      "translation": "GPT",
+      "keywords": ["AI", "LLM", "Transformer"]
+    },
+    "GPU": {
+      "translation": "图形处理器",
+      "keywords": ["Hardware", "AI", "Graphics"]
+    },
+    "Grafana": {
+      "translation": "Grafana",
+      "keywords": ["DevOps", "Observability", "Data Visualization"]
+    },
+    "GraphQL": {
+      "translation": "GraphQL",
+      "keywords": ["Web", "API", "Backend"]
+    },
+    "GraphRAG": {
+      "translation": "图增强检索",
+      "keywords": ["AI", "LLM", "RAG", "Knowledge Graph"]
+    },
+    "grep": {
+      "translation": "grep",
+      "keywords": ["Linux", "Command Line", "Tool"]
+    },
+    "Grok": {
+      "translation": "Grok",
+      "keywords": ["AI", "LLM", "xAI"]
+    },
+    "Groq": {
+      "translation": "Groq",
+      "keywords": ["Hardware", "AI", "LPU"]
+    },
+    "GUI": {
+      "translation": "图形用户界面",
+      "keywords": ["UI", "Software Engineering"]
+    }
+  },
+  "H": {
+    "Hadoop": {
+      "translation": "Hadoop",
+      "keywords": ["Big Data", "Distributed System"]
+    },
+    "Hallucination": {
+      "translation": "幻觉",
+      "keywords": ["AI", "LLM"]
+    },
+    "Harbor": {
+      "translation": "Harbor",
+      "keywords": ["DevOps", "Container", "Registry"]
+    },
+    "Haskell": {
+      "translation": "Haskell",
+      "keywords": ["Programming Language", "Functional Programming"]
+    },
+    "height": {
+      "translation": "高度",
+      "keywords": []
+    },
+    "Helm": {
+      "translation": "Helm",
+      "keywords": ["DevOps", "Kubernetes", "Tool"]
+    },
+    "hidden": {
+      "translation": "隐藏",
+      "keywords": []
+    },
+    "Hive": {
+      "translation": "Hive",
+      "keywords": ["Big Data", "Database", "Hadoop"]
+    },
+    "HTML": {
+      "translation": "HTML",
+      "keywords": ["Web", "Frontend"]
+    },
+    "Hugging Face": {
+      "translation": "Hugging Face",
+      "keywords": ["AI", "Community", "Platform"]
+    },
+    "Hydration": {
+      "translation": "水合",
+      "keywords": ["Web", "Frontend", "Framework"]
+    },
+    "Hyperparameter": {
+      "translation": "超参数",
+      "keywords": ["AI", "ML"]
+    }
+  },
+  "I": {
+    "IaaS": {
+      "translation": "基础设施即服务",
+      "keywords": ["Cloud"]
+    },
+    "image": {
+      "translation": "镜像/图像",
+      "keywords": ["Container", "Computer Vision"]
+    },
+    "Imgur": {
+      "translation": "Imgur",
+      "keywords": ["Web", "Platform"]
+    },
+    "implement": {
+      "translation": "实现",
+      "keywords": []
+    },
+    "In-context Learning": {
+      "translation": "上下文学习",
+      "keywords": ["AI", "LLM"]
+    },
+    "Inference": {
+      "translation": "推理",
+      "keywords": ["AI", "ML"]
+    },
+    "InfluxDB": {
+      "translation": "InfluxDB",
+      "keywords": ["Database", "Time Series"]
+    },
+    "Ingress": {
+      "translation": "Ingress",
+      "keywords": ["DevOps", "Kubernetes", "Network"]
+    },
+    "InnoDB": {
+      "translation": "InnoDB",
+      "keywords": ["Database", "MySQL"]
+    },
+    "Instruct": {
+      "translation": "指令微调",
+      "keywords": ["AI", "LLM"]
+    },
+    "integer": {
+      "translation": "整数",
+      "keywords": ["Programming", "Data Type"]
+    },
+    "Intel": {
+      "translation": "英特尔",
+      "keywords": ["Hardware", "CPU", "Company"]
+    },
+    "isolation": {
+      "translation": "隔离性",
+      "keywords": ["Database", "Transaction"]
+    },
+    "issue": {
+      "translation": "问题",
+      "keywords": ["Software Engineering", "Github"]
+    },
+    "istio": {
+      "translation": "istio",
+      "keywords": ["DevOps", "Service Mesh", "Kubernetes"]
+    },
+    "ITIL": {
+      "translation": "ITIL",
+      "keywords": ["ITSM", "Standard"]
+    },
+    "iTop": {
+      "translation": "iTop",
+      "keywords": ["ITSM", "Software"]
+    },
+    "ITSM": {
+      "translation": "IT 服务管理",
+      "keywords": ["ITSM", "Operations"]
+    }
+  },
+  "J": {
+    "Jailbreak": {
+      "translation": "越狱",
+      "keywords": ["Security", "AI", "Mobile"]
+    },
+    "JAMstack": {
+      "translation": "JAMstack",
+      "keywords": ["Web", "Frontend", "Architecture"]
+    },
+    "Java": {
+      "translation": "Java",
+      "keywords": ["Programming Language", "Backend"]
+    },
+    "JavaScript": {
+      "translation": "JavaScript",
+      "keywords": ["Programming Language", "Web", "Frontend"]
+    },
+    "JAX": {
+      "translation": "JAX",
+      "keywords": ["AI", "Machine Learning", "Library"]
+    },
+    "journalctl": {
+      "translation": "journalctl",
+      "keywords": ["Linux", "Logging", "Command Line"]
+    },
+    "jpeg": {
+      "translation": "JPEG",
+      "keywords": ["Image", "Format"]
+    },
+    "jpg": {
+      "translation": "JPG",
+      "keywords": ["Image", "Format"]
+    },
+    "Jquery": {
+      "translation": "jQuery",
+      "keywords": ["Web", "Frontend", "Library"]
+    },
+    "JSON-LD": {
+      "translation": "JSON-LD",
+      "keywords": ["Web", "Standard", "Data"]
+    }
+  },
+  "K": {
+    "Kaniko": {
+      "translation": "Kaniko",
+      "keywords": ["DevOps", "Container", "Build Tool"]
+    },
+    "Kapacitor": {
+      "translation": "Kapacitor",
+      "keywords": ["Observability", "Data Processing", "InfluxDB"]
+    },
+    "key": {
+      "translation": "键/密钥",
+      "keywords": ["Cryptography", "Data Structure", "Database"]
+    },
+    "Kindle": {
+      "translation": "Kindle",
+      "keywords": ["Hardware", "Amazon"]
+    },
+    "Kinect": {
+      "translation": "Kinect",
+      "keywords": ["Hardware", "Microsoft"]
+    },
+    "kubectl": {
+      "translation": "kubectl",
+      "keywords": ["DevOps", "Kubernetes", "Command Line"]
+    },
+    "Kubernetes": {
+      "translation": "Kubernetes",
+      "keywords": ["DevOps", "Container", "Orchestration"]
+    }
+  },
+  "L": {
+    "lambda": {
+      "translation": "Lambda/匿名函数",
+      "keywords": ["Programming", "Functional Programming", "Cloud"]
+    },
+    "LangChain": {
+      "translation": "LangChain",
+      "keywords": ["AI", "LLM", "Framework"]
+    },
+    "LangGraph": {
+      "translation": "LangGraph",
+      "keywords": ["AI", "LLM", "Multi-agent"]
+    },
+    "LangServe": {
+      "translation": "LangServe",
+      "keywords": ["AI", "LLM", "API"]
+    },
+    "LangSmith": {
+      "translation": "LangSmith",
+      "keywords": ["AI", "LLM", "Observability"]
+    },
+    "LaTeX": {
+      "translation": "LaTeX",
+      "keywords": ["Scientific Writing", "Typeface"]
+    },
+    "linear": {
+      "translation": "线性",
+      "keywords": []
+    },
+    "LLaMA": {
+      "translation": "LLaMA",
+      "keywords": ["AI", "LLM", "Meta"]
+    },
+    "Llama 2": {
+      "translation": "Llama 2",
+      "keywords": ["AI", "LLM", "Meta"]
+    },
+    "Llama 3": {
+      "translation": "Llama 3",
+      "keywords": ["AI", "LLM", "Meta"]
+    },
+    "LLM": {
+      "translation": "大语言模型",
+      "keywords": ["AI"]
+    },
+    "LMM": {
+      "translation": "多模态大模型",
+      "keywords": ["AI"]
+    },
+    "locale": {
+      "translation": "区域设置",
+      "keywords": ["System"]
+    },
+    "LoRA": {
+      "translation": "低秩自适应",
+      "keywords": ["AI", "LLM", "Fine-tuning"]
+    },
+    "Lua": {
+      "translation": "Lua",
+      "keywords": ["Programming Language", "Scripting", "Game Development"]
+    },
+    "Lucene": {
+      "translation": "Lucene",
+      "keywords": ["Search Engine", "Search", "Library"]
+    }
+  },
+  "M": {
+    "main": {
+      "translation": "入口/主函数",
+      "keywords": ["Programming"]
+    },
+    "maintenance": {
+      "translation": "维护",
+      "keywords": []
+    },
+    "Mamba": {
+      "translation": "Mamba",
+      "keywords": ["AI", "LLM", "Architecture"]
+    },
+    "manipulate": {
+      "translation": "操作",
+      "keywords": []
+    },
+    "manual": {
+      "translation": "手册/手动的",
+      "keywords": []
+    },
+    "margin": {
+      "translation": "外边距",
+      "keywords": ["Web", "Frontend", "CSS"]
+    },
+    "Markdown": {
+      "translation": "Markdown",
+      "keywords": ["Format", "Text"]
+    },
+    "Marshal": {
+      "translation": "数据编组/序列化",
+      "keywords": ["Programming", "Data Serialization"]
+    },
+    "matrix": {
+      "translation": "矩阵",
+      "keywords": ["Mathematics", "AI", "ML"]
+    },
+    "maven": {
+      "translation": "Maven",
+      "keywords": ["DevOps", "Java", "Build Tool"]
+    },
+    "MCP": {
+      "translation": "模型上下文协议",
+      "keywords": ["AI", "LLM", "Standard"]
+    },
+    "MediaWiki": {
+      "translation": "MediaWiki",
+      "keywords": ["Web", "Wiki", "Software"]
+    },
+    "Microservices": {
+      "translation": "微服务",
+      "keywords": ["Backend", "Software Architecture"]
+    },
+    "Microsoft": {
+      "translation": "微软",
+      "keywords": ["Software", "Company"]
+    },
+    "Midjourney": {
+      "translation": "Midjourney",
+      "keywords": ["AI", "Image Generation"]
+    },
+    "MinGW": {
+      "translation": "MinGW",
+      "keywords": ["Development Tool", "Windows", "Compiler"]
+    },
+    "miscellaneous": {
+      "translation": "杂项",
+      "keywords": []
+    },
+    "Mistral": {
+      "translation": "Mistral",
+      "keywords": ["AI", "LLM", "Company"]
+    },
+    "MLOps": {
+      "translation": "机器学习运维",
+      "keywords": ["AI", "DevOps", "ML"]
+    },
+    "Modality": {
+      "translation": "模态",
+      "keywords": ["AI"]
+    },
+    "module": {
+      "translation": "模块",
+      "keywords": ["Programming", "Software Architecture"]
+    },
+    "MoE": {
+      "translation": "混合专家系统",
+      "keywords": ["AI", "LLM", "Architecture"]
+    },
+    "Monorepo": {
+      "translation": "单体代码仓库",
+      "keywords": ["DevOps", "Software Engineering"]
+    },
+    "MSYS2": {
+      "translation": "MSYS2",
+      "keywords": ["Development Tool", "Windows"]
+    },
+    "Multi-agent": {
+      "translation": "多智能体",
+      "keywords": ["AI"]
+    },
+    "Multi-modal": {
+      "translation": "多模态",
+      "keywords": ["AI"]
+    },
+    "mutex": {
+      "translation": "互斥锁",
+      "keywords": ["Concurrency", "Programming", "OS"]
+    },
+    "MyISAM": {
+      "translation": "MyISAM",
+      "keywords": ["Database", "MySQL"]
+    },
+    "MySQL": {
+      "translation": "MySQL",
+      "keywords": ["Database", "Backend"]
+    }
+  },
+  "N": {
+    "Neo4j": {
+      "translation": "Neo4j",
+      "keywords": ["Database", "Graph Database"]
+    },
+    "Next.js": {
+      "translation": "Next.js",
+      "keywords": ["Web", "Frontend", "Framework", "React"]
+    },
+    "Nginx": {
+      "translation": "Nginx",
+      "keywords": ["Web", "Backend", "Server", "Proxy"]
+    },
+    "nil": {
+      "translation": "空/nil",
+      "keywords": ["Programming"]
+    },
+    "none": {
+      "translation": "无/none",
+      "keywords": ["Programming"]
+    },
+    "NPU": {
+      "translation": "神经网络处理单元",
+      "keywords": ["Hardware", "AI"]
+    },
+    "null": {
+      "translation": "空/null",
+      "keywords": ["Programming"]
+    },
+    "Nuxt": {
+      "translation": "Nuxt",
+      "keywords": ["Web", "Frontend", "Framework", "Vue"]
+    },
+    "NVIDIA": {
+      "translation": "英伟达",
+      "keywords": ["Hardware", "GPU", "AI", "Company"]
+    }
+  },
+  "O": {
+    "oAuth": {
+      "translation": "开放授权协议",
+      "keywords": ["Security", "Web", "Authentication"]
+    },
+    "Observability": {
+      "translation": "可观测性",
+      "keywords": ["DevOps", "Observability"]
+    },
+    "OIDC": {
+      "translation": "OpenID 连接协议",
+      "keywords": ["Security", "Web", "Authentication"]
+    },
+    "Ollama": {
+      "translation": "Ollama",
+      "keywords": ["AI", "LLM", "Tool"]
+    },
+    "ONNX": {
+      "translation": "开放神经网络交换格式",
+      "keywords": ["AI", "ML", "Standard"]
+    },
+    "OpenAI": {
+      "translation": "OpenAI",
+      "keywords": ["AI", "Company"]
+    },
+    "OpenRouter": {
+      "translation": "OpenRouter",
+      "keywords": ["AI", "LLM", "API"]
+    },
+    "OpenTelemetry": {
+      "translation": "OpenTelemetry",
+      "keywords": ["DevOps", "Observability", "Standard"]
+    },
+    "origin": {
+      "translation": "源/起始点",
+      "keywords": ["Git", "Web", "Network"]
+    },
+    "OS": {
+      "translation": "操作系统",
+      "keywords": ["Operating System"]
+    }
+  },
+  "P": {
+    "PaaS": {
+      "translation": "平台即服务",
+      "keywords": ["Cloud"]
+    },
+    "Pandoc": {
+      "translation": "Pandoc",
+      "keywords": ["Tool", "Format Conversion"]
+    },
+    "parameter": {
+      "translation": "参数",
+      "keywords": ["Programming", "AI", "ML"]
+    },
+    "Paxos": {
+      "translation": "Paxos",
+      "keywords": ["Distributed System", "Algorithm", "Consistency"]
+    },
+    "performance": {
+      "translation": "性能",
+      "keywords": ["System", "Optimization"]
+    },
+    "Perplexity": {
+      "translation": "困惑度",
+      "keywords": ["AI", "LLM", "NLP"]
+    },
+    "phantom": {
+      "translation": "幻象/幻读",
+      "keywords": ["Database", "Transaction"]
+    },
+    "Pinecone": {
+      "translation": "Pinecone",
+      "keywords": ["Database", "Vector Database", "AI"]
+    },
+    "PNG": {
+      "translation": "PNG",
+      "keywords": ["Image", "Format"]
+    },
+    "pnpm": {
+      "translation": "pnpm",
+      "keywords": ["Web", "JavaScript", "Package Manager"]
+    },
+    "Pod": {
+      "translation": "Pod",
+      "keywords": ["DevOps", "Kubernetes", "Container"]
+    },
+    "PostgreSQL": {
+      "translation": "PostgreSQL",
+      "keywords": ["Database", "Backend"]
+    },
+    "PRD": {
+      "translation": "产品需求文档",
+      "keywords": ["Software Engineering", "Product Management"]
+    },
+    "Pre-training": {
+      "translation": "预训练",
+      "keywords": ["AI", "ML"]
+    },
+    "preference": {
+      "translation": "偏好",
+      "keywords": []
+    },
+    "privilege": {
+      "translation": "权限",
+      "keywords": ["Security"]
+    },
+    "Prometheus": {
+      "translation": "Prometheus",
+      "keywords": ["DevOps", "Observability", "Monitoring"]
+    },
+    "Prompt": {
+      "translation": "提示词",
+      "keywords": ["AI", "LLM"]
+    },
+    "Prompt Engineering": {
+      "translation": "提示工程",
+      "keywords": ["AI", "LLM"]
+    },
+    "proxy": {
+      "translation": "代理",
+      "keywords": ["Network", "Security"]
+    },
+    "Puppet": {
+      "translation": "Puppet",
+      "keywords": ["DevOps", "Infrastructure as Code", "Tool"]
+    },
+    "Putty": {
+      "translation": "PuTTY",
+      "keywords": ["DevOps", "Network", "Tool"]
+    },
+    "Python": {
+      "translation": "Python",
+      "keywords": ["Programming Language", "AI", "Backend"]
+    },
+    "PyTorch": {
+      "translation": "PyTorch",
+      "keywords": ["AI", "Machine Learning", "Library"]
+    }
+  },
+  "Q": {
+    "Qdrant": {
+      "translation": "Qdrant",
+      "keywords": ["Database", "Vector Database", "AI"]
+    },
+    "QLoRA": {
+      "translation": "QLoRA",
+      "keywords": ["AI", "LLM", "Fine-tuning"]
+    },
+    "Qt": {
+      "translation": "Qt",
+      "keywords": ["UI", "Framework", "C++", "Cross-platform"]
+    },
+    "Quantization": {
+      "translation": "量化",
+      "keywords": ["AI", "Model Optimization"]
+    },
+    "query": {
+      "translation": "查询",
+      "keywords": ["Database", "SQL"]
+    },
+    "quota": {
+      "translation": "配额",
+      "keywords": ["Resource Management", "Cloud"]
+    },
+    "Qwen": {
+      "translation": "通义千问",
+      "keywords": ["AI", "LLM", "Alibaba"]
+    }
+  },
+  "R": {
+    "RAG": {
+      "translation": "检索增强生成",
+      "keywords": ["AI", "LLM", "Information Retrieval"]
+    },
+    "Ratio": {
+      "translation": "比率",
+      "keywords": []
+    },
+    "rbd": {
+      "translation": "RADOS 块设备",
+      "keywords": ["Storage", "Distributed System", "Ceph"]
+    },
+    "REACT": {
+      "translation": "React",
+      "keywords": ["Web", "Frontend", "Framework", "Library"]
+    },
+    "Realm": {
+      "translation": "Realm",
+      "keywords": ["Database", "Mobile"]
+    },
+    "Reasoning": {
+      "translation": "推理/思维",
+      "keywords": ["AI", "LLM"]
+    },
+    "Redis": {
+      "translation": "Redis",
+      "keywords": ["Database", "Cache", "Key-Value Store"]
+    },
+    "regression": {
+      "translation": "回归",
+      "keywords": ["Statistics", "AI", "ML", "Testing"]
+    },
+    "relay": {
+      "translation": "中继",
+      "keywords": ["Network"]
+    },
+    "Remix": {
+      "translation": "Remix",
+      "keywords": ["Web", "Frontend", "Framework"]
+    },
+    "resolved": {
+      "translation": "已解决/已解析",
+      "keywords": []
+    },
+    "resort": {
+      "translation": "重排",
+      "keywords": []
+    },
+    "resume": {
+      "translation": "恢复",
+      "keywords": []
+    },
+    "retina": {
+      "translation": "视网膜屏",
+      "keywords": ["Hardware", "Apple"]
+    },
+    "retrieve": {
+      "translation": "检索",
+      "keywords": ["Data Retrieval", "AI"]
+    },
+    "RLHF": {
+      "translation": "人类反馈强化学习",
+      "keywords": ["AI", "LLM", "Reinforcement Learning"]
+    },
+    "root": {
+      "translation": "根节点/超级用户",
+      "keywords": ["Operating System", "Data Structure"]
+    },
+    "RunPod": {
+      "translation": "RunPod",
+      "keywords": ["Cloud", "GPU", "AI"]
+    },
+    "Rust": {
+      "translation": "Rust 语言",
+      "keywords": ["Programming Language", "System Programming"]
+    }
+  },
+  "S": {
+    "SaaS": {
+      "translation": "软件即服务",
+      "keywords": ["Cloud"]
+    },
+    "Safari": {
+      "translation": "Safari",
+      "keywords": ["Web", "Browser", "Apple"]
+    },
+    "san": {
+      "translation": "存储区域网络",
+      "keywords": ["Storage", "Network"]
+    },
+    "Scaling Law": {
+      "translation": "规模法则",
+      "keywords": ["AI", "LLM"]
+    },
+    "schema": {
+      "translation": "模式/架构",
+      "keywords": ["Database", "Data Structure"]
+    },
+    "scheme": {
+      "translation": "方案/协议",
+      "keywords": ["Network", "Security"]
+    },
+    "segue": {
+      "translation": "转场",
+      "keywords": ["Mobile", "iOS", "UI"]
+    },
+    "semaphore": {
+      "translation": "信号量",
+      "keywords": ["Concurrency", "OS", "Programming"]
+    },
+    "serializable": {
+      "translation": "可序列化",
+      "keywords": ["Programming", "Database", "Transaction"]
+    },
+    "Serverless": {
+      "translation": "无服务器架构",
+      "keywords": ["Cloud", "Architecture"]
+    },
+    "Shard": {
+      "translation": "分片",
+      "keywords": ["Database", "Distributed System"]
+    },
+    "shell": {
+      "translation": "壳/命令行解释器",
+      "keywords": ["Operating System", "Command Line"]
+    },
+    "Sidecar": {
+      "translation": "边车",
+      "keywords": ["DevOps", "Service Mesh", "Kubernetes"]
+    },
+    "Skype": {
+      "translation": "Skype",
+      "keywords": ["Web", "Social", "Software"]
+    },
+    "Solidity": {
+      "translation": "Solidity",
+      "keywords": ["Web3", "Blockchain", "Programming Language"]
+    },
+    "SOP": {
+      "translation": "标准作业程序",
+      "keywords": ["Productivity", "Operations"]
+    },
+    "Sora": {
+      "translation": "Sora",
+      "keywords": ["AI", "Video Generation"]
+    },
+    "Spark": {
+      "translation": "Apache Spark",
+      "keywords": ["Big Data", "Distributed System"]
+    },
+    "SQL": {
+      "translation": "结构化查询语言",
+      "keywords": ["Database", "SQL"]
+    },
+    "SSO": {
+      "translation": "单点登录",
+      "keywords": ["Security", "Authentication"]
+    },
+    "Stable Diffusion": {
+      "translation": "Stable Diffusion",
+      "keywords": ["AI", "Image Generation"]
+    },
+    "stat": {
+      "translation": "统计/状态",
+      "keywords": ["Statistics"]
+    },
+    "status": {
+      "translation": "状态",
+      "keywords": ["System", "Network"]
+    },
+    "Streamlit": {
+      "translation": "Streamlit",
+      "keywords": ["Data Visualization", "Python", "AI", "Framework"]
+    },
+    "sudo": {
+      "translation": "sudo/以超级用户执行",
+      "keywords": ["Operating System", "Security", "Command Line"]
+    },
+    "suite": {
+      "translation": "套件",
+      "keywords": ["Testing", "Software"]
+    },
+    "Svelte": {
+      "translation": "Svelte",
+      "keywords": ["Web", "Frontend", "Framework"]
+    },
+    "Synthetic Data": {
+      "translation": "合成数据",
+      "keywords": ["AI", "Machine Learning"]
+    }
+  },
+  "T": {
+    "tag": {
+      "translation": "标签",
+      "keywords": ["Data Structure", "Web", "DevOps"]
+    },
+    "Tailwind": {
+      "translation": "Tailwind CSS",
+      "keywords": ["Web", "Frontend", "CSS", "Framework"]
+    },
+    "Tauri": {
+      "translation": "Tauri",
+      "keywords": ["Software Architecture", "Cross-platform", "Rust", "Frontend"]
+    },
+    "telnet": {
+      "translation": "Telnet",
+      "keywords": ["Network", "Protocol", "Command Line"]
+    },
+    "Temperature": {
+      "translation": "温度",
+      "keywords": ["AI", "LLM", "Sampling"]
+    },
+    "TensorFlow": {
+      "translation": "TensorFlow",
+      "keywords": ["AI", "Machine Learning", "Library"]
+    },
+    "Terraform": {
+      "translation": "Terraform",
+      "keywords": ["DevOps", "Infrastructure as Code", "Tool"]
+    },
+    "thrift": {
+      "translation": "Thrift",
+      "keywords": ["Backend", "RPC", "Distributed System"]
+    },
+    "TiKZ": {
+      "translation": "TiKZ",
+      "keywords": ["LaTeX", "Graphics"]
+    },
+    "Token": {
+      "translation": "令牌/词元",
+      "keywords": ["AI", "Security", "Web"]
+    },
+    "Tokenization": {
+      "translation": "词法分析/词元化",
+      "keywords": ["AI", "NLP", "LLM", "Programming"]
+    },
+    "topology": {
+      "translation": "拓扑结构",
+      "keywords": ["Network", "Mathematics"]
+    },
+    "TPL": {
+      "translation": "任务并行库",
+      "keywords": ["Programming", "Concurrency", ".NET"]
+    },
+    "TPU": {
+      "translation": "张量处理单元",
+      "keywords": ["Hardware", "AI", "Google"]
+    },
+    "Traefik": {
+      "translation": "Traefik",
+      "keywords": ["DevOps", "Network", "Proxy", "Load Balancer"]
+    },
+    "transaction": {
+      "translation": "事务",
+      "keywords": ["Database", "Blockchain"]
+    },
+    "Transformer": {
+      "translation": "Transformer",
+      "keywords": ["AI", "LLM", "Architecture"]
+    },
+    "Triton": {
+      "translation": "Triton",
+      "keywords": ["AI", "GPU", "Inference"]
+    },
+    "Turborepo": {
+      "translation": "Turborepo",
+      "keywords": ["Web", "Engineering Tool", "Monorepo"]
+    },
+    "TypeScript": {
+      "translation": "TypeScript",
+      "keywords": ["Programming Language", "Web", "Frontend"]
+    },
+    "typical": {
+      "translation": "典型",
+      "keywords": []
+    },
+    "typology": {
+      "translation": "类型学",
+      "keywords": []
+    }
+  },
+  "U": {
+    "Uber": {
+      "translation": "优步",
+      "keywords": ["Software", "Company"]
+    },
+    "Ubuntu": {
+      "translation": "Ubuntu",
+      "keywords": ["Linux", "OS"]
+    },
+    "Unity Catalog": {
+      "translation": "Unity Catalog",
+      "keywords": ["Big Data", "Data Management", "Databricks"]
+    },
+    "Unmarshal": {
+      "translation": "反序列化/解码",
+      "keywords": ["Programming", "Data Serialization"]
+    },
+    "Unsloth": {
+      "translation": "Unsloth",
+      "keywords": ["AI", "LLM", "Fine-tuning", "Tool"]
+    },
+    "URI": {
+      "translation": "统一资源标识符",
+      "keywords": ["Web", "Network", "Standard"]
+    },
+    "URL": {
+      "translation": "统一资源定位符",
+      "keywords": ["Web", "Network", "Standard"]
+    }
+  },
+  "V": {
+    "variable": {
+      "translation": "变量",
+      "keywords": ["Programming"]
+    },
+    "Vector Database": {
+      "translation": "向量数据库",
+      "keywords": ["Database", "AI"]
+    },
+    "Vercel": {
+      "translation": "Vercel",
+      "keywords": ["Web", "Frontend", "Platform"]
+    },
+    "Vite": {
+      "translation": "Vite",
+      "keywords": ["Web", "Frontend", "Build Tool"]
+    },
+    "VLLM": {
+      "translation": "vLLM",
+      "keywords": ["AI", "LLM", "Inference"]
+    },
+    "VLM": {
+      "translation": "视觉语言模型",
+      "keywords": ["AI", "Computer Vision"]
+    },
+    "Vue": {
+      "translation": "Vue",
+      "keywords": ["Web", "Frontend", "Framework"]
+    }
+  },
+  "W": {
+    "Wasm": {
+      "translation": "WebAssembly",
+      "keywords": ["Web", "Runtime", "Standard"]
+    },
+    "Weaviate": {
+      "translation": "Weaviate",
+      "keywords": ["Database", "Vector Database", "AI"]
+    },
+    "Web3": {
+      "translation": "Web3",
+      "keywords": ["Blockchain", "Web"]
+    },
+    "WebGPU": {
+      "translation": "WebGPU",
+      "keywords": ["Web", "Graphics", "Hardware Acceleration"]
+    },
+    "WebSocket": {
+      "translation": "WebSocket",
+      "keywords": ["Web", "Network", "Protocol"]
+    },
+    "Whisper": {
+      "translation": "Whisper",
+      "keywords": ["AI", "Speech Recognition"]
+    },
+    "width": {
+      "translation": "宽度",
+      "keywords": ["UI", "Frontend", "CSS"]
+    },
+    "WordPress": {
+      "translation": "WordPress",
+      "keywords": ["Web", "CMS", "Software"]
+    }
+  },
+  "X": {
+    "xAI": {
+      "translation": "xAI",
+      "keywords": ["AI", "Company"]
+    },
+    "XState": {
+      "translation": "XState",
+      "keywords": ["Web", "JavaScript", "Library", "State Machine"]
+    }
+  },
+  "Y": {
+    "YouTube": {
+      "translation": "YouTube",
+      "keywords": ["Web", "Media", "Platform"]
+    },
+    "Yum": {
+      "translation": "Yum",
+      "keywords": ["Linux", "Package Manager", "Tool"]
+    }
+  },
+  "Z": {
+    "Zabbix": {
+      "translation": "Zabbix",
+      "keywords": ["DevOps", "Monitoring", "Software"]
+    },
+    "Zero-shot": {
+      "translation": "零样本学习",
+      "keywords": ["AI", "LLM", "Machine Learning"]
+    },
+    "Zig": {
+      "translation": "Zig 语言",
+      "keywords": ["Programming Language", "System Programming"]
+    }
+  }
+}

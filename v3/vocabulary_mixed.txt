@@ -1,0 +1,770 @@
+abnormal
+反常的，不规则的；变态的
+access
+访问
+accurate
+精确的
+ACID
+原子性、一致性、隔离性、持久性（数据库事务特征）
+acquire
+获得；取得；学到；捕获
+admin
+管理
+Adobe
+美国 Adobe 公司
+Agent
+智能体，具有自主感知和行动能力的 AI 系统
+agile
+敏捷的；敏捷开发
+AIGC
+生成式人工智能 (Artificial Intelligence Generated Content)
+AJAX
+创建交互式 Web 应用程序而无需牺牲浏览器兼容性的流行方法（Asynchronous JavaScript and XML）
+alias
+别名
+alignment
+对齐，确保 AI 系统的目标与人类价值观一致；排列
+alpha
+阿尔法测试，指软件开发的初始测试阶段
+Alpine
+Alpine Linux，一个轻量级的 Linux 发行版
+amazon
+亚马逊（Amazon），常指其 AWS 云计算服务
+AMD
+超威半导体（Advanced Micro Devices），著名的芯片制造商
+analogy
+类比；类推；模拟
+Angular
+一款由 Google 维护的 Web 前端框架
+Anthropic
+开发了 Claude 系列模型的 AI 安全与研究公司
+Apache
+Web 服务器软件；阿帕奇
+API
+应用程序接口（Application Programming Interface）
+app
+（计算机）应用程序 (application)
+archive
+档案，归档，存档
+Arduino
+开源电子原型平台
+ArgoCD
+Kubernetes 的 GitOps 持续交付工具
+array
+数组
+Artifacts
+开发环境中可重用的代码、文件或构建产物
+ASCII
+美国信息交换标准码（American Standard Code for Information Interchange）
+Astro
+现代的静态网站生成框架
+atomicity
+原子性；原子价
+Attention
+注意力机制，Transformer 的核心组件
+Auto-GPT
+一个能自主实现目标的 AI 智能体实验原型
+AutoGen
+Microsoft 开发的多智能体应用框架
+avatar
+（网络）头像，替身
+Axure
+原型设计工具
+Azure
+Microsoft Azure 灵活的开放式云计算平台
+Beego
+一个使用 Go 语言构建 Web 应用程序的开源框架
+behavior
+行为，举止；态度；反应
+Benchmark
+基准测试，用于评估硬件或软件性能的标准化测试
+BERT
+双向编码器表示转换器 (Bidirectional Encoder Representations from Transformers)
+beta
+贝塔测试，指软件开发的公开测试阶段
+Bias
+偏见，特指 AI 模型中的算法偏见
+bind
+绑定
+Blockchain
+区块链，去中心化的分布式账本技术
+BSD
+加州大学伯克利分校软件（Berkeley Software Distribution）
+budget
+预算，预算费
+Bun
+快速的全能 JavaScript 运行时
+CaaS
+容器即服务（Container as a Service）
+cache
+电脑高速缓冲存储器；缓存
+CCL
+通用控制语言 (Common Control Language)
+CD
+持续部署（Continuous Deployment）
+CentOS
+社区企业操作系统（Community Enterprise Operating System）
+Ceph
+一个开源软件存储平台，提供对象、块和文件级存储
+Chain of Thought (CoT)
+思维链，提升大模型逻辑推理能力的技术
+ChatGPT
+OpenAI 开发的对话式 AI 助手
+CI
+持续集成（Continuous Integration）
+Claude
+由 Anthropic 开发的高性能大语言模型系列
+CloudNative
+云原生
+CMDB
+配置管理数据库（Configuration Management Database）
+collation
+排序规则；校对
+Compute
+算力，进行计算处理的能力
+consistency
+一致性；稠度；相容性
+Constitutional AI
+宪法 AI，一种通过预设原则引导模型行为的对齐技术
+Context Window
+上下文窗口，模型能处理的最大文本长度
+Copilot
+副驾驶，常指 AI 辅助编程工具
+CoreDNS
+一个用 Go 编写的 DNS 服务器/转发器
+CSS
+层叠样式表（Cascading Style Sheets）
+CUDA
+由 NVIDIA 推出的并行计算平台和编程模型
+cursor
+光标；游标
+Cygwin
+在 Windows 平台上运行的类 UNIX 模拟环境
+DALL-E
+OpenAI 开发的文本到图像生成模型
+dashboard
+仪表板；看板
+DBaaS
+数据库即服务（Database as a Service）
+DCL
+数据控制语言 (Data Control Language)
+DDL
+数据定义语言（data definition language）
+Debian
+Debian Linux，一个自由操作系统
+debt
+债务；技术债（Technical Debt）
+Deepfake
+深度伪造，利用 AI 生成的虚假音视频内容
+Deno
+安全的 JavaScript 和 TypeScript 运行时
+deny
+否定，否认；拒绝给予；拒绝…的要求
+deque
+双端队列；双队列
+DevOps
+开发运维一体化
+Diffusion
+扩散模型，常用于 AI 绘画
+digest
+摘要；（如消息摘要，MD5/SHA256）
+Dijkstra
+迪杰斯特拉（算法大佬姓氏）
+Discuz
+康盛创想旗下的社区软件
+Distillation
+知识蒸馏，将大型模型的能力转移到较小模型的技术
+Django
+用 Python 语言写的开源 Web 开发框架
+DML
+数据操作语言（Data Manipulation Language）
+doc
+文档 (Document)
+Docker
+容器化平台平台
+DokuWiki
+一个基于 PHP 的 Wiki 软件
+DPO
+直接偏好优化 (Direct Preference Optimization)，一种对齐技术
+DQL
+数据查询语言 (Data Query Language)
+Drone
+一个开源的 CI/CD 平台
+Dubbo
+一款高性能、轻量级的开源 Java RPC 框架
+durability
+耐久性；持久性
+eBPF
+扩展伯克利包过滤器，用于内核观测和网络控制
+echo
+回显；重复
+Edge Computing
+边缘计算，在靠近数据源的边缘节点进行计算
+Embeddings
+嵌入，将数据（如文本）映射为向量表示
+Embodied AI
+具身智能，使 AI 能够通过机器人在物理世界中感知和互动
+Emergence
+涌现，模型规模达到一定程度时表现出的复杂新能力
+endpoint
+端点；终结点
+eoan
+Ubuntu 19.10 的代号
+EOP
+设备操作顺序 (Equipment Operational Procedure)
+ESM
+ECMAScript 模块标准
+Eureka
+Netflix 开发的服务发现框架
+event
+事件
+facade
+外观模式；正面；外观
+favorable
+有利的；良好的；赞成的
+Federated Learning
+联邦学习，分布式机器学习方法，保护数据隐私
+Fedora
+基于 Linux 的操作系统发行版
+Few-shot
+少样本学习，模型仅需少量示例即可学习新任务
+FIFO
+先入先出（First In First Out）
+FILO
+先进后出 (First In Last Out)
+Fine-tuning
+微调，在预训练模型基础上进行针对性训练
+Flask
+一个轻量级的 Python Web 框架
+Flutter
+Google 开源的跨平台 UI 工具包
+Flux
+高质量的开源 AI 图像生成模型
+format
+格式
+Foundation Model
+基础模型，在海量数据上预训练且可适配多种任务的模型
+GeForce
+NVIDIA 旗下的显卡品牌
+Gemini
+Google 开发的多模态大模型系统
+Generative AI
+生成式人工智能，能够创作新内容（文本、图像等）的 AI
+GGUF
+针对 LLM 推理优化的模型量化存储文件格式
+GIF
+图形交换格式 (Graphics Interchange Format)
+Git
+分布式版本控制系统
+Gitea
+一个轻量级的 Git 托管服务
+Github
+社交编程及代码托管网站
+Gitlab
+基于 Git 的项目管理及代码托管平台
+GNOME
+流行的开源桌面环境
+GNU
+GNU's Not Unix
+Gogs
+一款极易搭建的自助 Git 服务
+Golang
+Google 开发的一门静态强类型、编译型语言
+GPT
+生成式预训练变换器 (Generative Pre-trained Transformer)
+GPU
+图形处理器，广泛用于 AI 计算加速
+Grafana
+开源的数据可视化面板
+GraphQL
+一种用于 API 的查询语言
+GraphRAG
+图增强检索，结合知识图谱的 RAG 技术
+grep
+常用的文本搜索工具（Global Regular Expression Print）
+Grok
+xAI 公司开发的大语言模型
+Groq
+专注于 LLM 推理加速的 AI 芯片公司
+GUI
+图形用户界面 (Graphical User Interface)
+Hadoop
+开源分布式计算平台
+Hallucination
+幻觉，指 AI 生成貌似合理但实际上错误的信息
+Harbor
+开源容器镜像仓库
+Haskell
+一种纯函数式编程语言
+height
+高度
+Helm
+Kubernetes 的包管理器
+hidden
+隐藏的
+Hive
+基于 Hadoop 的数据仓库工具
+HTML
+超文本标记语言（Hypertext Markup Language）
+Hugging Face
+拥抱脸，流行的开源 AI 模型托管社区
+Hydration
+水合，将静态 HTML 转化为交互式应用的过程
+Hyperparameter
+超参数，在模型训练前手动设置的参数
+IaaS
+基础设施即服务（Infrastructure as a Service）
+image
+镜像；影像；想象
+Imgur
+在线图像托管服务
+implement
+实施，执行；实现
+In-context Learning
+上下文学习，模型通过输入示例直接学习任务的能力
+Inference
+推理，使用训练好的模型进行预测的过程
+InfluxDB
+开源时序数据库
+Ingress
+Kubernetes 中的流量入口管理
+InnoDB
+MySQL 的默认事务型存储引擎
+Instruct
+指令微调，使模型能够遵循人类指令的技术
+integer
+整数
+Intel
+英特尔公司，著名的半导体芯片厂商
+isolation
+隔离性（数据库事务特征）
+issue
+问题；工单；发行物
+istio
+开源的服务网格平台
+ITIL
+信息技术基础构架库（Information Technology Infrastructure Library）
+iTop
+开源的 IT 业务管理平台
+ITSM
+信息技术服务管理（IT Service Management）
+Jailbreak
+越狱，绕过 AI 模型安全限制的技术
+JAMstack
+JavaScript, API & Markup 架构
+Java
+一门面向对象的编程语言
+JavaScript
+Web 脚本编程语言
+JAX
+Google 开发的高性能数值计算库
+journalctl
+systemd 的查询和显示日志工具
+jpeg
+联合图像专家小组（一种图像压缩标准）
+jpg
+常见的图像压缩格式
+Jquery
+一个经典的 JavaScript 库
+JSON-LD
+JSON 链接数据格式，用于语义化 Web
+Kaniko
+容器镜像构建工具
+Kapacitor
+InfluxDB 的数据处理引擎
+key
+键；密钥；钥匙
+Kindle
+亚马逊电子书阅读器
+Kinect
+微软体感交互外设
+kubectl
+Kubernetes 的命令行工具
+Kubernetes
+开源的容器集群管理系统
+lambda
+希腊字母 λ；常用的匿名函数代称
+LangChain
+用于开发 LLM 应用的编排框架
+LangGraph
+用于构建复杂、循环的多智能体系统的开发框架
+LangServe
+将 LangChain 链部署为 REST API 的工具
+LangSmith
+LangChain 开发的 LLM 应用调试和监控平台
+LaTeX
+基于 TeX 的排版系统
+linear
+线性的
+LLaMA
+Meta 开源的大语言模型系列
+Llama 2
+Meta 发布的第二代开源大语言模型
+Llama 3
+Meta 最新的开源大语言模型系列
+LLM
+大语言模型 (Large Language Model)
+LMM
+大视觉语言模型 (Large Multimodal Model)
+locale
+区域设置；语言环境
+LoRA
+低秩适应 (Low-Rank Adaptation)，一种高效的模型微调方法
+Lua
+一种轻量级、嵌入式的脚本语言
+Lucene
+开源的全文搜索引擎库
+main
+主要的；主入口
+maintenance
+维护，维修
+Mamba
+新型状态空间模型架构，可替代 Transformer
+manipulate
+操纵；操作
+manual
+手动的；手册
+margin
+边缘；页边距
+Markdown
+一种轻量级标记语言
+Marshal
+序列化/编组数据
+matrix
+矩阵
+maven
+Java 项目管理和构建工具
+MCP
+模型上下文协议 (Model Context Protocol)
+MediaWiki
+开源的 Wiki 引擎
+Microservices
+微服务架构
+Microsoft
+微软公司
+Midjourney
+著名的 AI 图像生成工具
+MinGW
+Windows 上的简约 GNU 环境
+miscellaneous
+混杂的，各种各样的
+Mistral
+高性能开源大模型系列及其背后的法国 AI 公司
+MLOps
+机器学习运维，将 DevOps 实践应用于 ML 系统
+Modality
+模态，指不同类型的信息输入（如文本、图像、音频）
+module
+模块；组件
+MoE
+混合专家模型 (Mixture of Experts)
+Monorepo
+单一代码仓库策略
+MSYS2
+Windows 上的软件分发平台和开发环境
+Multi-agent
+多智能体系统，多个 AI 智能体协作解决问题的架构
+Multi-modal
+多模态，处理多种媒体类型（文本、图像、音频等）的能力
+mutex
+互斥锁
+MyISAM
+MySQL 的非事务型存储引擎
+MySQL
+流行的开源关系型数据库管理系统
+Neo4j
+流行的图数据库管理系统
+Next.js
+基于 React 的服务端渲染框架
+Nginx
+高性能的 HTTP 和反向代理 Web 服务器
+nil
+零；空白（Go 语言中的空值）
+none
+无；没有
+NPU
+神经网络处理器，专门为加速神经网络运算设计的微处理器
+null
+空值；无效的
+Nuxt
+基于 Vue 的服务端渲染框架
+NVIDIA
+辉达，著名的图形处理器（GPU）厂商
+oAuth
+开放授权协议
+Observability
+可观测性（包含日志、监控、链路追踪）
+OIDC
+身份认证协议 (OpenID Connect)
+Ollama
+支持在本地轻松部署和运行 LLM 的开源工具
+ONNX
+开放神经网络交换格式，用于不同深度学习框架间的模型转换
+OpenAI
+美国人工智能研究实验室，ChatGPT 的开发者
+OpenRouter
+统一的 LLM API 路由服务
+OpenTelemetry
+云原生可观测性框架标准
+origin
+起源；原点；仓库源
+OS
+操作系统（Operating System）
+PaaS
+平台即服务（Platform as a Service）
+Pandoc
+开源的文档格式转换工具
+parameter
+参数，衡量模型规模的指标
+Paxos
+经典的分布式共识算法
+performance
+性能；表现
+Perplexity
+困惑度，衡量语言模型预测文本质量的常用指标
+phantom
+幻象；（如：幻读）
+Pinecone
+专为机器学习设计的向量数据库
+PNG
+便携式网络图形 (Portable Network Graphics)
+pnpm
+高效的包管理器
+Pod
+Kubernetes 中最小的可部署单元
+PostgreSQL
+开源的对象关系型数据库系统
+PRD
+产品需求文档 (Product Requirement Document)
+Pre-training
+预训练，在海量数据上进行初始模型训练的过程
+preference
+偏好，倾向
+privilege
+特权；权限
+Prometheus
+开源的系统监控和报警工具kit
+Prompt
+提示词，用于指导 AI 生成内容的输入
+Prompt Engineering
+提示工程，通过优化输入来引导 AI 生成更优结果的技术
+proxy
+代理
+Puppet
+开源的自动化配置管理工具
+Putty
+Windows 上的 SSH/Telnet 客户端
+Python
+一门通用的高级编程语言
+PyTorch
+Facebook 开发的深度学习框架
+Qdrant
+开源的向量相似度搜索引擎
+QLoRA
+量化低秩自适应，一种极高显存效率的模型微调技术
+Qt
+跨平台的 C++ 图形用户界面应用程序框架
+Quantization
+量化，压缩模型权重精度以降低显存占用并提速的技术
+query
+查询；疑问
+quota
+配额，限额
+Qwen
+通义千问，阿里云开发的大语言模型系列
+RAG
+检索增强生成 (Retrieval-Augmented Generation)
+Ratio
+比率，比例
+rbd
+RADOS 块设备 (RADOS Block Device)
+REACT
+React，Facebook 开发的用于构建用户界面的 JavaScript 库
+Realm
+一门移动端数据库解决方案
+Reasoning
+推理，模型通过逻辑步骤解决问题的思维过程
+Redis
+开源的内存数据结构存储系统
+regression
+回归；（如：回归测试）
+relay
+转发；中继
+Remix
+全栈 Web 框架，专注于 Web 标准
+resolved
+已解析的；已解决的
+resort
+重新排序；凭借
+resume
+恢复；简历
+retina
+视网膜；常指视网膜显示屏
+retrieve
+检索；获取
+RLHF
+基于人类反馈的强化学习 (Reinforcement Learning from Human Feedback)
+root
+根节点；超级用户（Linux）
+RunPod
+面向 AI 的 GPU 云计算平台
+Rust
+一种强调安全、并发和内存效率的系统编程语言
+SaaS
+软件即服务（Software as a Service）
+Safari
+苹果公司开发的网页浏览器
+san
+存储区域网络 (Storage Area Network)
+Scaling Law
+缩放法则，描述模型性能随计算量、参数量和数据量增加而提升的规律
+schema
+模式；架构图
+scheme
+计划；方案；（如：URL Scheme）
+segue
+无缝切换；转接
+semaphore
+信号量
+serializable
+可串行化的
+Serverless
+无服务器架构
+Shard
+数据库分片（Sharding）
+shell
+壳层，命令行解释器
+Sidecar
+边车模式，常用于服务网格中
+Skype
+在线通讯软件
+Solidity
+以太坊智能合约编程语言
+SOP
+标准作业程序 (Standard Operating Procedure)
+Sora
+OpenAI 开发的文本到视频生成模型
+Spark
+Apache Spark，大规模数据处理框架
+SQL
+结构化查询语言 (Structured Query Language)
+SSO
+单点登录 (Single Sign-On)
+Stable Diffusion
+一种流行的开源潜在扩散模型，常用于 AI 图像生成
+stat
+统计；状态
+status
+状态
+Streamlit
+快速构建数据应用的 Python 框架
+sudo
+以超级用户身份执行命令 (SuperUser DO)
+suite
+套装；测试套件 (Test Suite)
+Svelte
+现代前端构建框架
+Synthetic Data
+合成数据，由算法或 AI 生成的训练数据
+tag
+标签；标记
+Tailwind
+实用优先的 CSS 框架
+Tauri
+构建更小、更快、更安全的桌面应用框架
+telnet
+常用的远程登录协议及工具
+Temperature
+温度参数，控制 LLM 输出随机性和多样性的超参数
+TensorFlow
+Google 开发的机器学习框架
+Terraform
+基础设施即代码 (IaC) 工具
+thrift
+由 Facebook 开发的高性能 RPC 框架
+TiKZ
+LaTeX 的图形绘制宏包
+Token
+令牌；文本处理的最小单位
+Tokenization
+分词，将文本转换为模型可处理的 Token 序列的过程
+topology
+拓扑结构
+TPL
+任务并行库 (Task Parallel Library)
+TPU
+张量处理器，Google 开发的专门用于机器学习加速的硬件
+Traefik
+现代的反向代理和负载均衡器
+transaction
+事务；交易
+Transformer
+变换器，一种基于自注意力机制的深度学习模型架构
+Triton
+NVIDIA 开源的 GPU 推理服务器
+Turborepo
+针对 JavaScript 和 TypeScript 的高性能构建系统
+TypeScript
+JavaScript 的超集，添加了静态类型检查
+typical
+典型的
+typology
+类型学
+Uber
+优步；旗下的技术架构对行业有深远影响
+Ubuntu
+基于 Debian 的人气 Linux 发行版
+Unity Catalog
+Databricks 开源的数据统一管理平台
+Unmarshal
+反序列化（数据编入）
+Unsloth
+一种高效的 LLM 训练加速工具
+URI
+统一资源标识符 (Uniform Resource Identifier)
+URL
+统一资源定位符 (Uniform Resource Locator)
+variable
+变量；可变的
+Vector Database
+向量数据库，专为高维向量搜索和存储设计的数据库
+Vercel
+前端应用部署平台，Next.js 的开发者
+Vite
+下一代前端开发与构建工具
+VLLM
+高性能 LLM 推理和服务引擎
+VLM
+视觉语言模型，可同时理解并处理图像和文本信息
+Vue
+流行前端 JavaScript 框架
+Wasm
+WebAssembly，一种二进制指令格式
+Weaviate
+开源的向量搜索引擎和数据库
+Web3
+基于区块链的去中心化互联网
+WebGPU
+新一代 Web 图形 API，提供 GPU 加速
+WebSocket
+全双工通信协议，实现实时数据交换
+Whisper
+OpenAI 开源的语音识别模型
+width
+宽度
+WordPress
+流行的开源博客/内容管理系统
+xAI
+Elon Musk 创立的 AI 公司，开发了 Grok 模型
+XState
+JavaScript 的状态机库
+YouTube
+全球知名的视频分享平台
+Yum
+黄狗更新管理器 (Yellowdog Updater, Modified)，用于 Linux 软件包管理
+Zabbix
+开源的企业级监控解决方案
+Zero-shot
+零样本学习
+Zig
+一种通用编程语言和工具链，强调健壮性和性能
