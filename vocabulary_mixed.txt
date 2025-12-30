@@ -48,10 +48,11 @@ aggregation
 agile
 敏捷开发
 AI
-人工智能
+Artificial Intelligence
 AIGC
-生成式 AI
+Artificial Intelligence Generated Content
 AJAX
+Asynchronous JavaScript and XML
 algorithm
 算法
 alias
@@ -87,7 +88,7 @@ antecedent
 Anthropic
 Apache
 API
-应用程序接口
+Application Program Interface
 app
 应用
 appearance
@@ -117,9 +118,9 @@ Artifacts
 artificial intelligence, AI
 人工智能
 ASCII
-ASCII码
+American Standard Code for Information Interchange
 ASP
-应用程序服务提供商
+Application Service Provider
 assemble
 组合
 assembly
@@ -135,7 +136,7 @@ associated
 association list
 关联列表
 AST
-抽象语法树
+Abstract Syntax Tree
 asynchronous
 异步的
 atom
@@ -191,6 +192,7 @@ Bayes' theorem
 Benchmark
 基准测试
 BERT
+Bidirectional Encoder Representations from Transformers
 best viable function
 最佳可行函式
 beta
@@ -308,9 +310,9 @@ casting
 catalog
 目录
 CCL
-通用控制语言
+Common Control Language
 CD
-持续部署
+Continuous Deployment
 CentOS
 Ceph
 chain
@@ -335,7 +337,7 @@ checksum
 chunk
 块
 CI
-持续集成
+Continuous Integration
 circular
 循环
 class
@@ -364,7 +366,7 @@ clause
 cleanup
 清除
 CLI
-命令行界面
+Command Line Interface
 client
 客户端
 client application
@@ -380,11 +382,11 @@ closure
 CloudNative
 云原生
 CLS
-通用语言规范
+Common Language Specification
 clutter
 杂乱
 CMDB
-配置管理数据库
+Configuration Management Database
 code
 代码
 code access security
@@ -400,7 +402,7 @@ column
 column-major order
 行主序
 COM
-组件对象模型
+Component Object Model
 combo box
 组合框
 comma
@@ -539,8 +541,9 @@ Cryptography
 crystallize
 固化
 CSS
-层叠样式表
+Cascading Style Sheets
 CUDA
+Compute Unified Device Architecture
 curly brace
 花括号
 cursor
@@ -577,9 +580,9 @@ dataset
 DBaaS
 数据库即服务
 DCL
-数据控制语言
+Data Control Language
 DDL
-数据定义语言
+Data Definition Language
 dead lock
 死锁
 deallocate
@@ -635,6 +638,8 @@ device driver
 硬件驱动程序
 DevOps
 开发运维一体化
+DFS
+深度优先搜索
 dialog
 对话框
 Diffusion
@@ -665,16 +670,16 @@ distributed query
 分布式查询
 Django
 DML
-数据操作语言
+Data Manipulation Language
 doc
 文档
 Docker
 document
 文档
 DPO
-直接偏好优化
+Direct Preference Optimization
 DQL
-数据查询语言
+Data Query Language
 driver
 驱动(程序)
 dump
@@ -724,7 +729,7 @@ enumeration type
 environment
 环境
 EOP
-设备操作程序
+End Of Program
 equal
 相等
 equality
@@ -793,13 +798,13 @@ Few-shot
 field
 字段
 FIFO
-先进先出
+First-In, First-Out
 file handle
 文件句柄
 fill pointer
 填充指针
 FILO
-先进后出
+First-In, Last-Out
 filter
 筛选
 finalization
@@ -878,7 +883,7 @@ garbage collection
 garbage collector
 垃圾回收器
 GC
-垃圾回收(机制)
+Garbage Collection
 GeForce
 Gemini
 generalized
@@ -900,7 +905,9 @@ genericity
 genrative programming
 生产式编程
 GGUF
+GPT-Generated Unified Format
 GIF
+Graphics Interchange Format
 Git
 Gitea
 Github
@@ -914,14 +921,17 @@ global object
 glue program
 胶水程序
 GNOME
+GNU Network Object Model Environment
 GNU
+GNU's Not Unix!
 Golang
 Go 语言
 goto
 跳转
 GPT
+Generative Pre-trained Transformer
 GPU
-图形处理器
+Graphics Processing Unit
 Grafana
 grant
 授权
@@ -936,9 +946,9 @@ group
 group box
 分组框
 GUI
-图形界面
+Graphical User Interface
 GUID
-全球唯一标识符
+Globally Unique Identifier
 hack
 破解
 hacker
@@ -992,8 +1002,9 @@ hook
 hot key
 热键
 HTML
+HyperText Markup Language
 HTTP
-超文本传输协议
+HyperText Transfer Protocol
 HuggingFace
 hyperlink
 超链接
@@ -1012,7 +1023,7 @@ identifier
 identity
 同一性
 IDL
-接口定义语言
+Interface Definition Language
 ill type
 类型不正确
 illusion
@@ -1111,14 +1122,14 @@ invariants
 invoke
 调用
 IPC
-进程间通信
+Inter-Process Communication
 isolation
 隔离性
 issue
 问题
 istio
 IT
-信息技术
+Information Technology
 item
 项目
 iterate
@@ -1130,7 +1141,7 @@ iterative
 iterator
 迭代器
 ITSM
-IT 服务管理
+Information Technology Service Management
 jagged
 锯齿状的
 Java
@@ -1205,9 +1216,9 @@ LLaMA
 Llama 2
 Llama 3
 LLM
-大语言模型
+Large Language Model
 LMM
-多模态大模型
+Large Multimodal Model
 load
 装载
 load balancing
@@ -1286,7 +1297,7 @@ matrix
 矩阵
 maven
 MCP
-模型上下文协议
+Model Context Protocol
 MediaWiki
 member
 成员
@@ -1363,6 +1374,7 @@ Moore's law
 mouse
 鼠标
 MSYS2
+Minimal SYStem 2
 Multi-agent
 多智能体
 Multi-modal
@@ -1412,7 +1424,7 @@ Nginx
 nil
 空
 NLP
-自然语言处理
+Natural Language Processing
 non-strict
 非严格
 nondestructive version
@@ -1420,14 +1432,14 @@ nondestructive version
 none
 无
 NPU
-神经网络处理单元
+Neural Processing Unit
 null
 空
 number crunching
 数字密集运算
 Nuxt
 NVIDIA
-英伟达
+NVIDIA Corporation
 oAuth
 开放授权协议
 object
@@ -1449,7 +1461,7 @@ Observability
 Occam's razor
 奥卡姆剃刀原则
 OIDC
-OpenID 连接协议
+OpenID Connect
 Ollama
 one-to-many relationship
 一对多关系
@@ -1458,7 +1470,7 @@ one-to-one relationship
 online
 在线
 ONNX
-开放神经网络交换格式
+Open Neural Network Exchange
 open source
 开放源码
 OpenAI
@@ -1485,7 +1497,7 @@ origin
 orthogonality
 正交性
 OS
-操作系统
+Operating System
 outer join
 外联接
 overflow
@@ -1580,6 +1592,7 @@ planning
 platform
 平台
 PNG
+Portable Network Graphics
 pnpm
 Pod
 pointer
@@ -1612,7 +1625,7 @@ postfix
 后缀
 PostgreSQL
 PRD
-产品需求文档
+Product Requirements Document
 Pre-training
 预训练
 precedence
@@ -1701,7 +1714,7 @@ Putty
 Python
 PyTorch
 QA
-质量保证
+Quality Assurance
 Qdrant
 QLoRA
 Qt
@@ -1730,7 +1743,7 @@ radian
 radio button
 单选按钮
 RAG
-检索增强生成
+Retrieval-Augmented Generation
 RAID
 冗余独立磁盘阵列
 raise
@@ -1754,6 +1767,7 @@ raw
 re-direction
 重定向
 REACT
+Reason and Act
 read
 读取
 read-macro
@@ -1822,7 +1836,7 @@ right outer join
 RISC
 精简指令系统计算机
 RLHF
-人类反馈强化学习
+Reinforcement Learning from Human Feedback
 robust
 健壮
 robustness
@@ -1960,7 +1974,7 @@ Solidity
 solution
 方案
 SOP
-标准作业程序
+Standard Operating Procedure
 Sora
 Sorting
 排序
@@ -1995,7 +2009,7 @@ squash
 SSL
 安全套接字层
 SSO
-单点登录
+Single Sign-On
 Stable Diffusion
 stack
 栈
@@ -2054,7 +2068,7 @@ suspend
 挂起
 Svelte
 SWAP
-交换区
+Swap Space
 symbol
 记号
 symbolic computation
@@ -2115,9 +2129,9 @@ top-level
 topology
 拓扑结构
 TPL
-任务并行库
+Task Parallel Library
 TPU
-张量处理单元
+Tensor Processing Unit
 trace
 追踪
 Traefik
@@ -2205,7 +2219,7 @@ Unsloth
 uptime
 运行时间
 URI
-统一资源标识符
+Uniform Resource Identifier
 URL
 统一资源定位符
 user
@@ -2249,8 +2263,9 @@ virtual memory
 虚拟内存
 Vite
 VLLM
+virtual Large Language Model
 VLM
-视觉语言模型
+Vision Language Model
 volatile
 挥发
 vowel

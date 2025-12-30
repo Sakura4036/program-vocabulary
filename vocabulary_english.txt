@@ -326,6 +326,7 @@ destructuring
 device
 device driver
 DevOps
+DFS
 dialog
 Diffusion
 digest
