@@ -12,9 +12,6 @@
     "abstract class": [
       "抽象类"
     ],
-    "AST": [
-      "抽象语法树"
-    ],
     "abstraction": [
       "抽象"
     ],
@@ -82,13 +79,16 @@
       "敏捷开发"
     ],
     "AI": [
-      "人工智能"
+      "人工智能",
+      "Artificial Intelligence"
     ],
     "AIGC": [
-      "生成式 AI"
+      "生成式 AI",
+      "Artificial Intelligence Generated Content"
     ],
     "AJAX": [
-      "AJAX"
+      "AJAX",
+      "Asynchronous JavaScript and XML"
     ],
     "algorithm": [
       "算法"
@@ -151,7 +151,8 @@
       "Apache"
     ],
     "API": [
-      "应用程序接口"
+      "应用程序接口",
+      "Application Program Interface"
     ],
     "app": [
       "应用"
@@ -170,9 +171,6 @@
     "application framework": [
       "应用框架",
       "应用程序框架"
-    ],
-    "ASP": [
-      "应用程序服务提供商"
     ],
     "Approximate String Matching": [
       "模糊匹配"
@@ -203,7 +201,12 @@
       "人工智能"
     ],
     "ASCII": [
-      "ASCII码"
+      "ASCII码",
+      "American Standard Code for Information Interchange"
+    ],
+    "ASP": [
+      "应用程序服务提供商",
+      "Application Service Provider"
     ],
     "assemble": [
       "组合"
@@ -228,6 +231,10 @@
     ],
     "association list": [
       "关联列表"
+    ],
+    "AST": [
+      "抽象语法树",
+      "Abstract Syntax Tree"
     ],
     "asynchronous": [
       "异步的"
@@ -322,7 +329,8 @@
       "基准测试"
     ],
     "BERT": [
-      "BERT"
+      "BERT",
+      "Bidirectional Encoder Representations from Transformers"
     ],
     "best viable function": [
       "最佳可行函式"
@@ -332,6 +340,10 @@
     ],
     "Bezier curve": [
       "贝塞尔曲线"
+    ],
+    "BFS": [
+      "Breadth-First Search",
+      "广度优先搜索"
     ],
     "Bias": [
       "偏差",
@@ -411,16 +423,8 @@
     "brace": [
       "花括弧"
     ],
-    "curly brace": [
-      "大括号",
-      "花括号"
-    ],
     "bracket": [
       "方括弧"
-    ],
-    "square brakcet": [
-      "中括号",
-      "方括号"
     ],
     "branch": [
       "分支"
@@ -473,6 +477,14 @@
     ],
     "bytecode": [
       "字节码"
+    ],
+    "curly brace": [
+      "大括号",
+      "花括号"
+    ],
+    "square brakcet": [
+      "中括号",
+      "方括号"
     ]
   },
   "c": {
@@ -511,10 +523,12 @@
       "目录"
     ],
     "CCL": [
-      "通用控制语言"
+      "通用控制语言",
+      "Common Control Language"
     ],
     "CD": [
-      "持续部署"
+      "持续部署",
+      "Continuous Deployment"
     ],
     "CentOS": [
       "CentOS"
@@ -556,7 +570,8 @@
       "块"
     ],
     "CI": [
-      "持续集成"
+      "持续集成",
+      "Continuous Integration"
     ],
     "circular": [
       "循环"
@@ -601,8 +616,9 @@
       "清理",
       "清除"
     ],
-    "Common Language Infrastructure": [
-      "通用语言基础设施"
+    "CLI": [
+      "命令行界面",
+      "Command Line Interface"
     ],
     "client": [
       "客户",
@@ -629,13 +645,15 @@
       "云原生"
     ],
     "CLS": [
-      "通用语言规范"
+      "通用语言规范",
+      "Common Language Specification"
     ],
     "clutter": [
       "杂乱"
     ],
     "CMDB": [
-      "配置管理数据库"
+      "配置管理数据库",
+      "Configuration Management Database"
     ],
     "code": [
       "代码"
@@ -660,7 +678,8 @@
       "行主序"
     ],
     "COM": [
-      "组件对象模型"
+      "组件对象模型",
+      "Component Object Model"
     ],
     "combo box": [
       "组合框"
@@ -671,9 +690,6 @@
     "command line": [
       "命令行"
     ],
-    "CLI": [
-      "命令行界面"
-    ],
     "comment": [
       "注释"
     ],
@@ -682,6 +698,9 @@
     ],
     "Common Gateway Interface(CGI)": [
       "通用网关接口"
+    ],
+    "Common Language Infrastructure": [
+      "通用语言基础设施"
     ],
     "communication": [
       "通讯"
@@ -878,10 +897,12 @@
       "固化"
     ],
     "CSS": [
-      "层叠样式表"
+      "层叠样式表",
+      "Cascading Style Sheets"
     ],
     "CUDA": [
-      "CUDA"
+      "CUDA",
+      "Compute Unified Device Architecture"
     ],
     "cursor": [
       "光标",
@@ -892,6 +913,9 @@
     ]
   },
   "d": {
+    "BFS": [
+      "深度优先搜索"
+    ],
     "DALL-E": [
       "DALL-E"
     ],
@@ -940,10 +964,12 @@
       "数据库即服务"
     ],
     "DCL": [
-      "数据控制语言"
+      "数据控制语言",
+      "Data Control Language"
     ],
     "DDL": [
-      "数据定义语言"
+      "数据定义语言",
+      "Data Definition Language"
     ],
     "dead lock": [
       "死锁"
@@ -1012,9 +1038,6 @@
     "depth-first": [
       "深度优先"
     ],
-    "BFS": [
-      "深度优先搜索"
-    ],
     "deque": [
       "双端队列"
     ],
@@ -1032,6 +1055,10 @@
     ],
     "DevOps": [
       "开发运维一体化"
+    ],
+    "DFS": [
+      "Depth-First Search",
+      "深度优先搜索"
     ],
     "dialog": [
       "对话框"
@@ -1082,7 +1109,8 @@
       "Django"
     ],
     "DML": [
-      "数据操作语言"
+      "数据操作语言",
+      "Data Manipulation Language"
     ],
     "doc": [
       "文档"
@@ -1094,10 +1122,12 @@
       "文档"
     ],
     "DPO": [
-      "直接偏好优化"
+      "直接偏好优化",
+      "Direct Preference Optimization"
     ],
     "DQL": [
-      "数据查询语言"
+      "数据查询语言",
+      "Data Query Language"
     ],
     "driver": [
       "驱动(程序)"
@@ -1174,7 +1204,8 @@
       "环境"
     ],
     "EOP": [
-      "设备操作程序"
+      "设备操作程序",
+      "End Of Program"
     ],
     "equal": [
       "相等"
@@ -1286,7 +1317,8 @@
       "字段"
     ],
     "FIFO": [
-      "先进先出"
+      "先进先出",
+      "First-In, First-Out"
     ],
     "file handle": [
       "文件句柄"
@@ -1295,7 +1327,8 @@
       "填充指针"
     ],
     "FILO": [
-      "先进后出"
+      "先进后出",
+      "First-In, Last-Out"
     ],
     "filter": [
       "筛选"
@@ -1422,7 +1455,8 @@
       "垃圾回收器"
     ],
     "GC": [
-      "垃圾回收(机制)"
+      "垃圾回收(机制)",
+      "Garbage Collection"
     ],
     "GeForce": [
       "GeForce"
@@ -1460,10 +1494,12 @@
       "生产式编程"
     ],
     "GGUF": [
-      "GGUF"
+      "GGUF",
+      "GPT-Generated Unified Format"
     ],
     "GIF": [
-      "GIF"
+      "GIF",
+      "Graphics Interchange Format"
     ],
     "Git": [
       "Git"
@@ -1490,10 +1526,12 @@
       "胶水程序"
     ],
     "GNOME": [
-      "GNOME"
+      "GNOME",
+      "GNU Network Object Model Environment"
     ],
     "GNU": [
-      "GNU"
+      "GNU",
+      "GNU's Not Unix!"
     ],
     "Golang": [
       "Go 语言"
@@ -1502,10 +1540,12 @@
       "跳转"
     ],
     "GPT": [
-      "GPT"
+      "GPT",
+      "Generative Pre-trained Transformer"
     ],
     "GPU": [
-      "图形处理器"
+      "图形处理器",
+      "Graphics Processing Unit"
     ],
     "Grafana": [
       "Grafana"
@@ -1537,10 +1577,12 @@
     ],
     "GUI": [
       "图形用户界面",
-      "图形界面"
+      "图形界面",
+      "Graphical User Interface"
     ],
     "GUID": [
-      "全球唯一标识符"
+      "全球唯一标识符",
+      "Globally Unique Identifier"
     ]
   },
   "h": {
@@ -1633,16 +1675,12 @@
       "热键"
     ],
     "HTML": [
-      "HTML"
-    ],
-    "HyperText Markup Language)": [
-      "超文本标记语言"
+      "HTML",
+      "HyperText Markup Language"
     ],
     "HTTP": [
-      "超文本传输协议"
-    ],
-    "HyperText Transfer Protocol": [
-      "超文本传输协议"
+      "超文本传输协议",
+      "HyperText Transfer Protocol"
     ],
     "HuggingFace": [
       "HuggingFace"
@@ -1652,6 +1690,12 @@
     ],
     "Hyperparameter": [
       "超参数"
+    ],
+    "HyperText Markup Language)": [
+      "超文本标记语言"
+    ],
+    "HyperText Transfer Protocol": [
+      "超文本传输协议"
     ]
   },
   "i": {
@@ -1668,7 +1712,8 @@
       "同一性"
     ],
     "IDL": [
-      "接口定义语言"
+      "接口定义语言",
+      "Interface Definition Language"
     ],
     "ill type": [
       "类型不正确"
@@ -1728,9 +1773,6 @@
     "information": [
       "信息"
     ],
-    "IT": [
-      "信息技术"
-    ],
     "Ingress": [
       "Ingress"
     ],
@@ -1788,9 +1830,6 @@
     "Intel": [
       "英特尔"
     ],
-    "IPC": [
-      "进程间通信"
-    ],
     "interactive programming environment": [
       "交互式编程环境"
     ],
@@ -1831,6 +1870,10 @@
     "invoke": [
       "调用"
     ],
+    "IPC": [
+      "进程间通信",
+      "Inter-Process Communication"
+    ],
     "isolation": [
       "隔离性"
     ],
@@ -1839,6 +1882,10 @@
     ],
     "istio": [
       "istio"
+    ],
+    "IT": [
+      "信息技术",
+      "Information Technology"
     ],
     "item": [
       "条款",
@@ -1859,7 +1906,8 @@
       "迭代器"
     ],
     "ITSM": [
-      "IT 服务管理"
+      "IT 服务管理",
+      "Information Technology Service Management"
     ]
   },
   "j": {
@@ -2015,10 +2063,12 @@
       "Llama 3"
     ],
     "LLM": [
-      "大语言模型"
+      "大语言模型",
+      "Large Language Model"
     ],
     "LMM": [
-      "多模态大模型"
+      "多模态大模型",
+      "Large Multimodal Model"
     ],
     "load": [
       "加载",
@@ -2153,7 +2203,8 @@
       "Maven"
     ],
     "MCP": [
-      "模型上下文协议"
+      "模型上下文协议",
+      "Model Context Protocol"
     ],
     "MediaWiki": [
       "MediaWiki"
@@ -2274,7 +2325,8 @@
       "鼠标"
     ],
     "MSYS2": [
-      "MSYS2"
+      "MSYS2",
+      "Minimal SYStem 2"
     ],
     "Multi-agent": [
       "多智能体"
@@ -2331,9 +2383,6 @@
     "natural language processing": [
       "自然语言处理"
     ],
-    "NLP": [
-      "自然语言处理"
-    ],
     "Neo4j": [
       "Neo4j"
     ],
@@ -2365,6 +2414,10 @@
       "nil",
       "空"
     ],
+    "NLP": [
+      "自然语言处理",
+      "Natural Language Processing"
+    ],
     "non-strict": [
       "非严格"
     ],
@@ -2376,7 +2429,8 @@
       "无"
     ],
     "NPU": [
-      "神经网络处理单元"
+      "神经网络处理单元",
+      "Neural Processing Unit"
     ],
     "null": [
       "null",
@@ -2389,7 +2443,8 @@
       "Nuxt"
     ],
     "NVIDIA": [
-      "英伟达"
+      "英伟达",
+      "NVIDIA Corporation"
     ]
   },
   "o": {
@@ -2424,7 +2479,8 @@
       "奥卡姆剃刀原则"
     ],
     "OIDC": [
-      "OpenID 连接协议"
+      "OpenID 连接协议",
+      "OpenID Connect"
     ],
     "Ollama": [
       "Ollama"
@@ -2439,7 +2495,8 @@
       "在线"
     ],
     "ONNX": [
-      "开放神经网络交换格式"
+      "开放神经网络交换格式",
+      "Open Neural Network Exchange"
     ],
     "open source": [
       "开放源码"
@@ -2486,7 +2543,8 @@
       "正交性"
     ],
     "OS": [
-      "操作系统"
+      "操作系统",
+      "Operating System"
     ],
     "outer join": [
       "外联接"
@@ -2646,7 +2704,8 @@
       "平台"
     ],
     "PNG": [
-      "PNG"
+      "PNG",
+      "Portable Network Graphics"
     ],
     "pnpm": [
       "pnpm"
@@ -2701,7 +2760,8 @@
       "PostgreSQL"
     ],
     "PRD": [
-      "产品需求文档"
+      "产品需求文档",
+      "Product Requirements Document"
     ],
     "Pre-training": [
       "预训练"
@@ -2844,6 +2904,10 @@
     ]
   },
   "q": {
+    "QA": [
+      "质量保证",
+      "Quality Assurance"
+    ],
     "Qdrant": [
       "Qdrant"
     ],
@@ -2862,12 +2926,6 @@
     ],
     "quality": [
       "质量"
-    ],
-    "QA": [
-      "质量保证"
-    ],
-    "QA": [
-      "质量保证"
     ],
     "Quantization": [
       "量化"
@@ -2899,7 +2957,12 @@
       "单选按钮"
     ],
     "RAG": [
-      "检索增强生成"
+      "检索增强生成",
+      "Retrieval-Augmented Generation"
+    ],
+    "RAID": [
+      "Redundant Array of Independent Disks",
+      "冗余独立磁盘阵列"
     ],
     "raise": [
       "引起"
@@ -2934,7 +2997,8 @@
       "重定向"
     ],
     "REACT": [
-      "React"
+      "React",
+      "Reason and Act"
     ],
     "read": [
       "读取"
@@ -2964,14 +3028,6 @@
     ],
     "Redis": [
       "Redis"
-    ],
-    "RISC": [
-      "Reduced Instruction Set Computer",
-      "精简指令系统计算机"
-    ],
-    "RAID": [
-      "Redundant Array of Independent Disks",
-      "冗余独立磁盘阵列"
     ],
     "refactor": [
       "重构"
@@ -3014,10 +3070,6 @@
     "remote": [
       "远程"
     ],
-    "RPC": [
-      "Remote Procedure Call",
-      "远程过程调用"
-    ],
     "request": [
       "请求"
     ],
@@ -3056,8 +3108,13 @@
     "right outer join": [
       "右向外联接"
     ],
+    "RISC": [
+      "Reduced Instruction Set Computer",
+      "精简指令系统计算机"
+    ],
     "RLHF": [
-      "人类反馈强化学习"
+      "人类反馈强化学习",
+      "Reinforcement Learning from Human Feedback"
     ],
     "robust": [
       "健壮"
@@ -3089,6 +3146,10 @@
     ],
     "rowset": [
       "行集"
+    ],
+    "RPC": [
+      "Remote Procedure Call",
+      "远程过程调用"
     ],
     "RunPod": [
       "RunPod"
@@ -3163,10 +3224,6 @@
     ],
     "Searching": [
       "查找"
-    ],
-    "SSL": [
-      "Secure Sockets Layer",
-      "安全套接字层"
     ],
     "segment of instructions": [
       "指令片段"
@@ -3287,7 +3344,8 @@
       "方案"
     ],
     "SOP": [
-      "标准作业程序"
+      "标准作业程序",
+      "Standard Operating Procedure"
     ],
     "Sora": [
       "Sora"
@@ -3338,8 +3396,13 @@
     "squash": [
       "碰撞"
     ],
+    "SSL": [
+      "Secure Sockets Layer",
+      "安全套接字层"
+    ],
     "SSO": [
-      "单点登录"
+      "单点登录",
+      "Single Sign-On"
     ],
     "Stable Diffusion": [
       "Stable Diffusion"
@@ -3439,7 +3502,8 @@
       "Svelte"
     ],
     "SWAP": [
-      "交换区"
+      "交换区",
+      "Swap Space"
     ],
     "symbol": [
       "符号",
@@ -3549,10 +3613,12 @@
       "拓扑结构"
     ],
     "TPL": [
-      "任务并行库"
+      "任务并行库",
+      "Task Parallel Library"
     ],
     "TPU": [
-      "张量处理单元"
+      "张量处理单元",
+      "Tensor Processing Unit"
     ],
     "trace": [
       "跟踪",
@@ -3649,6 +3715,10 @@
     "Ubuntu": [
       "Ubuntu"
     ],
+    "UI": [
+      "User Interface",
+      "用户界面"
+    ],
     "unary": [
       "一元的"
     ],
@@ -3703,7 +3773,8 @@
     ],
     "URI": [
       "Uniform Resource identifier",
-      "统一资源标识符"
+      "统一资源标识符",
+      "Uniform Resource Identifier"
     ],
     "URL": [
       "Uniform Resource Locator",
@@ -3711,10 +3782,6 @@
     ],
     "user": [
       "用户"
-    ],
-    "UI": [
-      "User Interface",
-      "用户界面"
     ],
     "utilities": [
       "实用函数"
@@ -3781,10 +3848,12 @@
       "Vite"
     ],
     "VLLM": [
-      "vLLM"
+      "vLLM",
+      "virtual Large Language Model"
     ],
     "VLM": [
-      "视觉语言模型"
+      "视觉语言模型",
+      "Vision Language Model"
     ],
     "volatile": [
       "挥发"

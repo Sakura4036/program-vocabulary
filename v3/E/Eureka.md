@@ -1,3 +1,0 @@
-Eureka
-:    [/juˈriːkə/]{.ipa}
-:    eureka

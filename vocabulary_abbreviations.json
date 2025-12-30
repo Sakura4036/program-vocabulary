@@ -1,0 +1,366 @@
+{
+  "a": {
+    "AST": [
+      "Abstract Syntax Tree",
+      "抽象语法树"
+    ],
+    "AI": [
+      "Artificial Intelligence",
+      "人工智能"
+    ],
+    "AIGC": [
+      "Artificial Intelligence Generated Content",
+      "生成式 AI"
+    ],
+    "AJAX": [
+      "Asynchronous JavaScript and XML",
+      "AJAX"
+    ],
+    "API": [
+      "Application Program Interface",
+      "应用程序接口"
+    ],
+    "ASP": [
+      "Application Service Provider",
+      "应用程序服务提供商"
+    ],
+    "ASCII": [
+      "American Standard Code for Information Interchange",
+      "ASCII码"
+    ]
+  },
+  "b": {
+    "BERT": [
+      "Bidirectional Encoder Representations from Transformers",
+      "BERT"
+    ],
+    "BFS": [
+      "Breadth-First Search",
+      "广度优先搜索"
+    ]
+  },
+  "c": {
+    "CCL": [
+      "Common Control Language",
+      "通用控制语言"
+    ],
+    "CD": [
+      "Continuous Deployment",
+      "持续部署"
+    ],
+    "CI": [
+      "Continuous Integration",
+      "持续集成"
+    ],
+    "CLS": [
+      "Common Language Specification",
+      "通用语言规范"
+    ],
+    "CMDB": [
+      "Configuration Management Database",
+      "配置管理数据库"
+    ],
+    "COM": [
+      "Component Object Model",
+      "组件对象模型"
+    ],
+    "CLI": [
+      "Command Line Interface",
+      "命令行界面"
+    ],
+    "CSS": [
+      "Cascading Style Sheets",
+      "层叠样式表"
+    ],
+    "CUDA": [
+      "Compute Unified Device Architecture",
+      "CUDA"
+    ]
+  },
+  "d": {
+    "DALL-E": [
+      "DALL-E",
+      "DALL-E"
+    ],
+    "DCL": [
+      "Data Control Language",
+      "数据控制语言"
+    ],
+    "DDL": [
+      "Data Definition Language",
+      "数据定义语言"
+    ],
+    "DFS": [
+      "Depth-First Search",
+      "深度优先搜索"
+    ],
+    "DML": [
+      "Data Manipulation Language",
+      "数据操作语言"
+    ],
+    "DPO": [
+      "Direct Preference Optimization",
+      "直接偏好优化"
+    ],
+    "DQL": [
+      "Data Query Language",
+      "数据查询语言"
+    ]
+  },
+  "e": {
+    "EOP": [
+      "End Of Program",
+      "设备操作程序"
+    ]
+  },
+  "f": {
+    "FIFO": [
+      "First-In, First-Out",
+      "先进先出"
+    ],
+    "FILO": [
+      "First-In, Last-Out",
+      "先进后出"
+    ]
+  },
+  "g": {
+    "GC": [
+      "Garbage Collection",
+      "垃圾回收(机制)"
+    ],
+    "GGUF": [
+      "GPT-Generated Unified Format",
+      "GGUF"
+    ],
+    "GIF": [
+      "Graphics Interchange Format",
+      "GIF"
+    ],
+    "GNOME": [
+      "GNU Network Object Model Environment",
+      "GNOME"
+    ],
+    "GNU": [
+      "GNU's Not Unix!",
+      "GNU"
+    ],
+    "GPT": [
+      "Generative Pre-trained Transformer",
+      "GPT"
+    ],
+    "GPU": [
+      "Graphics Processing Unit",
+      "图形处理器"
+    ],
+    "GUI": [
+      "Graphical User Interface",
+      "图形用户界面"
+    ],
+    "GUID": [
+      "Globally Unique Identifier",
+      "全球唯一标识符"
+    ]
+  },
+  "h": {
+    "HTML": [
+      "HyperText Markup Language",
+      "HTML"
+    ],
+    "HTTP": [
+      "HyperText Transfer Protocol",
+      "超文本传输协议"
+    ]
+  },
+  "i": {
+    "IDL": [
+      "Interface Definition Language",
+      "接口定义语言"
+    ],
+    "IT": [
+      "Information Technology",
+      "信息技术"
+    ],
+    "IPC": [
+      "Inter-Process Communication",
+      "进程间通信"
+    ],
+    "ITSM": [
+      "Information Technology Service Management",
+      "IT 服务管理"
+    ]
+  },
+  "j": {
+    "JAX": [
+      "JAX",
+      "JAX"
+    ]
+  },
+  "l": {
+    "LLM": [
+      "Large Language Model",
+      "大语言模型"
+    ],
+    "LMM": [
+      "Large Multimodal Model",
+      "多模态大模型"
+    ]
+  },
+  "m": {
+    "MCP": [
+      "Model Context Protocol",
+      "模型上下文协议"
+    ],
+    "MSYS2": [
+      "Minimal SYStem 2",
+      "MSYS2"
+    ]
+  },
+  "n": {
+    "NLP": [
+      "Natural Language Processing",
+      "自然语言处理"
+    ],
+    "NPU": [
+      "Neural Processing Unit",
+      "神经网络处理单元"
+    ],
+    "NVIDIA": [
+      "NVIDIA Corporation",
+      "英伟达"
+    ]
+  },
+  "o": {
+    "OIDC": [
+      "OpenID Connect",
+      "OpenID 连接协议"
+    ],
+    "ONNX": [
+      "Open Neural Network Exchange",
+      "开放神经网络交换格式"
+    ],
+    "OS": [
+      "Operating System",
+      "操作系统"
+    ]
+  },
+  "p": {
+    "PNG": [
+      "Portable Network Graphics",
+      "PNG"
+    ],
+    "PRD": [
+      "Product Requirements Document",
+      "产品需求文档"
+    ]
+  },
+  "q": {
+    "QA": [
+      "Quality Assurance",
+      "质量保证"
+    ]
+  },
+  "r": {
+    "RAG": [
+      "Retrieval-Augmented Generation",
+      "检索增强生成"
+    ],
+    "REACT": [
+      "Reason and Act",
+      "React"
+    ],
+    "RISC": [
+      "Reduced Instruction Set Computer",
+      "精简指令系统计算机"
+    ],
+    "RAID": [
+      "Redundant Array of Independent Disks",
+      "冗余独立磁盘阵列"
+    ],
+    "RPC": [
+      "Remote Procedure Call",
+      "远程过程调用"
+    ],
+    "RLHF": [
+      "Reinforcement Learning from Human Feedback",
+      "人类反馈强化学习"
+    ]
+  },
+  "s": {
+    "SSL": [
+      "Secure Sockets Layer",
+      "安全套接字层"
+    ],
+    "SMTP": [
+      "Simple Mail Transfer Protocol",
+      "简单邮件传输协议"
+    ],
+    "SOAP": [
+      "Simple Object Access Protocol",
+      "简单对象访问协议"
+    ],
+    "SOP": [
+      "Standard Operating Procedure",
+      "标准作业程序"
+    ],
+    "SQL": [
+      "Structured Query Language",
+      "结构化查询语言"
+    ],
+    "SSO": [
+      "Single Sign-On",
+      "单点登录"
+    ],
+    "SWAP": [
+      "Swap Space",
+      "交换区"
+    ]
+  },
+  "t": {
+    "TCP": [
+      "Transport Control Protocol",
+      "传输控制协议"
+    ],
+    "TPL": [
+      "Task Parallel Library",
+      "任务并行库"
+    ],
+    "TPU": [
+      "Tensor Processing Unit",
+      "张量处理单元"
+    ]
+  },
+  "u": {
+    "URI": [
+      "Uniform Resource Identifier",
+      "统一资源标识符"
+    ],
+    "URL": [
+      "Uniform Resource Locator",
+      "统一资源定位符"
+    ],
+    "UI": [
+      "User Interface",
+      "用户界面"
+    ]
+  },
+  "v": {
+    "VLLM": [
+      "virtual Large Language Model",
+      "vLLM"
+    ],
+    "VLM": [
+      "Vision Language Model",
+      "视觉语言模型"
+    ]
+  },
+  "x": {
+    "XML": [
+      "eXtensible Markup Language",
+      "可扩展标记语言"
+    ],
+    "XSL": [
+      "eXtensible Stylesheet Language",
+      "可扩展样式表语言"
+    ]
+  }
+}
