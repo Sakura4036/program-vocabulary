@@ -1,0 +1,1223 @@
+abbreviation
+abnormal
+abstract
+abstract class
+abstraction
+access
+access function
+account
+accumulator
+accurate
+acquire
+action
+activate
+active
+actual parameter
+adapter
+add-in
+address
+address space
+admin
+Adobe
+advanced
+Agent
+aggregation
+agile
+AI
+AIGC
+AJAX
+algorithm
+alias
+align
+alignment
+allocate
+alpha
+Alpine
+alternative
+amazon
+AMD
+analogy
+anaphoric
+angle bracket
+Angular
+annotation
+anonymous function
+antecedent
+Anthropic
+Apache
+API
+app
+appearance
+append
+application
+application framework
+Approximate String Matching
+architecture
+archive
+argument
+arithmetic
+array
+arrow operator
+Artifacts
+artificial intelligence, AI
+ASCII
+ASP
+assemble
+assembly
+assert
+assign
+assignment
+associated
+association list
+AST
+asynchronous
+atom
+atomic
+atomicity
+Attention
+attribute
+augmented
+authentication service
+authorization
+Auto-GPT
+AutoGen
+automatically infer
+autometa theory
+auxiliary
+avatar
+Axure
+Azure
+background
+backquote
+backtrace
+backup
+backward compatible
+bandwidth
+base case
+base class
+base type
+batch
+Bayes' theorem
+Benchmark
+BERT
+best viable function
+beta
+Bezier curve
+BFS
+Bias
+bignum
+Bin Packing
+binary
+binary operator
+binary search
+binary search tree
+binary tree
+bind
+binding
+binding vector
+bit
+bit manipulation
+bitmap
+block
+Blockchain
+Blub paradox
+body
+boilerplate
+boolean
+border
+bottom-up
+bound
+box notation
+brace
+bracket
+branch
+breadth-first
+breadth-first search, BFS
+breakpoint
+brevity
+browser applications
+browser-accessible application
+budget
+buffer
+buffer overflow
+bug
+build
+built-in
+bus
+buttons
+byte
+bytecode
+CaaS
+cache
+calendar
+call
+callback
+CamelCase
+cascading delete
+cascading update
+case
+casting
+catalog
+CCL
+CD
+CentOS
+Ceph
+chain
+Chain of Thought
+character
+character format
+character set
+ChatGPT
+check box
+check button
+checkpoint
+checksum
+chunk
+CI
+circular
+class
+class declaration
+class definition
+class derivation list
+class factory
+class hierarchy
+class library
+class loader
+class template
+classification
+Claude
+clause
+cleanup
+CLI
+client
+client application
+client-server
+clipboard
+clone
+closure
+CloudNative
+CLS
+clutter
+CMDB
+code
+code access security
+code bloat
+collation
+collection
+column
+column-major order
+COM
+combo box
+comma
+command line
+comment
+commit
+Common Gateway Interface(CGI)
+Common Language Infrastructure
+communication
+compatible
+compilation
+compile
+compile inline
+compile time
+compiler
+complexity
+compliment
+component
+composability
+composite index
+composite key
+composition
+compound value
+compression
+computation
+Compute
+computer
+concatenation
+concept
+concrete
+concrete class
+concurrency
+concurrent
+conditional
+conditional variable
+configuration
+Connected Components
+connection
+connection pooling
+cons
+cons cell
+consequent
+consistency
+consistent
+console
+constant
+Constrained and Unconstrained Optimization
+constraint
+constraint programming
+construct
+constructor
+container
+content-based filtering
+context
+Context Window
+continuation
+continuous integration
+control
+Copilot
+copy
+corollary
+coroutine
+corruption
+CoT
+cover
+crash
+create
+crosstab query
+Cryptography
+crystallize
+CSS
+CUDA
+curly brace
+cursor
+cycle
+DALL-E
+dashboard
+data
+data integrity
+data member
+data structure
+data table
+data type
+data-bound
+data-driven
+database
+database schema
+datagram
+dataset
+DBaaS
+DCL
+DDL
+dead lock
+deallocate
+Debian
+debug
+debugger
+debugging
+declaration
+declarative
+declaring
+deconstruction
+deduction
+Deepfake
+default
+deficiency
+define
+definition
+delegate
+delegation
+dellocate
+deploy
+deprecated
+depth-first
+deque
+derived
+destructuring
+device
+device driver
+DevOps
+dialog
+Diffusion
+digest
+digital
+Dijkstra
+dimensions
+directive
+directory
+disassembler
+disk
+dispatch
+Distillation
+distributed computing
+distributed query
+Django
+DML
+doc
+Docker
+document
+DPO
+DQL
+driver
+dump
+duplicate
+durability
+dynamic binding
+dynamic extent
+e-business
+eBPF
+echo
+Edge Computing
+effect
+efficiency
+efficient
+Embeddings
+Embodied AI
+Emergence
+emulate
+encapsulation
+end user
+endpoint
+entity
+enum
+enumeration type
+environment
+EOP
+equal
+equality
+equation
+equivalence
+error log
+error message
+error-checking
+escape character
+escape code
+evaluate
+evaluation
+event
+evidence
+exception
+exception declaration
+exception handling
+exception specification
+exception-safe
+exit
+expendable
+explicit
+explicit transaction
+export
+expression
+extensibility
+extent
+factorial
+feasible
+feature
+Federated Learning
+Fedora
+fetch
+Few-shot
+field
+FIFO
+file handle
+fill pointer
+FILO
+filter
+finalization
+finalizer
+Fine-tuning
+fineo-grained
+firewall
+firmware
+fixed-point
+fixnum
+flag
+flash
+flash memory
+Flask
+flexibility
+floating-point
+floating-point notation
+flush
+Flutter
+Flux
+fold
+font
+force
+foreign key
+form
+formal parameter
+formal relation
+format
+forward
+forward declaration
+Foundation Model
+fractal
+framework
+function
+function object
+functional programming
+functionality
+game
+garbage
+garbage collection
+garbage collector
+GC
+GeForce
+Gemini
+generalized
+generate
+Generative AI
+generator
+generic
+generic algorithm
+generic function
+genericity
+genrative programming
+GGUF
+GIF
+Git
+Gitea
+Github
+Gitlab
+global
+global declaration
+global object
+glue program
+GNOME
+GNU
+Golang
+goto
+GPT
+GPU
+Grafana
+grant
+GraphQL
+GraphRAG
+grep
+Grok
+Groq
+group
+group box
+GUI
+GUID
+hack
+hacker
+Hadoop
+Hallucination
+handle
+handler
+Harbor
+hard disk
+hard-coded
+hard-copy
+hardware
+hash table
+hash tables
+Haskell
+header
+header file
+heap
+height
+Helm
+helper
+heuristic
+hidden
+hierarchical data
+hierarchy
+high-order
+higher-order procedure
+hook
+hot key
+HTML
+HTTP
+HuggingFace
+hyperlink
+Hyperparameter
+HyperText Markup Language)
+HyperText Transfer Protocol
+IaaS
+icon
+identifier
+identity
+IDL
+ill type
+illusion
+image
+imperative
+imperative programming
+implement
+implicit
+import
+In-context Learning
+incremental testing
+incremental update
+indent
+index
+infer
+Inference
+infinite loop
+infix
+InfluxDB
+information
+Ingress
+inheritance
+initialization
+initialize
+inline
+inner join
+inner loop
+InnoDB
+input
+instance
+instantiate
+Instruct
+instructive
+instrument
+integer
+integrate
+integrity
+Intel
+interactive programming environment
+interface
+internal
+internet
+interoperability
+interpolation
+interpret
+interpreter
+interrupt
+intersection
+introspection
+invariants
+invoke
+IPC
+isolation
+issue
+istio
+IT
+item
+iterate
+iteration
+iterative
+iterator
+ITSM
+jagged
+Java
+JavaScript
+JAX
+job control language, JCL
+Job Scheduling
+journalctl
+jpeg
+jpg
+Jquery
+judicious
+kernel
+key
+key column
+keywords
+Kindle
+Kinect
+kubectl
+Kubernetes
+lambda
+LangChain
+LangGraph
+LangServe
+LangSmith
+LaTeX
+layout
+lazy
+lazy evaluation
+left outer join
+lexical
+lexical analysis
+lexical closure
+lexical scope
+library
+lifetime
+linear
+linear iteration
+linear recursion
+link
+linkage
+linker
+list
+livelock
+LLaMA
+Llama 2
+Llama 3
+LLM
+LMM
+load
+load balancing
+loader
+local declarations
+local function
+local object
+local variable
+locale
+lock
+log
+login
+lookup table
+loop
+LoRA
+Lua
+Lucene
+lvalue
+machine instruction
+machine learning
+macro
+main
+mainframes
+maintain
+maintenance
+Mamba
+managed code
+manifest
+manifest typing
+manipulate
+manipulator
+manual
+many-to-many relationship
+many-to-one relationship
+mapping
+margin
+Markdown
+Marshal
+Matching
+math envy
+matrix
+maven
+MCP
+MediaWiki
+member
+memorizing
+memory
+memory allocation
+memory leak
+menu
+message
+message-passing
+meta-
+meta-programming
+metacircular
+metadata
+method
+micro
+Microservices
+Microsoft
+middle tier
+middleware
+Midjourney
+migration
+mirror
+miscellaneous
+mismatch type
+Mistral
+MLOps
+Modality
+model
+modeling
+modem
+modifier
+modularity
+module
+MoE
+monad
+monomorphic type language
+Monorepo
+Moore's law
+mouse
+MSYS2
+Multi-agent
+Multi-modal
+multi-task
+multi-tasking
+multi-thread
+multiple values
+multiuser
+mutable
+mutex
+MySQL
+named parameter
+named pipe
+namespace
+native
+native code
+natural language processing
+Neo4j
+nested
+nested query
+network
+network card
+Network Flow
+newline
+Next.js
+Nginx
+nil
+NLP
+non-strict
+nondestructive version
+none
+NPU
+null
+number crunching
+Nuxt
+NVIDIA
+oAuth
+object
+object based
+object code
+object model
+object oriented
+object-oriented
+object-oriented programming
+Observability
+Occam's razor
+OIDC
+Ollama
+one-to-many relationship
+one-to-one relationship
+online
+ONNX
+open source
+OpenAI
+OpenRouter
+OpenTelemetry
+operand
+operating system
+operation
+operator
+optimization
+option
+optional
+ordinary
+origin
+orthogonality
+OS
+outer join
+overflow
+overhead
+overload
+override
+PaaS
+package
+packaging
+pair
+palette
+palindrome
+Pandoc
+paradigm
+parallel
+parallel computer
+param
+parameter
+parameter list
+parameterize
+paren-matching
+parent class
+parentheses
+Parkinson's law
+parse
+parser
+part
+partial specialization
+particular ordering
+pass by adress
+pass by reference
+pass by value
+path
+pattern
+pattern match
+Paxos
+perform
+performance
+Perplexity
+persistence
+phantom
+phrenology
+physical
+Pinecone
+pipe
+pixel
+placeholder
+planning
+platform
+PNG
+pnpm
+Pod
+pointer
+pointer arithmetic
+poll
+polymorphic
+polymorphism
+polynomial
+pool
+pooling
+pop up
+port
+portable
+portal
+positional parameters
+postfix
+PostgreSQL
+PRD
+Pre-training
+precedence
+precedence list
+preceding
+predicate
+preemptive multitasking
+preference
+prefix
+premature design
+preprocessor
+prescribe
+primary table
+prime
+primitive
+primitive recursive
+primitive type
+principal type
+print
+printer
+priority
+privilege
+procedure
+process
+process priority
+productivity
+profile
+profiler
+program
+programmer
+programming
+programming language
+progress bar
+project
+Prompt
+Prompt Engineering
+property
+protocol
+prototype
+proxy
+pseudo code
+pseudo instruction
+pushdown stack
+Putty
+Python
+PyTorch
+QA
+Qdrant
+QLoRA
+Qt
+qualified
+qualifier
+quality
+Quantization
+query
+queue
+quota
+quote
+Qwen
+race condition
+radian
+radio button
+RAG
+RAID
+raise
+random number
+Random Number Generation
+range
+rank
+rapid prototyping
+Ratio
+rational database
+raw
+re-direction
+REACT
+read
+read-macro
+Realm
+Reasoning
+record
+recordset
+recursion
+recursive
+Redis
+refactor
+refactoring
+refer
+reference
+refine
+reflection
+register
+regression
+regular expression
+relational database
+relay
+Remix
+remote
+request
+resolve
+resolved
+resort
+result set
+resume
+retina
+retrieve
+return
+revoke
+right associative
+right outer join
+RISC
+RLHF
+robust
+robustness
+roll back
+roll forward
+root
+routine
+routing
+row
+row-major order
+rowset
+RPC
+RunPod
+runtime
+Rust
+rvalue
+SaaS
+Safari
+san
+save
+savepoint
+scaffold
+scalable
+Scaling Law
+scan
+schedule
+scheduler
+schema
+scheme
+scope
+screen
+search
+Searching
+segment of instructions
+segue
+semantics
+semaphore
+semicolon
+sequence
+sequential
+serial
+serializable
+serialization
+serialize
+series
+server
+Serverless
+session
+setter
+Shard
+sharp
+sharp-quote
+shell
+Sidecar
+signature
+simulate
+single-segment
+single-threaded
+sketch
+Skype
+slash
+slot
+smart pointer
+SMTP
+snake_case
+snapshot
+SOAP
+socket
+software
+Solidity
+solution
+SOP
+Sora
+Sorting
+source code
+spaghetti
+spaghetti stack
+spam
+Spark
+spec
+specification
+splitter
+sprite
+SQL
+square
+square brakcet
+square root
+squash
+SSL
+SSO
+Stable Diffusion
+stack
+stack frame
+standard library
+standard template library
+stat
+state machine
+stateless
+statement
+status
+store
+stream
+Streamlit
+strict
+string
+String Matching
+stub
+subquery
+subroutine
+subset
+substitution
+subtype
+sudo
+suite
+superclass
+superfluous
+supertype
+support
+suspend
+Svelte
+SWAP
+symbol
+symbolic computation
+syntax
+Synthetic Data
+system administrator
+system databases
+table
+table-level constraint
+tag
+Tailwind
+target
+Tauri
+taxonomy
+TCP
+telnet
+Temperature
+template
+TensorFlow
+Terraform
+testing
+text
+third-party
+thread
+thread-safe
+thrift
+throw
+timestamp
+Token
+Tokenization
+top-down
+top-level
+topology
+TPL
+TPU
+trace
+Traefik
+transaction
+transaction rollback
+Transformer
+transparent
+traverse
+tree
+trigger
+Triton
+tuple
+Turborepo
+Turing complete
+Turing machine
+typable
+type
+type constructor
+type declaration
+type hierarchy
+type inference
+type name
+type safe
+type signature
+type synonym
+type variable
+TypeScript
+typical
+typing
+typology
+Ubuntu
+UI
+unary
+unary function
+unary operator
+unboxing
+underflow
+Unicode
+unification
+union
+Union query
+unique index
+Unity Catalog
+Unmarshal
+unqualfied
+unqualified
+Unsloth
+uptime
+URI
+URL
+user
+utilities
+validate
+validator
+value constructor
+value types
+vaporware
+variable
+variadic input
+variant
+vector
+Vector Database
+vendor
+Vercel
+viable
+video
+view
+virtual function
+virtual machine
+virtual memory
+Vite
+VLLM
+VLM
+volatile
+vowel
+Vue
+Wasm
+Weaviate
+web server
+Web3
+WebGPU
+WebSocket
+weight
+Whisper
+width
+wildcard
+wildcard characters
+wildcard search
+window
+window function
+window procedure
+wizard
+word
+WordPress
+wrapper
+write-only
+xAI
+XML
+XSL
+XState
+YouTube
+Yum
+Zabbix
+zero-indexed
+Zero-shot
