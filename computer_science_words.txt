@@ -1,0 +1,118 @@
+Abstract Syntax Tree 
+AST
+抽象语法树
+Abstraction
+抽象
+Algorithm
+算法
+Array
+数组
+Asynchronous
+异步的
+Binary Search
+二分查找
+Binary Tree
+二叉树
+Bit Manipulation
+位操作
+Boolean
+布尔值
+Buffer Overflow
+缓冲区溢出
+Cache
+高速缓存
+Class
+类
+Closure
+闭包
+Compiler
+编译器
+Complexity
+复杂度
+Concurrency
+并发机制
+Constructor
+构造器
+Coroutine
+协程
+Data Structure
+数据结构
+Dead Lock
+死锁
+Debug
+调试
+Design Pattern
+设计模式
+Dynamic Binding
+动态绑定
+Encapsulation
+封装
+Exception
+异常
+Function
+函数
+Garbage Collection
+GC
+垃圾回收
+Hash Table
+哈希表
+Heap
+堆
+Inheritance
+继承机制
+Integer
+整数
+Interface
+接口
+Iterator
+迭代器
+Kernel
+核心
+Lambda
+匿名函数
+Linked List
+链表
+Memory Leak
+内存泄漏
+Multithreading
+多线程
+Mutex
+互斥锁
+Object Oriented
+面向对象
+Optimization
+优化
+Overflow
+溢出
+Parameter
+参数
+Pointer
+指针
+Polymorphism
+多态
+Process
+进程
+Queue
+队列
+Recursion
+递归
+Reference
+引用
+Regular Expression
+正则表达式
+Semaphore
+信号量
+Stack
+栈
+String
+字符串
+Syntax
+语法
+Thread
+线程
+Transaction
+事务
+Variable
+变量
+Virtual Machine
+虚拟机

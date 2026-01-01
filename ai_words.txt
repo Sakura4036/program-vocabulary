@@ -1,0 +1,137 @@
+Agent
+智能体
+AGI
+AI
+Artificial Intelligence
+AIGC
+Artificial Intelligence Generated Content
+Alignment
+对齐
+Anthropic
+Attention
+注意力机制
+Auto-GPT
+BERT
+Bidirectional Encoder Representations from Transformers
+Chain of Thought
+ChatGPT
+Claude
+Context
+上下文
+CoT
+思维链
+CUDA
+DALL-E
+Deepfake
+深度伪造
+Diffusion
+扩散模型
+Distillation
+知识蒸馏
+Embeddings
+嵌入
+Embodied AI
+具身智能
+Emergence
+涌现
+Federated Learning
+联邦学习
+Few-shot
+少样本学习
+Fine-tuning
+微调
+Foundation Model
+基础模型
+Gemini
+Generative AI
+生成式 AI
+GPT
+GPU
+Graphics Processing Unit
+GraphRAG
+图增强检索
+Grok
+Hallucination
+幻觉
+HuggingFace
+In-context Learning
+上下文学习
+Inference
+推理
+Instruct
+指令微调
+LangChain
+LangGraph
+LangServe
+LangSmith
+LLaMA
+LLM
+Large Language Model
+LMM
+Large Multimodal Model
+LoRA
+低秩自适应
+Machine Learning
+机器学习
+Mamba
+Midjourney
+Mistral
+MoE
+混合专家系统
+MCP
+Model Context Protocol
+模型上下文协议
+Multi-agent
+多智能体
+Multi-modal
+多模态
+Neural Processing Unit
+NPU
+NLP
+Natural Language Processing
+Ollama
+OpenAI
+OpenRouter
+Perplexity
+困惑度
+Pinecone
+Prompt
+提示词
+Prompt Engineering
+提示工程
+PyTorch
+Qdrant
+QLoRA
+Quantization
+量化
+RAG
+Retrieval-Augmented Generation
+Reasoning
+推理
+Reinforcement Learning from Human Feedback
+RLHF
+Scaling Law
+规模法则
+Sora
+Stable Diffusion
+Synthetic Data
+合成数据
+Temperature
+TensorFlow
+Token
+Tokenization
+Transformer
+Triton
+Vector Database
+向量数据库
+Vibe Coding
+氛围编程
+VLLM
+Virtual Large Language Model
+VLM
+Vision Language Model
+Weight
+权重
+Whisper
+Zero-shot
+零样本学习

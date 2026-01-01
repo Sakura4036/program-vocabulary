@@ -1,0 +1,56 @@
+AJAX
+Angular
+API
+Axure
+Bootstrap
+Browser
+浏览器
+Callback
+回调
+Chrome
+CSS
+Cascading Style Sheets
+DOM
+Document Object Model
+ESLint
+Flutter
+GUI
+Graphical User Interface
+HTML
+HyperText Markup Language
+HTTP
+HyperText Transfer Protocol
+JavaScript
+JSON
+Markdown
+Next.js
+Node.js
+npm
+Nuxt
+Pnpm
+React
+Remix
+RESTful
+Safari
+Streamlit
+Svelte
+Tailwind
+Tailwind CSS
+TypeScript
+UI
+用户界面
+URI
+Uniform Resource Identifier
+URL
+Vercel
+Vite
+Vue
+Wasm
+WebAssembly
+Web3
+WebGPU
+Webpack
+WebSocket
+Widget
+小部件
+Yarn
