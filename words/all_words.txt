@@ -1,0 +1,400 @@
+Abstract Syntax Tree
+Abstraction
+抽象
+Agent
+智能体
+AGI
+AI
+AIGC
+AJAX
+Algorithm
+算法
+Alignment
+对齐
+Alpine
+Angular
+Anthropic
+Apache
+API
+Array
+数组
+Artificial Intelligence
+Artificial Intelligence Generated Content
+AST
+抽象语法树
+Asynchronous
+异步的
+Attention
+注意力机制
+Auto-GPT
+Axure
+Azure
+BERT
+Bidirectional Encoder Representations from Transformers
+Binary Search
+二分查找
+Binary Tree
+二叉树
+Bit Manipulation
+位操作
+Boolean
+布尔值
+Bootstrap
+Browser
+浏览器
+Buffer Overflow
+缓冲区溢出
+CaaS
+容器即服务
+Cache
+高速缓存
+Callback
+回调
+Cascading Style Sheets
+CD
+CentOS
+Ceph
+Chain of Thought
+ChatGPT
+Chrome
+CI
+Class
+类
+Claude
+Closure
+闭包
+CloudNative
+云原生
+Compiler
+编译器
+Complexity
+复杂度
+Concurrency
+并发机制
+Constructor
+构造器
+Container
+容器
+Context
+上下文
+Continuous Deployment
+Continuous Integration
+Coroutine
+协程
+CoT
+思维链
+CSS
+CUDA
+DALL-E
+Data Structure
+数据结构
+DBaaS
+数据库即服务
+Dead Lock
+死锁
+Debian
+Debug
+调试
+Deepfake
+深度伪造
+Deploy
+部署
+Design Pattern
+设计模式
+DevOps
+开发运维一体化
+Diffusion
+扩散模型
+Distillation
+知识蒸馏
+Django
+Docker
+Document Object Model
+DOM
+Dynamic Binding
+动态绑定
+eBPF
+Embeddings
+嵌入
+Embodied AI
+具身智能
+Emergence
+涌现
+Encapsulation
+封装
+ESLint
+Exception
+异常
+Federated Learning
+联邦学习
+Fedora
+Few-shot
+少样本学习
+Fine-tuning
+微调
+Flask
+Flutter
+Foundation Model
+基础模型
+Function
+函数
+Garbage Collection
+GC
+垃圾回收
+Gemini
+Generative AI
+生成式 AI
+Git
+Gitea
+Github
+Gitlab
+Golang Go
+语言
+GPT
+GPU
+Grafana
+Graphical User Interface
+Graphics Processing Unit
+GraphQL
+GraphRAG
+图增强检索
+Grok
+GUI
+Hallucination
+幻觉
+Harbor
+Hash Table
+哈希表
+Heap
+堆
+Helm
+HTML
+HTTP
+HuggingFace
+HyperText Markup Language
+HyperText Transfer Protocol
+IaaS
+基础设施即服务
+In-context Learning
+上下文学习
+Inference
+推理
+InfluxDB
+Ingress
+Inheritance
+继承机制
+InnoDB
+Instruct
+指令微调
+Integer
+整数
+Interface
+接口
+Istio
+Iterator
+迭代器
+Java
+JavaScript
+JSON
+Kafka
+Kernel
+核心
+Kubernetes
+Lambda
+匿名函数
+LangChain
+LangGraph
+LangServe
+LangSmith
+Large Language Model
+Large Multimodal Model
+Linked List
+链表
+Linux
+LLaMA
+LLM
+LMM
+LoRA
+低秩自适应
+Machine Learning
+机器学习
+Mamba
+Markdown
+Maven
+MCP
+Memory Leak
+内存泄漏
+Microservices
+微服务
+Middleware
+中间件
+Midjourney
+Mistral
+Model Context Protocol
+模型上下文协议
+MoE
+混合专家系统
+MongoDB
+Multi-agent
+多智能体
+Multi-modal
+多模态
+Multithreading
+多线程
+Mutex
+互斥锁
+MySQL
+Natural Language Processing
+Neural Processing Unit
+Next.js
+Nginx
+NLP
+Node.js
+npm
+NPU
+Nuxt
+OAuth
+开放授权协议
+Object Oriented
+面向对象
+OIDC
+Ollama
+OpenAI
+OpenID Connect
+OpenRouter
+OpenTelemetry
+Optimization
+优化
+Overflow
+溢出
+PaaS
+平台即服务
+Parameter
+参数
+Perplexity
+困惑度
+Pinecone
+Pnpm
+Pod
+Pointer
+指针
+Polymorphism
+多态
+PostgreSQL
+Process
+进程
+Prometheus
+Prompt
+提示词
+Prompt Engineering
+提示工程
+Python
+PyTorch
+Qdrant
+QLoRA
+Quantization
+量化
+Queue
+队列
+RAG
+React
+Reasoning
+推理
+Recursion
+递归
+Redis
+Reference
+引用
+Regular Expression
+正则表达式
+Reinforcement Learning from Human Feedback
+Remix
+RESTful
+Retrieval-Augmented Generation
+RLHF
+RPC
+远程过程调用
+Rust Rust
+语言
+SaaS
+软件即服务
+Safari
+Scaling Law
+规模法则
+Semaphore
+信号量
+Serverless
+无服务器架构
+Sidecar
+边车
+Sora
+SQL
+结构化查询语言
+SSH
+SSL
+安全套接字层
+Stable Diffusion
+Stack
+栈
+Streamlit
+String
+字符串
+Svelte
+Syntax
+语法
+Synthetic Data
+合成数据
+Tailwind
+Tailwind CSS
+Temperature
+TensorFlow
+Terraform
+Thread
+线程
+Token
+Tokenization
+Traefik
+Transaction
+事务
+Transformer
+Triton
+TypeScript
+Ubuntu
+UI
+用户界面
+Uniform Resource Identifier
+URI
+URL
+Variable
+变量
+Vector Database
+向量数据库
+Vercel
+Vibe Coding
+氛围编程
+Virtual Large Language Model
+Virtual Machine
+虚拟机
+Vision Language Model
+Vite
+VLLM
+VLM
+Vue
+Wasm
+Web Server
+网络服务器
+Web3
+WebAssembly
+WebGPU
+Webpack
+WebSocket
+Weight
+权重
+Whisper
+Widget
+小部件
+Yarn
+Yum
+Zabbix
+Zero-shot
+零样本学习

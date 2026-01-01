@@ -1,12 +1,14 @@
-Alpine Alpine Linux
+Alpine
 Apache
 Azure
 CaaS
 容器即服务
 CentOS
 Ceph
-CI Continuous Integration
-CD Continuous Deployment
+CI
+Continuous Integration
+CD
+Continuous Deployment
 CloudNative
 云原生
 Container
@@ -53,7 +55,8 @@ MySQL
 Nginx
 OAuth
 开放授权协议
-OIDC OpenID Connect
+OIDC
+OpenID Connect
 OpenTelemetry
 PaaS
 平台即服务

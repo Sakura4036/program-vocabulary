@@ -4,73 +4,70 @@
 
 ## 项目简介
 
-本项目维护了一个高质量的计算机术语库，源码格式为 JSON，方便程序读取和处理。同时提供了 Python 脚本工具，可自动生成纯英文单词列表和中英文对照列表，便于用户进行背诵、检索或其他用途。
+本项目维护了一个高质量的、按领域分类的计算机术语库。项目结构分为两部分：
+1. **vocabulary/**: 包含原始全量数据（JSON 格式）和核心处理脚本。
+2. **words/**: 包含经过精简处理后的数据，按领域分类，可直接用于背诵或集成。
 
 ## 核心功能
 
-- **结构化数据**: 核心词汇存储在 `vocabulary.json` 中，按字母分类，结构清晰。
-- **自动生成**: 提供 `convert.py` 脚本，可一键生成易于阅读的文本文件。
-- **中英对照**: 生成的文件包含纯英文列表 (`vocabulary_english.txt`) 和中英对照列表 (`vocabulary_mixed.txt`)。
-- **自动排序**: 脚本生成时会自动按字母顺序（不区分大小写）对词汇进行排序。
+- **多维分类**: 涵盖 AI、云原生/后端、前端/Web、计算机基础四大领域。
+- **结构化数据**: 核心词汇存储在 `vocabulary.json` 中，支持多义词翻译。
+- **精简易用**: `words/` 目录下的文本文件经过清洗，剔除了通用简单词汇，保留专业核心术语。
+- **自动化工具**: 
+  - 支持一键生成纯英文和中英对照列表。
+  - 支持自动提取缩写词并合并到主库。
 
 ## 文件结构
 
 ```text
 .
-├── vocabulary.json         # [核心] 词汇数据源文件 (JSON 格式)
-├── convert.py              # [工具] 数据转换与生成脚本 (Python)
-├── vocabulary_english.txt  # [产物] 纯英文单词列表 (自动生成)
-├── vocabulary_mixed.txt    # [产物] 中英文对照列表 (自动生成)
-└── README.md               # 项目说明文档
+├── LICENSE                     # 项目许可证 (MIT)
+├── README.md                   # 项目说明文档
+├── vocabulary/                 # [核心] 原始词汇资源与处理工具
+│   ├── vocabulary.json         # 全量词汇原始数据 (JSON)
+│   ├── vocabulary_english.txt  # [产物] 全量纯英文单词列表
+│   ├── vocabulary_mixed.txt    # [产物] 全量中英文对照列表
+│   ├── convert.py              # [工具] 数据转换生成脚本
+│   ├── extract_abbreviations.py # [工具] 提取全大写缩写词
+│   └── merge_vocabularies.py    # [工具] 合并缩写词到主库
+└── words/                      # [精简] 处理后的精简数据 (推荐直接使用)
+    ├── ai_words.txt            # 人工智能领域精简词汇
+    ├── cloud_backend_words.txt  # 云计算/后端领域精简词汇
+    ├── frontend_web_words.txt   # 前端/Web 领域精简词汇
+    ├── computer_science_words.txt # 计算机基础领域精简词汇
+    └── all_words.txt           # 汇总精简词汇 (按领域排序)
 ```
 
-## 数据格式说明 (`vocabulary.json`)
+## 数据说明
 
-词库按首字母进行分类存储，格式如下：
+### 领域分类
+- **AI/LLM**: 深度学习、自然语言处理、神经网络等。
+- **Cloud/Backend**: 微服务、Docker/K8s、数据库、系统架构。
+- **Frontend/Web**: 浏览器引擎、框架（React/Vue）、CSS、Web 标准。
+- **CS Fundamentals**: 数据结构、算法、计算机网络、操作系统。
 
-```json
-{
-  "a": {
-    "algorithm": ["算法"],
-    "array": ["数组"]
-  },
-  "b": {
-    "boolean": ["布尔值"]
-  }
-}
-```
-
-- **Keys (a, b, ...)**: 单词首小写字母。
-- **Word Keys ("algorithm")**: 具体的英文单词或短语。
-- **Values (["算法"])**: 对应的中文翻译（数组格式，支持多义词，但目前主要使用第一个释义）。
+### 数据版本
+- **vocabulary**: 包含全量词库，适合程序化、结构化查询。
+- **words**: 已剔除 high-frequency (高频) 简单词（如 "if", "get", "set" 等），专注于专业核心术语，适合人工记忆。
 
 ## 如何使用
 
-### 1. 运行环境
-确保您的系统中已安装 Python 3.x。
+### 1. 使用精简数据
+直接访问 `words/` 目录下的相应文件。这些文件已按“英文一行、中文一行”的格式排版。
 
-### 2. 生成/更新词汇表
-当您修改了 `vocabulary.json` 后，运行以下命令来更新文本文件：
-
+### 2. 更新全量原始列表
+在 `vocabulary` 目录下运行 `convert.py`：
 ```bash
-python convert.py
+python vocabulary/convert.py
 ```
 
-脚本运行成功后，会输出以下提示，并覆盖更新 `vocabulary_english.txt` 和 `vocabulary_mixed.txt`：
-
-```text
-Successfully converted to:
-1. .../vocabulary_english.txt
-2. .../vocabulary_mixed.txt
-```
-
-### 3. 查看结果
-- **vocabulary_english.txt**: 仅包含英文单词，适合听写或自我测试。
-- **vocabulary_mixed.txt**: 包含“单词 + 换行 + 翻译”的格式，适合对照学习。
+### 3. 处理缩写词
+- **提取**: `python vocabulary/extract_abbreviations.py`（从 `vocabulary.json` 中自动识别）。
+- **合并**: `python vocabulary/merge_vocabularies.py`（将更新后的缩写词写回主库）。
 
 ## 贡献指南
 
-欢迎提交 Pull Request 来扩充词库！请确保：
-1. 在 `vocabulary.json` 中找到对应的首字母分类。
-2. 按照 JSON 格式添加新的单词和翻译。
-3. 提交前请运行 `python convert.py` 确保 JSON 格式正确且能正常生成文件。
+欢迎参与词库扩充！您可以：
+1. 直接在 `vocabulary/vocabulary.json` 中添加词条。
+2. 完善 `words/` 目录下的分类词库内容。
+3. 提交 PR 前请运行 `convert.py` 以确保同步。
